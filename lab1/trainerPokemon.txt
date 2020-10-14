@@ -1,0 +1,6 @@
+# format for file is:
+# ClassName, Weight, HP, Lat, Long
+#
+Bulbasaur, 225, 160, 49.159706, -123.907757
+Paras, 140, 160, 49.159836, -123.908857
+Pikachu, 50, 230, 49.159966, -123.903657

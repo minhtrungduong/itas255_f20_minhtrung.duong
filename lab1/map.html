@@ -1,0 +1,199 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="author" content="Minh Trung Duong">
+    <meta name="description" content="This is Example of ITAS 191">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <title>Pokemon Nanaimo Map! </title>
+
+    <link rel ="stylesheet" href="css2.css"/> 
+
+    <style>  
+        
+    </style>
+
+
+</head>
+
+<body>
+    <!-- <div> <header id = "header"> Pokemon Nanaimo Map! </header> </div> -->
+
+    
+    <div id="menu">                  
+        
+    </div>
+
+    <div id="container"> 
+        <div id="left">
+                
+        
+           
+                <script
+                    src="https://code.jquery.com/jquery-3.4.1.min.js"
+                    integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo="
+                    crossorigin="anonymous">
+                </script>
+                <!-- old version of JQuery! -->
+                <!-- <script src="http://code.jquery.com/jquery-1.9.1.min.js"></script> -->
+                <script>
+            
+                    var map;
+                    var myMarkers = [];
+            
+                    function initMap() {
+                        var nanaimo = {lat: 49.159700, lng: -123.907750};
+                        map = new google.maps.Map(document.getElementById('map'), {
+                            zoom: 13,
+                            center: nanaimo
+                        });
+                    }
+            
+                    function clearMarkers() {
+                        for (var i = 0; i < myMarkers.length; i++) {
+                            //console.log("Clearing marker: [" + i + "]");
+                            myMarkers[i].setMap(null);
+                        }
+                        myMarkers = [];
+                    }
+            
+                    $(document).ready(function () {
+            
+                        console.log("Document ready!");
+            
+                        $('#reset').click(function () {
+            
+                            // remove any previous markers
+                            clearMarkers();
+            
+                            var url = 'getPokemon.php?reset=true';
+                            var data = {};
+                            $.getJSON(url, data, function (data, status) {
+                                console.log("Back from the reset");
+                                var showData = $('#show-data');
+                                showData.text("Session Reset");
+                            });
+                        });
+            
+                        $('#get-data').click(function () {
+            
+                            // remove any previous markers
+                            // DC: note this might be somewhat inefficient.. for performance you might have to keep an index
+                            // of which marker is for which pokemon, and update the lat and long accordingly
+                            clearMarkers();
+            
+                            var showData = $('#show-data');
+                            showData.empty();
+            
+                            var url = 'getPokemon.php';
+                            var data = {
+                                q: 'search',
+                                text: 'not implemented yet!'
+                            };
+                            console.log("Sending request for Pokemon marker list...");
+                    
+                    try {
+                            $.getJSON(url, data, function (data, status) {
+                                console.log("Ajax call completed, status is: " + status);
+            
+                                // show the  message from the data
+                                showData.text(data.message);
+            
+                                //console.log("Setting up markers");
+            
+                                data.markers.forEach(function (marker) {
+                                    //console.log("Creating marker on map");
+                                    var myLatlng = new google.maps.LatLng(marker.lat, marker.long);
+            
+                                    //var image = marker.image;
+            
+                                    var myIcon = new google.maps.MarkerImage(("images/" + marker.image), null, null, null, new google.maps.Size(40,40));
+            
+                                    var mmarker = new google.maps.Marker({
+                                        position: myLatlng,
+                                        map: map,
+                                        title:marker.name,
+                                        icon: myIcon
+                                    });
+            
+                                    // add this marker to our array of markers
+                                    myMarkers.push(mmarker);
+                                });
+                            })
+                    } catch (error) {
+                        console.log("Error requesting JSON data: " + error);
+                    }
+            
+                        });
+                    });
+                </script>
+       
+            
+            <body>
+            <div id="map" style="width: 800px; height: 500px"></div>
+            <a href="#" id="get-data">Attack! </a>
+            <br>
+            <a href="#" id="reset">Reset</a>
+            
+            <div id="show-data"></div>
+            
+            <!-- NOTE this google map is using an ITAS Google Map key! Do not use for any of your private applications hosted live anywhere-->
+            <script async defer
+                    src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCF5iN14sUy9WzduVEryu_klaJZDDG6Tr0&callback=initMap">
+            </script>
+            
+            
+            </body>
+            </html>
+            
+             
+        </div>         
+        <div id="right">      
+        <h2> Pokemon list </h2>
+
+            <table id="table1">
+                <tr id="firstcol">
+                    <td>Image</td>
+                    <td>Pokemon Name</td>                   
+                    <td>Type</td>
+                    <td>Super power</td>
+                    <td>Damage</td>                    
+                </tr>
+                <tr>
+                    <td><img src="images/pikachu.png" height="20%" width="20%" alt="" /></td>
+                    <td>Pikachu</td>
+                    <td>elctro</td>
+                    <td>1.5</td>
+                    <td>23</td>  
+                </tr>
+                <tr>
+                    <td><img src="images/bulbasaur.png" height="20%" width="20%" alt="" /></td>
+                    <td>Bulbasaur</td>
+                    <td>grass</td>
+                    <td>0.3</td>
+                    <td>23</td>                  
+                </tr>
+                <tr>
+                    <td><img src="images/paras.png" height="20%" width="20%" alt="" /></td>
+                    <td>Paras</td>
+                    <td>grass</td>
+                    <td>0.4</td>
+                    <td>34</td>                   
+                </tr>
+
+                <tr>
+                    <td><img src="images/pidgey.png" height="20%" width="20%" alt="" /></td>
+                    <td>Pidgey</td>
+                    <td>fly</td>
+                    <td>0.4</td>
+                    <td>54</td>                   
+                </tr>
+            </table>        
+                     
+        </div> 
+       
+    </div>
+  
+</body>
+
+</html>
