@@ -1,0 +1,8 @@
+#foobar_notification-types_type-field label{width:100px;height:100px;text-align:center;margin-left:10px;line-height:1.5;display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-pack:center;-ms-flex-pack:center;justify-content:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;font-weight:bold;background:#eee;border-color:#ddd}
+#foobar_notification-types_type-field label.foofields-selected{border-color:#888}
+#foobar_notification-settings-message_color-field span,#foobar_notification-settings-cta_color-field span,#foobar_notification-settings-cookie_color-field span{display:inline-block;width:32px;height:32px}
+#foobar_notification-shortcode_shortcode-field .foobar-shortcode{cursor:pointer;text-align:center;padding:10px;font-family:"courier new",courier,serif;border:0;-webkit-box-shadow:none;box-shadow:none;background:#efefef}
+.wp-list-table .foobar-shortcode{cursor:pointer;font-size:1em;border:0;-webkit-box-shadow:none;box-shadow:none;background:#efefef;font-family:"courier new",courier,serif}
+.foobar-shortcode-message{display:none;font-style:italic;color:#2ea2cc !important}
+tr.foobar-preview-loading .row-title{position:relative}
+tr.foobar-preview-loading .row-title:after{content:'';background:url(/wp-admin/images/spinner.gif) no-repeat;background-size:20px 20px;display:inline-block;opacity:.7;filter:alpha(opacity=70);width:20px;height:20px;border:0;position:absolute;top:50%;right:-24px;-webkit-transform:translateY(-50%);transform:translateY(-50%)}

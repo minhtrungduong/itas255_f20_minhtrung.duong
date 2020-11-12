@@ -1,0 +1,1 @@
+{"version":3,"sources":["notification-settings.scss","notification-settings.css"],"names":[],"mappings":"AAAA,iDCEE,qBAAqB,EACrB,WAAW,EACX,YAAY,EAAA;;AAFd,6VAA6V","file":"../notification-settings.css","sourcesContent":["#foobar_notification-settings_color-field {\n\tspan {\n\t\tdisplay: inline-block;\n\t\twidth: 32px;\n\t\theight: 32px;\n\t}\n}\n"]}

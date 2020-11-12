@@ -1,0 +1,849 @@
+# Copyright (C) 2020 FooBar
+# This file is distributed under the same license as the FooBar package.
+msgid ""
+msgstr ""
+"Project-Id-Version: FooBar\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language-Team: FooPlugins <info@fooplugins.com>\n"
+"Last-Translator: Brad Vincent <brad@fooplugins.com>\n"
+"Report-Msgid-Bugs-To: https://fooplugins.com\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: includes/admin/class-help.php:29
+msgid "FooBar Help"
+msgstr ""
+
+#: includes/admin/class-help.php:30
+msgid "Help"
+msgstr ""
+
+#: includes/admin/class-help.php:64
+msgid "%s demos created successfully"
+msgstr ""
+
+#: includes/admin/class-settings.php:17
+msgid "General"
+msgstr ""
+
+#: includes/admin/class-settings.php:23
+msgid "Always Enqueue Assets"
+msgstr ""
+
+#: includes/admin/class-settings.php:24
+msgid "By default, FooBar javascript and stylesheet assets are only enqueued in your pages when needed. Some themes always need these assets in order to function."
+msgstr ""
+
+#: includes/admin/class-settings.php:29
+msgid "Enable Debug Mode"
+msgstr ""
+
+#: includes/admin/class-settings.php:30
+msgid "Helps to debug problems and diagnose issues. Enable debugging if you need support for an issue you are having."
+msgstr ""
+
+#: includes/admin/class-settings.php:37, includes/admin/notification/class-metabox-settings.php:412
+msgid "Advanced"
+msgstr ""
+
+#: includes/admin/class-settings.php:43
+msgid "Demo Content Created"
+msgstr ""
+
+#: includes/admin/class-settings.php:44
+msgid "If the demo content has been created, then this will be checked. You can uncheck this to allow for demo content to be created again."
+msgstr ""
+
+#: includes/admin/class-settings.php:51
+msgid "System Info"
+msgstr ""
+
+#: includes/admin/class-settings.php:56
+msgid "Your System Information"
+msgstr ""
+
+#: includes/admin/class-settings.php:57
+msgid "The below system info can be used when submitting a support ticket, to help us replicate your environment."
+msgstr ""
+
+#: includes/admin/class-settings.php:80
+msgid "FooBar Settings"
+msgstr ""
+
+#: includes/admin/class-settings.php:81
+msgid "Settings"
+msgstr ""
+
+#: includes/admin/notification/class-columns.php:36
+msgid "Type"
+msgstr ""
+
+#: includes/admin/notification/class-columns.php:37, includes/admin/notification/class-metabox-settings.php:332
+msgid "Visibility"
+msgstr ""
+
+#: includes/admin/notification/class-columns.php:38, includes/admin/notification/class-metabox-shortcode.php:17
+msgid "Shortcode"
+msgstr ""
+
+#: includes/admin/notification/class-columns.php:85, includes/admin/notification/class-metabox-shortcode.php:60
+msgid "Shortcode copied to clipboard :)"
+msgstr ""
+
+#: includes/admin/notification/class-metabox-preview.php:17
+msgid "Frontend Preview"
+msgstr ""
+
+#: includes/admin/notification/class-metabox-preview.php:71
+msgid "Preview not available yet!"
+msgstr ""
+
+#: includes/admin/notification/class-metabox-preview.php:64
+msgid "Launch Frontend Preview"
+msgstr ""
+
+#: includes/admin/notification/class-metabox-preview.php:68
+msgid "Remember to \"Update\" to see your changes in the frontend preview."
+msgstr ""
+
+#: includes/admin/notification/class-metabox-preview.php:69
+msgid "You can preview the bar on any page, by adding %s to the URL"
+msgstr ""
+
+#: includes/admin/notification/class-metabox-settings-call-to-action.php:16
+msgid "Call-To-Action Settings"
+msgstr ""
+
+#: includes/admin/notification/class-metabox-settings-call-to-action.php:40
+msgid "CTA Button Position"
+msgstr ""
+
+#: includes/admin/notification/class-metabox-settings-call-to-action.php:41
+msgid "You can override the position of the Call-To-Action button."
+msgstr ""
+
+#: includes/admin/notification/class-metabox-settings-call-to-action.php:46, includes/admin/notification/class-metabox-settings-cookie.php:46, includes/admin/notification/class-metabox-settings.php:173
+msgid "Default"
+msgstr ""
+
+#: includes/admin/notification/class-metabox-settings-call-to-action.php:47, includes/admin/notification/class-metabox-settings-cookie.php:47
+msgid "The default button position, depending on the RTL orientation."
+msgstr ""
+
+#: includes/admin/notification/class-metabox-settings-call-to-action.php:50, includes/admin/notification/class-metabox-settings-cookie.php:50, includes/admin/notification/class-metabox-settings.php:177
+msgid "Force Left"
+msgstr ""
+
+#: includes/admin/notification/class-metabox-settings-call-to-action.php:51, includes/admin/notification/class-metabox-settings-call-to-action.php:55, includes/admin/notification/class-metabox-settings-cookie.php:51, includes/admin/notification/class-metabox-settings-cookie.php:55
+msgid "Forces the button to be displayed on the left"
+msgstr ""
+
+#: includes/admin/notification/class-metabox-settings-call-to-action.php:54, includes/admin/notification/class-metabox-settings-cookie.php:54, includes/admin/notification/class-metabox-settings.php:181
+msgid "Force Right"
+msgstr ""
+
+#: includes/admin/notification/class-metabox-settings-call-to-action.php:69, includes/admin/notification/class-metabox-settings-cookie.php:80, includes/admin/notification/class-metabox-settings-message.php:30
+msgid "Content"
+msgstr ""
+
+#: includes/admin/notification/class-metabox-settings-call-to-action.php:76
+msgid "CTA Text"
+msgstr ""
+
+#: includes/admin/notification/class-metabox-settings-call-to-action.php:77
+msgid "The call-to-action message that will be shown."
+msgstr ""
+
+#: includes/admin/notification/class-metabox-settings-call-to-action.php:78
+msgid "Get a 15% discount before our sale ends!"
+msgstr ""
+
+#: includes/admin/notification/class-metabox-settings-call-to-action.php:85
+msgid "Button Text"
+msgstr ""
+
+#: includes/admin/notification/class-metabox-settings-call-to-action.php:86
+msgid "Shop Now"
+msgstr ""
+
+#: includes/admin/notification/class-metabox-settings-call-to-action.php:93
+msgid "Button URL"
+msgstr ""
+
+#: includes/admin/notification/class-metabox-settings-call-to-action.php:99
+msgid "Button Target"
+msgstr ""
+
+#: includes/admin/notification/class-metabox-settings-call-to-action.php:103, includes/admin/notification/class-metabox-settings-cookie.php:147, includes/admin/notification/class-metabox-settings-message.php:86
+msgid "Same Window"
+msgstr ""
+
+#: includes/admin/notification/class-metabox-settings-call-to-action.php:104, includes/admin/notification/class-metabox-settings-cookie.php:148, includes/admin/notification/class-metabox-settings-message.php:87
+msgid "New Tab"
+msgstr ""
+
+#: includes/admin/notification/class-metabox-settings-cookie.php:16
+msgid "Cookie Notice Settings"
+msgstr ""
+
+#: includes/admin/notification/class-metabox-settings-cookie.php:40
+msgid "Button Position"
+msgstr ""
+
+#: includes/admin/notification/class-metabox-settings-cookie.php:41
+msgid "You can override the position of the Accept button."
+msgstr ""
+
+#: includes/admin/notification/class-metabox-settings-cookie.php:87
+msgid "Cookie Notice Text"
+msgstr ""
+
+#: includes/admin/notification/class-metabox-settings-cookie.php:88
+msgid "The cookie notice that will be shown to your visitors."
+msgstr ""
+
+#: includes/admin/notification/class-metabox-settings-cookie.php:89
+msgid "%s uses cookies to personalise and improve your user experience. If you continue to use this website, you will be providing consent to our use of cookies."
+msgstr ""
+
+#: includes/admin/notification/class-metabox-settings-cookie.php:96
+msgid "Accept Button Text"
+msgstr ""
+
+#: includes/admin/notification/class-metabox-settings-cookie.php:97
+msgid "The accept button will close the bar if clicked."
+msgstr ""
+
+#: includes/admin/notification/class-metabox-settings-cookie.php:98, includes/renderers/items/class-cookie.php:31
+msgid "Accept"
+msgstr ""
+
+#: includes/admin/notification/class-metabox-settings-cookie.php:106
+msgid "Show Policy Link?"
+msgstr ""
+
+#: includes/admin/notification/class-metabox-settings-cookie.php:107
+msgid "Do you want to show an anchor link to your privacy policy page?"
+msgstr ""
+
+#: includes/admin/notification/class-metabox-settings-cookie.php:111, includes/admin/notification/class-metabox-settings-message.php:52, includes/admin/notification/class-metabox-settings.php:81, includes/admin/notification/class-metabox-settings.php:249
+msgid "Yes"
+msgstr ""
+
+#: includes/admin/notification/class-metabox-settings-cookie.php:112, includes/admin/notification/class-metabox-settings-message.php:53, includes/admin/notification/class-metabox-settings.php:85, includes/admin/notification/class-metabox-settings.php:253
+msgid "No"
+msgstr ""
+
+#: includes/admin/notification/class-metabox-settings-cookie.php:117
+msgid "Policy Link Text"
+msgstr ""
+
+#: includes/admin/notification/class-metabox-settings-cookie.php:118
+msgid "Privacy Policy"
+msgstr ""
+
+#: includes/admin/notification/class-metabox-settings-cookie.php:131
+msgid "Policy Link URL"
+msgstr ""
+
+#: includes/admin/notification/class-metabox-settings-cookie.php:143
+msgid "Policy Link Target"
+msgstr ""
+
+#: includes/admin/notification/class-metabox-settings-message.php:13
+msgid "Announcement Settings"
+msgstr ""
+
+#: includes/admin/notification/class-metabox-settings-message.php:37
+msgid "Announcement Text"
+msgstr ""
+
+#: includes/admin/notification/class-metabox-settings-message.php:38
+msgid "Welcome to our website. Please enjoy your visit..."
+msgstr ""
+
+#: includes/admin/notification/class-metabox-settings-message.php:39
+msgid "The announcement message that will be shown to your visitors. It can also contain %s 😀"
+msgstr ""
+
+#: includes/admin/notification/class-metabox-settings-message.php:39
+msgid "emoji's"
+msgstr ""
+
+#: includes/admin/notification/class-metabox-settings-message.php:47
+msgid "Show Link?"
+msgstr ""
+
+#: includes/admin/notification/class-metabox-settings-message.php:48
+msgid "Do you want to show an anchor link next to the announcement?"
+msgstr ""
+
+#: includes/admin/notification/class-metabox-settings-message.php:58
+msgid "Link Text"
+msgstr ""
+
+#: includes/admin/notification/class-metabox-settings-message.php:71
+msgid "Link URL"
+msgstr ""
+
+#: includes/admin/notification/class-metabox-settings-message.php:82
+msgid "Link Target"
+msgstr ""
+
+#: includes/admin/notification/class-metabox-settings.php:52
+msgid "Top"
+msgstr ""
+
+#: includes/admin/notification/class-metabox-settings.php:53
+msgid "Shows a sticky bar at the top of the page"
+msgstr ""
+
+#: includes/admin/notification/class-metabox-settings.php:56
+msgid "Top (Scrolls)"
+msgstr ""
+
+#: includes/admin/notification/class-metabox-settings.php:57
+msgid "Shows a top bar that will scroll with the page"
+msgstr ""
+
+#: includes/admin/notification/class-metabox-settings.php:60
+msgid "Bottom"
+msgstr ""
+
+#: includes/admin/notification/class-metabox-settings.php:61
+msgid "Shows a sticky bar along the bottom of the page"
+msgstr ""
+
+#: includes/admin/notification/class-metabox-settings.php:82
+msgid "The bar will push the page to try avoid hiding content"
+msgstr ""
+
+#: includes/admin/notification/class-metabox-settings.php:86
+msgid "The bar is simply positioned within the page and may overlap content"
+msgstr ""
+
+#: includes/admin/notification/class-metabox-settings.php:94
+msgid "Slide"
+msgstr ""
+
+#: includes/admin/notification/class-metabox-settings.php:95
+msgid "A slide animation is used when opening or closing the bar"
+msgstr ""
+
+#: includes/admin/notification/class-metabox-settings.php:98
+msgid "Fade"
+msgstr ""
+
+#: includes/admin/notification/class-metabox-settings.php:99
+msgid "A fade animation is used when opening or closing the bar"
+msgstr ""
+
+#: includes/admin/notification/class-metabox-settings.php:102
+msgid "Slide + Fade"
+msgstr ""
+
+#: includes/admin/notification/class-metabox-settings.php:103
+msgid "The bar will slide and fade at the same time"
+msgstr ""
+
+#: includes/admin/notification/class-metabox-settings.php:106, includes/admin/notification/class-metabox-settings.php:164
+msgid "None"
+msgstr ""
+
+#: includes/admin/notification/class-metabox-settings.php:107
+msgid "No transition is used - it is immediate"
+msgstr ""
+
+#: includes/admin/notification/class-metabox-settings.php:115
+msgid "Blue"
+msgstr ""
+
+#: includes/admin/notification/class-metabox-settings.php:119
+msgid "Green"
+msgstr ""
+
+#: includes/admin/notification/class-metabox-settings.php:123
+msgid "Purple"
+msgstr ""
+
+#: includes/admin/notification/class-metabox-settings.php:127
+msgid "Red"
+msgstr ""
+
+#: includes/admin/notification/class-metabox-settings.php:131
+msgid "Orange"
+msgstr ""
+
+#: includes/admin/notification/class-metabox-settings.php:135
+msgid "Yellow"
+msgstr ""
+
+#: includes/admin/notification/class-metabox-settings.php:139
+msgid "Dark"
+msgstr ""
+
+#: includes/admin/notification/class-metabox-settings.php:143
+msgid "Light"
+msgstr ""
+
+#: includes/admin/notification/class-metabox-settings.php:152
+msgid "Square"
+msgstr ""
+
+#: includes/admin/notification/class-metabox-settings.php:153
+msgid "The default toggle button shape, which is square"
+msgstr ""
+
+#: includes/admin/notification/class-metabox-settings.php:156
+msgid "Circle"
+msgstr ""
+
+#: includes/admin/notification/class-metabox-settings.php:157
+msgid "A circular toggle button"
+msgstr ""
+
+#: includes/admin/notification/class-metabox-settings.php:160
+msgid "Overlap"
+msgstr ""
+
+#: includes/admin/notification/class-metabox-settings.php:161
+msgid "A square toggle button which overlaps the bar"
+msgstr ""
+
+#: includes/admin/notification/class-metabox-settings.php:165
+msgid "Do not show a toggle button"
+msgstr ""
+
+#: includes/admin/notification/class-metabox-settings.php:174
+msgid "The default toggle button position, which could change based on the type and position."
+msgstr ""
+
+#: includes/admin/notification/class-metabox-settings.php:178, includes/admin/notification/class-metabox-settings.php:182
+msgid "Forces the toggle to be displayed on the left"
+msgstr ""
+
+#: includes/admin/notification/class-metabox-settings.php:190
+msgid "Toggle"
+msgstr ""
+
+#: includes/admin/notification/class-metabox-settings.php:191
+msgid "The toggle button will expand or collapse the bar."
+msgstr ""
+
+#: includes/admin/notification/class-metabox-settings.php:194
+msgid "Close"
+msgstr ""
+
+#: includes/admin/notification/class-metabox-settings.php:195
+msgid "Closing the bar will remove it from the page completely."
+msgstr ""
+
+#: includes/admin/notification/class-metabox-settings.php:207
+msgid "Opened"
+msgstr ""
+
+#: includes/admin/notification/class-metabox-settings.php:208
+msgid "Open the bar when the page loads"
+msgstr ""
+
+#: includes/admin/notification/class-metabox-settings.php:211
+msgid "Collapsed"
+msgstr ""
+
+#: includes/admin/notification/class-metabox-settings.php:212
+msgid "The bar will be collapsed when the page loads"
+msgstr ""
+
+#: includes/admin/notification/class-metabox-settings.php:224
+msgid "Do Not Show"
+msgstr ""
+
+#: includes/admin/notification/class-metabox-settings.php:225
+msgid "Do not show the bar anywhere on the site"
+msgstr ""
+
+#: includes/admin/notification/class-metabox-settings.php:228
+msgid "Always Show"
+msgstr ""
+
+#: includes/admin/notification/class-metabox-settings.php:229
+msgid "Display the bar on every page of the website"
+msgstr ""
+
+#: includes/admin/notification/class-metabox-settings.php:250
+msgid "The bar state will be remembered when the page is refreshed."
+msgstr ""
+
+#: includes/admin/notification/class-metabox-settings.php:254
+msgid "The state of the bar will not be remembered when the page is refreshed."
+msgstr ""
+
+#: includes/admin/notification/class-metabox-settings.php:262
+msgid "Appearance"
+msgstr ""
+
+#: includes/admin/notification/class-metabox-settings.php:268
+msgid "Color Scheme"
+msgstr ""
+
+#: includes/admin/notification/class-metabox-settings.php:269
+msgid "Choose from one of the pre-defined color schemes available for your bar."
+msgstr ""
+
+#: includes/admin/notification/class-metabox-settings.php:277
+msgid "Transition"
+msgstr ""
+
+#: includes/admin/notification/class-metabox-settings.php:278
+msgid "What transition should the bar use when opening or closing?"
+msgstr ""
+
+#: includes/admin/notification/class-metabox-settings.php:286
+msgid "Toggle Shape"
+msgstr ""
+
+#: includes/admin/notification/class-metabox-settings.php:287
+msgid "The toggle is the small button on the the side of the bar with an icon. What do you want the toggle button shape to look like?"
+msgstr ""
+
+#: includes/admin/notification/class-metabox-settings.php:295
+msgid "Toggle Action"
+msgstr ""
+
+#: includes/admin/notification/class-metabox-settings.php:296
+msgid "What happens when the toggle button is clicked? "
+msgstr ""
+
+#: includes/admin/notification/class-metabox-settings.php:311
+msgid "Toggle Position"
+msgstr ""
+
+#: includes/admin/notification/class-metabox-settings.php:312
+msgid "You can override the position of the toggle button."
+msgstr ""
+
+#: includes/admin/notification/class-metabox-settings.php:338
+msgid "Position"
+msgstr ""
+
+#: includes/admin/notification/class-metabox-settings.php:339
+msgid "Where do you want the bar to show on the page?"
+msgstr ""
+
+#: includes/admin/notification/class-metabox-settings.php:363
+msgid "Display Rules"
+msgstr ""
+
+#: includes/admin/notification/class-metabox-settings.php:364
+msgid "On which pages do you want to show the bar?"
+msgstr ""
+
+#: includes/admin/notification/class-metabox-settings.php:372
+msgid "The bar will only show on pages where you have included the shortcode for this particular bar."
+msgstr ""
+
+#: includes/admin/notification/class-metabox-settings.php:384
+msgid "Open Rules"
+msgstr ""
+
+#: includes/admin/notification/class-metabox-settings.php:385
+msgid "Is the bar opened or collapsed when the page loads?"
+msgstr ""
+
+#: includes/admin/notification/class-metabox-settings.php:393
+msgid "Remember State"
+msgstr ""
+
+#: includes/admin/notification/class-metabox-settings.php:394
+msgid "Remember the state of the bar across page refreshes. If a visitor closes the bar, when they refresh the page again, it will stay closed."
+msgstr ""
+
+#: includes/admin/notification/class-metabox-settings.php:402
+msgid "FooBar Previews : state will NOT be remembered when previewing a bar on this page and Frontend Previews. This is to prevent a bar from behaving differently to what is expected."
+msgstr ""
+
+#: includes/admin/notification/class-metabox-shortcode.php:63
+msgid "Shortcode not available yet!"
+msgstr ""
+
+#: includes/admin/notification/class-metabox-shortcode.php:61
+msgid "Paste the above shortcode into a post or page to show the notification."
+msgstr ""
+
+#: includes/admin/notification/class-metabox-types.php:16
+msgid "What type of notification do you want to create?"
+msgstr ""
+
+#: includes/admin/notification/class-preview.php:64
+msgid "Preview"
+msgstr ""
+
+#: includes/admin/views/help.php:6, includes/posttypes/class-notification.php:33
+msgid "FooBar"
+msgstr ""
+
+#: includes/admin/views/help.php:7
+msgid "Thank you for choosing FooBar, the WordPress Notification Plugin that helps your business grow!"
+msgstr ""
+
+#: includes/admin/views/help.php:8
+msgid "Made with ❤️ by %s"
+msgstr ""
+
+#: includes/admin/views/help.php:9
+msgid "FooPlugins"
+msgstr ""
+
+#: includes/admin/views/help.php:10
+msgid "Visit the FooBar Homepage"
+msgstr ""
+
+#: includes/admin/views/help.php:19
+msgid "Upgrade to PRO"
+msgstr ""
+
+#: includes/admin/views/help.php:20
+msgid "Upgrade to PRO!"
+msgstr ""
+
+#: includes/admin/views/help.php:22
+msgid "Free Trial"
+msgstr ""
+
+#: includes/admin/views/help.php:23
+msgid "Already convinced? Upgrade to PRO!"
+msgstr ""
+
+#: includes/admin/views/help.php:369
+msgid "Getting Started"
+msgstr ""
+
+#: includes/admin/views/help.php:377
+msgid "Demos"
+msgstr ""
+
+#: includes/admin/views/help.php:380
+msgid "Support"
+msgstr ""
+
+#: includes/admin/views/help.php:387
+msgid "Create Demo Notifications"
+msgstr ""
+
+#: includes/admin/views/help.php:388
+msgid "It's always best to see what is possible by looking at the real thing. If you want to get started really quickly without any hassle, then we can import some demo notification bars for you. This will create a number of pre-defined notification bars which you can easily edit and make your own."
+msgstr ""
+
+#: includes/admin/views/help.php:389
+msgid "Create Notifications"
+msgstr ""
+
+#: includes/admin/views/help.php:393
+msgid "Preview Your Notifications"
+msgstr ""
+
+#: includes/admin/views/help.php:398
+msgid "You can easily preview all your notifications from one place : %s"
+msgstr ""
+
+#: includes/admin/views/help.php:398
+msgid "FooBar &rarr; Notifications"
+msgstr ""
+
+#: includes/admin/views/help.php:401
+msgid "1. Hover over a notification"
+msgstr ""
+
+#: includes/admin/views/help.php:403
+msgid "2. Click Preview"
+msgstr ""
+
+#: includes/admin/views/help.php:405
+msgid "A preview will load in the WordPress admin, to show you exactly how it will look."
+msgstr ""
+
+#: includes/admin/views/help.php:407
+msgid "TIP : Want to see how it will look on your actual site? Edit a notification, and click \"Launch Frontend Preview\"."
+msgstr ""
+
+#: includes/admin/views/help.php:416
+msgid "How To Create Your First Notification"
+msgstr ""
+
+#: includes/admin/views/help.php:419
+msgid "FooBar &rarr; Add Notification"
+msgstr ""
+
+#: includes/admin/views/help.php:420
+msgid "To create your first notification, simply click the Add New button or click the Add Notification link in the main menu under FooBar."
+msgstr ""
+
+#: includes/admin/views/help.php:422
+msgid "1. Enter a Title"
+msgstr ""
+
+#: includes/admin/views/help.php:424
+msgid "2. Choose Notification Type"
+msgstr ""
+
+#: includes/admin/views/help.php:426
+msgid "3. Customize Settings"
+msgstr ""
+
+#: includes/admin/views/help.php:436
+msgid "Make Your Notification Visible"
+msgstr ""
+
+#: includes/admin/views/help.php:439
+msgid "By default, your notification will not be visible. You decide when and where to make it visible."
+msgstr ""
+
+#: includes/admin/views/help.php:441
+msgid "Always Show "
+msgstr ""
+
+#: includes/admin/views/help.php:442
+msgid "If you want to show on all pages, under Visibility, set the Display Rule to \"Always Show\"."
+msgstr ""
+
+#: includes/admin/views/help.php:444
+msgid "The <em>[%s]</em> Short Code"
+msgstr ""
+
+#: includes/admin/views/help.php:445
+msgid "Simply copy the shortcode code from the notifications listing and paste it into your posts or pages."
+msgstr ""
+
+#: includes/admin/views/help.php:457
+msgid "FooBar PRO Free Trial 🤩"
+msgstr ""
+
+#: includes/admin/views/help.php:458
+msgid "Want to test out all the PRO features? No problem! You can start a 7-day free trial immediately!"
+msgstr ""
+
+#: includes/admin/views/help.php:459
+msgid "Start Your 7-day Free Trial"
+msgstr ""
+
+#: includes/admin/views/help.php:465
+msgid "FooBar Demos 😎"
+msgstr ""
+
+#: includes/admin/views/help.php:466
+msgid "Try the demos below by clicking on the buttons:"
+msgstr ""
+
+#: includes/admin/views/help.php:480
+msgid "🚑 Need help? We're here for you..."
+msgstr ""
+
+#: includes/admin/views/help.php:482
+msgid "FooBar Documentation"
+msgstr ""
+
+#: includes/admin/views/help.php:482
+msgid "Our documentation covers everything you need to know from how to install the plugin and use it, to troubleshooting common issues."
+msgstr ""
+
+#: includes/admin/views/help.php:484
+msgid "Foobar WordPress.org Support"
+msgstr ""
+
+#: includes/admin/views/help.php:484
+msgid "We actively monitor and answer all questions posted on WordPress.org for FooBar."
+msgstr ""
+
+#: includes/admin/views/help.php:487
+msgid "Still stuck? Please open a support ticket and we will help:"
+msgstr ""
+
+#: includes/functions.php:255
+msgid "Announcement"
+msgstr ""
+
+#: includes/functions.php:256
+msgid "Shows a simple announcement message with an optional link"
+msgstr ""
+
+#: includes/functions.php:263
+msgid "Call To Action"
+msgstr ""
+
+#: includes/functions.php:264
+msgid "Shows a message with a call-to-action button"
+msgstr ""
+
+#: includes/functions.php:268
+msgid "Cookie Notice"
+msgstr ""
+
+#: includes/functions.php:269
+msgid "Shows a cookie notice with an accept button"
+msgstr ""
+
+#: includes/functions.php:498
+msgid "Everywhere"
+msgstr ""
+
+#: includes/functions.php:500
+msgid "Specific pages with shortcode"
+msgstr ""
+
+#: includes/posttypes/class-notification.php:23, includes/posttypes/class-notification.php:34
+msgid "Notifications"
+msgstr ""
+
+#: includes/posttypes/class-notification.php:24
+msgid "Notification"
+msgstr ""
+
+#: includes/posttypes/class-notification.php:25
+msgid "Add Notification"
+msgstr ""
+
+#: includes/posttypes/class-notification.php:26
+msgid "Add New Notification"
+msgstr ""
+
+#: includes/posttypes/class-notification.php:27
+msgid "Edit Notification"
+msgstr ""
+
+#: includes/posttypes/class-notification.php:28
+msgid "New Notification"
+msgstr ""
+
+#: includes/posttypes/class-notification.php:29
+msgid "View Notifications"
+msgstr ""
+
+#: includes/posttypes/class-notification.php:30
+msgid "Search Notifications"
+msgstr ""
+
+#: includes/posttypes/class-notification.php:31
+msgid "No Notifications found"
+msgstr ""
+
+#: includes/posttypes/class-notification.php:32
+msgid "No Notifications found in Trash"
+msgstr ""
+
+#: includes/startup-checks.php:16
+msgid "%s could not be initialized because you need to be running at least PHP version %s, and you are running version %s"
+msgstr ""
+
+#: includes/startup-checks.php:31
+msgid "%s could not be initialized because you need WordPress to be at least version %s, and you are running version %s"
+msgstr ""
+
+#: includes/startup-checks.php:32
+msgid "Update WordPress now."
+msgstr ""

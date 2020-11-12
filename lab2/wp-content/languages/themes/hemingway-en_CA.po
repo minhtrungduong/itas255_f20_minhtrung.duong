@@ -1,0 +1,273 @@
+# Translation of Themes - Hemingway in English (Canada)
+# This file is distributed under the same license as the Themes - Hemingway package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-06-06 04:51:49+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: en_CA\n"
+"Project-Id-Version: Themes - Hemingway\n"
+
+#: functions.php:574
+msgctxt "Short name of the larger font size in the Gutenberg editor."
+msgid "XL"
+msgstr "XL"
+
+#: functions.php:568
+msgctxt "Short name of the large font size in the Gutenberg editor."
+msgid "L"
+msgstr "L"
+
+#: functions.php:562
+msgctxt "Short name of the regular font size in the Gutenberg editor."
+msgid "M"
+msgstr "M"
+
+#: functions.php:556
+msgctxt "Short name of the small font size in the Gutenberg editor."
+msgid "S"
+msgstr "S"
+
+#: functions.php:573
+msgctxt "Name of the larger font size in Gutenberg"
+msgid "Larger"
+msgstr "Larger"
+
+#: functions.php:567
+msgctxt "Name of the large font size in Gutenberg"
+msgid "Large"
+msgstr "Large"
+
+#: functions.php:561
+msgctxt "Name of the regular font size in Gutenberg"
+msgid "Regular"
+msgstr "Regular"
+
+#: functions.php:555
+msgctxt "Name of the small font size in Gutenberg"
+msgid "Small"
+msgstr "Small"
+
+#: functions.php:545
+msgctxt "Name of the white color in the Gutenberg palette"
+msgid "White"
+msgstr "White"
+
+#: functions.php:540
+msgctxt "Name of the light gray color in the Gutenberg palette"
+msgid "Light Gray"
+msgstr "Light Grey"
+
+#: functions.php:535
+msgctxt "Name of the medium gray color in the Gutenberg palette"
+msgid "Medium Gray"
+msgstr "Medium Grey"
+
+#: functions.php:530
+msgctxt "Name of the dark gray color in the Gutenberg palette"
+msgid "Dark Gray"
+msgstr "Dark Grey"
+
+#: functions.php:525
+msgctxt "Name of the accent color in the Gutenberg palette"
+msgid "Accent"
+msgstr "Accent"
+
+#: functions.php:164
+msgctxt "Google Fonts: on or off"
+msgid "on"
+msgstr "on"
+
+#: functions.php:50
+msgid "Primary Menu"
+msgstr "Primary Menu"
+
+#: comments.php:39
+msgid "%s Pingback"
+msgid_plural "%s Pingbacks"
+msgstr[0] "%s Pingback"
+msgstr[1] "%s Pingbacks"
+
+#: comments.php:17
+msgid "%s Comment"
+msgid_plural "%s Comments"
+msgstr[0] "%s Comment"
+msgstr[1] "%s Comments"
+
+#: template-archives.php:107
+msgid "Archives by Day"
+msgstr "Archives by Day"
+
+#: template-archives.php:95
+msgid "Archives by Year"
+msgstr "Archives by Year"
+
+#: template-archives.php:101
+msgid "Archives by Month"
+msgstr "Archives by Month"
+
+#: template-archives.php:89
+msgid "Contributors"
+msgstr "Contributors"
+
+#: template-archives.php:62
+msgid "Archives by Categories"
+msgstr "Archives by Categories"
+
+#: template-archives.php:42
+msgid "Last 30 Posts"
+msgstr "Last 30 Posts"
+
+#. Translators: %s = The name of the tag
+#: template-archives.php:78
+msgid "View all posts in %s"
+msgstr "View all posts in %s"
+
+#: template-archives.php:68
+msgid "Archives by Tags"
+msgstr "Archives by Tags"
+
+#: content.php:129
+msgid "Next post"
+msgstr "Next Post"
+
+#: content.php:122
+msgid "Previous post"
+msgstr "Previous Post"
+
+#: image.php:93
+msgid "Next<span> attachment</span> &raquo;"
+msgstr "Next<span> attachment</span> &raquo;"
+
+#: image.php:92
+msgid "&laquo; Previous<span> attachment</span>"
+msgstr "&laquo; Previous<span> attachment</span>"
+
+#: index.php:77
+msgid "&laquo; Older<span> posts</span>"
+msgstr "&laquo; Older<span> posts</span>"
+
+#: index.php:79
+msgid "Newer<span> posts</span> &raquo;"
+msgstr "Newer<span> posts</span> &raquo;"
+
+#: index.php:59
+msgid "No results. Try again, would you kindly?"
+msgstr "No results. Try again, would you kindly?"
+
+#: inc/classes/class-hemingway-customize.php:43
+msgid "Upload a logo to replace the default site name and description in the header"
+msgstr "Upload a logo to replace the default site name and description in the header"
+
+#: inc/classes/class-hemingway-customize.php:24
+msgid "Accent Color"
+msgstr "Accent Color"
+
+#: inc/classes/class-hemingway-customize.php:41
+#: inc/classes/class-hemingway-customize.php:51
+msgid "Logo"
+msgstr "Logo"
+
+#: functions.php:349
+msgid "Reply"
+msgstr "Reply"
+
+#: functions.php:318
+msgid "(Post author)"
+msgstr "(Post author)"
+
+#: functions.php:339
+msgid "Awaiting moderation"
+msgstr "Awaiting moderation"
+
+#: functions.php:298
+msgid "Pingback:"
+msgstr "Pingback:"
+
+#: functions.php:255
+msgid "Continue reading"
+msgstr "Continue reading "
+
+#: functions.php:217
+msgid "Widgets in this area will be shown in the sidebar."
+msgstr "Widgets in this area will be shown in the sidebar."
+
+#: functions.php:199
+msgid "Widgets in this area will be shown in the left column in the footer."
+msgstr "Widgets in this area will be shown in the left column in the footer."
+
+#: functions.php:209
+msgid "Footer C"
+msgstr "Footer C"
+
+#: functions.php:205
+msgid "Widgets in this area will be shown in the middle column in the footer."
+msgstr "Widgets in this area will be shown in the middle column in the footer."
+
+#: functions.php:203
+msgid "Footer B"
+msgstr "Footer B"
+
+#: functions.php:211
+msgid "Widgets in this area will be shown in the right column in the footer."
+msgstr "Widgets in this area will be shown in the right column in the footer."
+
+#: functions.php:215
+msgid "Sidebar"
+msgstr "Sidebar"
+
+#: functions.php:197
+msgid "Footer A"
+msgstr "Footer A"
+
+#: footer.php:60
+msgid "Up"
+msgstr "Up"
+
+#: footer.php:60
+msgid "To the top"
+msgstr "To the top"
+
+#: footer.php:60
+msgid "Theme by <a href=\"%s\">Anders Noren</a>"
+msgstr "Theme by <a href=\"%s\">Anders Noren</a>"
+
+#: functions.php:458
+msgid "Sticky post"
+msgstr "Sticky Post"
+
+#: content.php:53
+msgid "% Comments"
+msgstr "% Comments"
+
+#: content.php:53
+msgid "1 Comment"
+msgstr "1 Comment"
+
+#: content.php:53
+msgid "0 Comments"
+msgstr "0 Comments"
+
+#: content.php:61 content.php:91 functions.php:298 functions.php:347
+#: template-archives.php:35 template-archives.php:119
+msgid "Edit"
+msgstr "Edit"
+
+#: comments.php:65
+msgid "Newer<span> Comments</span> &raquo;"
+msgstr "Newer<span> Comments</span> &raquo;"
+
+#: comments.php:63
+msgid "&laquo; Older<span> Comments</span>"
+msgstr "&laquo; Older<span> Comments</span>"
+
+#: 404.php:19
+msgid "It seems like you have tried to open a page that doesn't exist. It could have been deleted, moved, or it never existed at all. You are welcome to search for what you are looking for with the form below."
+msgstr "It seems like you have tried to open a page that doesn't exist. It could have been deleted, moved, or it never existed at all. You are welcome to search for what you are looking for with the form below."
+
+#: 404.php:14
+msgid "Error 404"
+msgstr "Error 404"

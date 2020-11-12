@@ -1,0 +1,826 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Niso carousel\n"
+"POT-Creation-Date: 2016-07-01 17:10+0600\n"
+"PO-Revision-Date: 2016-07-01 17:11+0600\n"
+"Last-Translator: \n"
+"Language-Team: Niso carousel <nnalam50@gmail.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.6\n"
+"X-Poedit-Basepath: ../../niso-carousel - Copy\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;esc_html_e;esc_html\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: admin/niso-button-tinymce.php:58
+#, php-format
+msgid "Untitled carousel id - %s"
+msgstr ""
+
+#: admin/niso-button-tinymce.php:63
+msgid "No carousel found"
+msgstr ""
+
+#: admin/niso-carousel-column-set.php:41
+msgid "Image carousel"
+msgstr ""
+
+#: admin/niso-carousel-column-set.php:46
+msgid "Caption carousel"
+msgstr ""
+
+#: admin/niso-carousel-column-set.php:51
+msgid "Video carousel"
+msgstr ""
+
+#: admin/niso-carousel-column-set.php:64
+msgid "Carousel Shortcode"
+msgstr ""
+
+#: admin/niso-carousel-column-set.php:65
+msgid "Carousel Items"
+msgstr ""
+
+#: admin/niso-carousel-column-set.php:66
+msgid "Carousel Type"
+msgstr ""
+
+#: admin/niso-carousel-column-set.php:79
+msgid "Shortcode will appear when you upload Items."
+msgstr ""
+
+#: admin/niso-carousel-column-set.php:92 admin/niso-carousel-column-set.php:94
+#, php-format
+msgid "%d images uploaded"
+msgstr ""
+
+#: admin/niso-carousel-column-set.php:96
+#, php-format
+msgid "%d Videos uploaded"
+msgstr ""
+
+#: admin/niso-carousel-column-set.php:100
+msgid " No item uploaded!"
+msgstr ""
+
+#: admin/niso-carousel-column-set.php:107
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: admin/niso-carousel-meta-tab.php:28
+msgid "Niso carousel set-up"
+msgstr ""
+
+#: admin/niso-carousel-meta-tab.php:49
+msgid "Add carousel images"
+msgstr ""
+
+#: admin/niso-carousel-meta-tab.php:50
+msgid "Add your carousel images as you need."
+msgstr ""
+
+#: admin/niso-carousel-meta-tab.php:66
+msgid "Add new item"
+msgstr ""
+
+#: admin/niso-carousel-meta-tab.php:67
+msgid "Remove item"
+msgstr ""
+
+#: admin/niso-carousel-meta-tab.php:74
+msgid "Add image"
+msgstr ""
+
+#: admin/niso-carousel-meta-tab.php:75
+msgid "Add carousel image here."
+msgstr ""
+
+#: admin/niso-carousel-meta-tab.php:81
+msgid "Add image caption"
+msgstr ""
+
+#: admin/niso-carousel-meta-tab.php:82
+msgid "Add carousel image caption here."
+msgstr ""
+
+#: admin/niso-carousel-meta-tab.php:105
+msgid "Carousel video width"
+msgstr ""
+
+#: admin/niso-carousel-meta-tab.php:106
+msgid "Set carousel video width by px."
+msgstr ""
+
+#: admin/niso-carousel-meta-tab.php:112 admin/niso-carousel-meta-tab.php:122
+msgid "px:"
+msgstr ""
+
+#: admin/niso-carousel-meta-tab.php:115
+msgid "Carousel video height"
+msgstr ""
+
+#: admin/niso-carousel-meta-tab.php:116
+msgid "Set carousel video height by px."
+msgstr ""
+
+#: admin/niso-carousel-meta-tab.php:125
+msgid "Enter video link"
+msgstr ""
+
+#: admin/niso-carousel-meta-tab.php:126
+msgid "Past or type from YouTube, Vimeo, or vzaar url."
+msgstr ""
+
+#: admin/niso-carousel-meta-tab.php:131
+msgid "Add more video link"
+msgstr ""
+
+#: admin/niso-carousel-meta-tab.php:161 admin/niso-carousel-meta-tab.php:180
+msgid "Select image size"
+msgstr ""
+
+#: admin/niso-carousel-meta-tab.php:162 admin/niso-carousel-meta-tab.php:181
+msgid "Select image size as you need.Video size set in video carousel page."
+msgstr ""
+
+#: admin/niso-carousel-meta-tab.php:167
+msgid " Medium ( 300px x 300px hard cropped )  "
+msgstr ""
+
+#: admin/niso-carousel-meta-tab.php:168
+msgid " Extra medium ( 450px x 450px )  "
+msgstr ""
+
+#: admin/niso-carousel-meta-tab.php:169
+msgid "Thumbnail ( 150px x 150px hard cropped )  "
+msgstr ""
+
+#: admin/niso-carousel-meta-tab.php:170 admin/niso-carousel-meta-tab.php:188
+msgid "Large ( 1024px x 1024px max height 1024px )"
+msgstr ""
+
+#: admin/niso-carousel-meta-tab.php:171 admin/niso-carousel-meta-tab.php:189
+msgid "Full (original size uploaded)"
+msgstr ""
+
+#: admin/niso-carousel-meta-tab.php:186
+msgid " Medium slide (1300px x 400px)  "
+msgstr ""
+
+#: admin/niso-carousel-meta-tab.php:187
+msgid " Large slide(1600px x 500px )  "
+msgstr ""
+
+#: admin/niso-carousel-meta-tab.php:190
+msgid " Small ( 450px x 450px )  "
+msgstr ""
+
+#: admin/niso-carousel-meta-tab.php:199
+msgid "Single item animation in"
+msgstr ""
+
+#: admin/niso-carousel-meta-tab.php:200
+msgid "Select single item animation in"
+msgstr ""
+
+#: admin/niso-carousel-meta-tab.php:247
+msgid "Single item animation Out"
+msgstr ""
+
+#: admin/niso-carousel-meta-tab.php:248
+msgid "Select single item animation Out"
+msgstr ""
+
+#: admin/niso-carousel-meta-tab.php:293
+msgid "Images show large screen"
+msgstr ""
+
+#: admin/niso-carousel-meta-tab.php:294
+msgid "Set images to show at a time in large screen"
+msgstr ""
+
+#: admin/niso-carousel-meta-tab.php:300 admin/niso-carousel-meta-tab.php:315
+#: admin/niso-carousel-meta-tab.php:330
+msgid "Images number:"
+msgstr ""
+
+#: admin/niso-carousel-meta-tab.php:308
+msgid "Images show medium screen"
+msgstr ""
+
+#: admin/niso-carousel-meta-tab.php:309
+msgid "Set images to show at a time in medium screen."
+msgstr ""
+
+#: admin/niso-carousel-meta-tab.php:323
+msgid "Images show in tab"
+msgstr ""
+
+#: admin/niso-carousel-meta-tab.php:324
+msgid "Set images to show at a time in tab screen."
+msgstr ""
+
+#: admin/niso-carousel-meta-tab.php:338
+msgid "Use item margin"
+msgstr ""
+
+#: admin/niso-carousel-meta-tab.php:339 admin/niso-carousel-meta-tab.php:388
+#: admin/niso-carousel-meta-tab.php:418
+msgid "You can hide or active auto play."
+msgstr ""
+
+#: admin/niso-carousel-meta-tab.php:354
+msgid "Set carousel image item margin"
+msgstr ""
+
+#: admin/niso-carousel-meta-tab.php:355
+msgid "carousel image margin set by px.default margin 10px"
+msgstr ""
+
+#: admin/niso-carousel-meta-tab.php:361 admin/niso-carousel-meta-tab.php:384
+#: admin/niso-carousel-meta-tab.php:567
+msgid "Margin:"
+msgstr ""
+
+#: admin/niso-carousel-meta-tab.php:369
+msgid "Infinite loop"
+msgstr ""
+
+#: admin/niso-carousel-meta-tab.php:370
+msgid "Carousel infinite loop on of."
+msgstr ""
+
+#: admin/niso-carousel-meta-tab.php:377
+msgid "Carousel top bottom margin"
+msgstr ""
+
+#: admin/niso-carousel-meta-tab.php:378
+msgid "Carousel top bottom margin set by px"
+msgstr ""
+
+#: admin/niso-carousel-meta-tab.php:387 admin/niso-carousel-meta-tab.php:417
+msgid "Carousel auto play"
+msgstr ""
+
+#: admin/niso-carousel-meta-tab.php:403 admin/niso-carousel-meta-tab.php:463
+msgid "Push on hover"
+msgstr ""
+
+#: admin/niso-carousel-meta-tab.php:404 admin/niso-carousel-meta-tab.php:464
+msgid "Push auto play when carousel hover."
+msgstr ""
+
+#: admin/niso-carousel-meta-tab.php:433
+msgid "Auto play speed"
+msgstr ""
+
+#: admin/niso-carousel-meta-tab.php:434
+msgid "Set carousel auto play by milisecond "
+msgstr ""
+
+#: admin/niso-carousel-meta-tab.php:440 admin/niso-carousel-meta-tab.php:455
+#: admin/niso-carousel-meta-tab.php:497
+msgid "milisecond:"
+msgstr ""
+
+#: admin/niso-carousel-meta-tab.php:448
+msgid "Auto play speed time out"
+msgstr ""
+
+#: admin/niso-carousel-meta-tab.php:449
+msgid "Auto play speed time out by milisecond "
+msgstr ""
+
+#: admin/niso-carousel-meta-tab.php:475
+msgid "Image scroll at a time"
+msgstr ""
+
+#: admin/niso-carousel-meta-tab.php:476
+msgid ""
+"How many image scroll at a time in auto play.Not for single image carousel."
+msgstr ""
+
+#: admin/niso-carousel-meta-tab.php:482
+msgid "Images:"
+msgstr ""
+
+#: admin/niso-carousel-meta-tab.php:490
+msgid "Carousel smart speed"
+msgstr ""
+
+#: admin/niso-carousel-meta-tab.php:491
+msgid "Smart speed set by milisecond "
+msgstr ""
+
+#: admin/niso-carousel-meta-tab.php:501
+msgid "Carousel navigation"
+msgstr ""
+
+#: admin/niso-carousel-meta-tab.php:502
+msgid "Show next/prev buttons."
+msgstr ""
+
+#: admin/niso-carousel-meta-tab.php:513
+msgid "Select navigation arrows icons"
+msgstr ""
+
+#: admin/niso-carousel-meta-tab.php:514
+msgid "Select icon for arrows navigation."
+msgstr ""
+
+#: admin/niso-carousel-meta-tab.php:519
+msgid " Icon one"
+msgstr ""
+
+#: admin/niso-carousel-meta-tab.php:520
+msgid "Icon two "
+msgstr ""
+
+#: admin/niso-carousel-meta-tab.php:521
+msgid "Icon three "
+msgstr ""
+
+#: admin/niso-carousel-meta-tab.php:522
+msgid "Icon four "
+msgstr ""
+
+#: admin/niso-carousel-meta-tab.php:523
+msgid "Icon five "
+msgstr ""
+
+#: admin/niso-carousel-meta-tab.php:524
+msgid "Icon six "
+msgstr ""
+
+#: admin/niso-carousel-meta-tab.php:525
+msgid "Icon seven "
+msgstr ""
+
+#: admin/niso-carousel-meta-tab.php:526
+msgid "Icon eight "
+msgstr ""
+
+#: admin/niso-carousel-meta-tab.php:527
+msgid "Icon nine "
+msgstr ""
+
+#: admin/niso-carousel-meta-tab.php:528
+msgid "Icon ten "
+msgstr ""
+
+#: admin/niso-carousel-meta-tab.php:529
+msgid "Icon eleven "
+msgstr ""
+
+#: admin/niso-carousel-meta-tab.php:530
+msgid "Icon twelve "
+msgstr ""
+
+#: admin/niso-carousel-meta-tab.php:531
+msgid "Icon thirteen "
+msgstr ""
+
+#: admin/niso-carousel-meta-tab.php:540
+msgid "Set navigation arrows position"
+msgstr ""
+
+#: admin/niso-carousel-meta-tab.php:541
+msgid "You can set your navigation arrows position"
+msgstr ""
+
+#: admin/niso-carousel-meta-tab.php:546
+msgid " Default"
+msgstr ""
+
+#: admin/niso-carousel-meta-tab.php:547
+msgid "Standard "
+msgstr ""
+
+#: admin/niso-carousel-meta-tab.php:548
+msgid "Top left "
+msgstr ""
+
+#: admin/niso-carousel-meta-tab.php:549
+msgid "Top right "
+msgstr ""
+
+#: admin/niso-carousel-meta-tab.php:550
+msgid " Bottom Right "
+msgstr ""
+
+#: admin/niso-carousel-meta-tab.php:551
+msgid " Bottom left"
+msgstr ""
+
+#: admin/niso-carousel-meta-tab.php:560
+msgid "Set arrow button top bottom margin"
+msgstr ""
+
+#: admin/niso-carousel-meta-tab.php:561
+msgid "You arrow button set right position by top bottom margin set."
+msgstr ""
+
+#: admin/niso-carousel-meta-tab.php:574
+msgid "Arrows background color"
+msgstr ""
+
+#: admin/niso-carousel-meta-tab.php:575
+msgid "Set arrow icons background color ."
+msgstr ""
+
+#: admin/niso-carousel-meta-tab.php:585
+msgid "Arrows background hover color"
+msgstr ""
+
+#: admin/niso-carousel-meta-tab.php:586
+msgid "Set arrows icon background hover color ."
+msgstr ""
+
+#: admin/niso-carousel-meta-tab.php:596
+msgid "Arrows background opacity."
+msgstr ""
+
+#: admin/niso-carousel-meta-tab.php:597
+msgid "Set arrows background opacity by number 0 to 99."
+msgstr ""
+
+#: admin/niso-carousel-meta-tab.php:603
+msgid "opacity:0."
+msgstr ""
+
+#: admin/niso-carousel-meta-tab.php:610
+msgid "Arrows icon color"
+msgstr ""
+
+#: admin/niso-carousel-meta-tab.php:611
+msgid "Set arrows icon color ."
+msgstr ""
+
+#: admin/niso-carousel-meta-tab.php:621
+msgid "Arrows icon hover color"
+msgstr ""
+
+#: admin/niso-carousel-meta-tab.php:622
+msgid "Set arrows icon hover color ."
+msgstr ""
+
+#: admin/niso-carousel-meta-tab.php:632
+msgid "Carousel navigation speed."
+msgstr ""
+
+#: admin/niso-carousel-meta-tab.php:633
+msgid "Set carousel navigation."
+msgstr ""
+
+#: admin/niso-carousel-meta-tab.php:639 admin/niso-carousel-meta-tab.php:685
+msgid "Milisecend:"
+msgstr ""
+
+#: admin/niso-carousel-meta-tab.php:649
+msgid "Carousel dots"
+msgstr ""
+
+#: admin/niso-carousel-meta-tab.php:650
+msgid "If you use dots click enable."
+msgstr ""
+
+#: admin/niso-carousel-meta-tab.php:655 admin/niso-carousel-meta-tab.php:656
+msgid " "
+msgstr ""
+
+#: admin/niso-carousel-meta-tab.php:660
+msgid "Select dots position "
+msgstr ""
+
+#: admin/niso-carousel-meta-tab.php:661
+msgid "You can set dots position right, left and center."
+msgstr ""
+
+#: admin/niso-carousel-meta-tab.php:666
+msgid "Center"
+msgstr ""
+
+#: admin/niso-carousel-meta-tab.php:667
+msgid "Left"
+msgstr ""
+
+#: admin/niso-carousel-meta-tab.php:668
+msgid "Right "
+msgstr ""
+
+#: admin/niso-carousel-meta-tab.php:678
+msgid "Dots speed"
+msgstr ""
+
+#: admin/niso-carousel-meta-tab.php:679
+msgid "Set dots speed by number."
+msgstr ""
+
+#: admin/niso-carousel-meta-tab.php:692
+msgid "Carousel center mode"
+msgstr ""
+
+#: admin/niso-carousel-meta-tab.php:693
+msgid ""
+"Enables centred view with partial prev/next slides. Use with odd numbered "
+"slidesToShow counts."
+msgstr ""
+
+#: admin/niso-carousel-meta-tab.php:698
+msgid "Enable"
+msgstr ""
+
+#: admin/niso-carousel-meta-tab.php:699
+msgid "Disable"
+msgstr ""
+
+#: admin/niso-carousel-meta-tab.php:704
+msgid "Center mode padding"
+msgstr ""
+
+#: admin/niso-carousel-meta-tab.php:705
+msgid "Padding left and right on stage (can see neighbours). "
+msgstr ""
+
+#: admin/niso-carousel-meta-tab.php:711 admin/niso-carousel-meta-tab.php:738
+msgid "Px:"
+msgstr ""
+
+#: admin/niso-carousel-meta-tab.php:719
+msgid "Carousel image border"
+msgstr ""
+
+#: admin/niso-carousel-meta-tab.php:720
+msgid "You may use border in carousel items."
+msgstr ""
+
+#: admin/niso-carousel-meta-tab.php:731
+msgid "Border"
+msgstr ""
+
+#: admin/niso-carousel-meta-tab.php:732
+msgid "Border set by px.Default border 1px"
+msgstr ""
+
+#: admin/niso-carousel-meta-tab.php:745
+msgid "Border type"
+msgstr ""
+
+#: admin/niso-carousel-meta-tab.php:746 admin/niso-carousel-meta-tab.php:892
+msgid "This setting only caption carousel."
+msgstr ""
+
+#: admin/niso-carousel-meta-tab.php:751
+msgid "Solid"
+msgstr ""
+
+#: admin/niso-carousel-meta-tab.php:752
+msgid "Dotted"
+msgstr ""
+
+#: admin/niso-carousel-meta-tab.php:761
+msgid "Border color"
+msgstr ""
+
+#: admin/niso-carousel-meta-tab.php:762
+msgid "Set your border color."
+msgstr ""
+
+#: admin/niso-carousel-meta-tab.php:772
+msgid "Carousel image Lightbox"
+msgstr ""
+
+#: admin/niso-carousel-meta-tab.php:773
+msgid "You may use image Lightbox.This lightbox not support in video carousel."
+msgstr ""
+
+#: admin/niso-carousel-meta-tab.php:783
+msgid "Select image lightbox effect"
+msgstr ""
+
+#: admin/niso-carousel-meta-tab.php:784
+msgid "Select image lightbox effect as you need."
+msgstr ""
+
+#: admin/niso-carousel-meta-tab.php:789
+msgid "Fade"
+msgstr ""
+
+#: admin/niso-carousel-meta-tab.php:790
+msgid "Fade scale"
+msgstr ""
+
+#: admin/niso-carousel-meta-tab.php:791
+msgid "Slide left"
+msgstr ""
+
+#: admin/niso-carousel-meta-tab.php:792
+msgid "Slide right"
+msgstr ""
+
+#: admin/niso-carousel-meta-tab.php:793
+msgid "slide up"
+msgstr ""
+
+#: admin/niso-carousel-meta-tab.php:794
+msgid "Slide down"
+msgstr ""
+
+#: admin/niso-carousel-meta-tab.php:795
+msgid "Fall"
+msgstr ""
+
+#: admin/niso-carousel-meta-tab.php:804
+msgid "Mouse drag"
+msgstr ""
+
+#: admin/niso-carousel-meta-tab.php:805
+msgid "Mouse dragging feature ."
+msgstr ""
+
+#: admin/niso-carousel-meta-tab.php:812
+msgid "Touch drag"
+msgstr ""
+
+#: admin/niso-carousel-meta-tab.php:813
+msgid "Touch dragging feature."
+msgstr ""
+
+#: admin/niso-carousel-meta-tab.php:820
+msgid "Pull drag"
+msgstr ""
+
+#: admin/niso-carousel-meta-tab.php:821
+msgid "Stage pull to edge."
+msgstr ""
+
+#: admin/niso-carousel-meta-tab.php:828
+msgid "Free drag"
+msgstr ""
+
+#: admin/niso-carousel-meta-tab.php:829
+msgid "Item pull to edge."
+msgstr ""
+
+#: admin/niso-carousel-meta-tab.php:836
+msgid "Auto height"
+msgstr ""
+
+#: admin/niso-carousel-meta-tab.php:837
+msgid "upload different height image for auto height."
+msgstr ""
+
+#: admin/niso-carousel-meta-tab.php:844
+msgid "Active mousewheel scrolling"
+msgstr ""
+
+#: admin/niso-carousel-meta-tab.php:845
+msgid "add mouswheel scrolling for fantastic scroll."
+msgstr ""
+
+#: admin/niso-carousel-meta-tab.php:852
+msgid "Lazy load"
+msgstr ""
+
+#: admin/niso-carousel-meta-tab.php:853
+msgid "Lazy load images.Lazy load not for video carousel."
+msgstr ""
+
+#: admin/niso-carousel-meta-tab.php:864
+msgid "Rtl"
+msgstr ""
+
+#: admin/niso-carousel-meta-tab.php:865
+msgid "Slider right to left direction."
+msgstr ""
+
+#: admin/niso-carousel-meta-tab.php:876
+msgid "Carousel start position"
+msgstr ""
+
+#: admin/niso-carousel-meta-tab.php:877
+msgid "Set Start position by number."
+msgstr ""
+
+#: admin/niso-carousel-meta-tab.php:883
+msgid "number:"
+msgstr ""
+
+#: admin/niso-carousel-meta-tab.php:891
+msgid "Select caption style"
+msgstr ""
+
+#: admin/niso-carousel-meta-tab.php:897
+msgid "Simple caption"
+msgstr ""
+
+#: admin/niso-carousel-meta-tab.php:898
+msgid "Hover caption"
+msgstr ""
+
+#: admin/niso-carousel-post.php:17
+msgid "carousels"
+msgstr ""
+
+#: admin/niso-carousel-post.php:18
+msgid "carousel"
+msgstr ""
+
+#: admin/niso-carousel-post.php:19 admin/niso-carousel-post.php:20
+msgid "niso carousel"
+msgstr ""
+
+#: admin/niso-carousel-post.php:21 admin/niso-carousel-post.php:22
+msgid "Add New carousel"
+msgstr ""
+
+#: admin/niso-carousel-post.php:23
+msgid "New carousel"
+msgstr ""
+
+#: admin/niso-carousel-post.php:24
+msgid "Edit carousel"
+msgstr ""
+
+#: admin/niso-carousel-post.php:25
+msgid "View carousel"
+msgstr ""
+
+#: admin/niso-carousel-post.php:26
+msgid "All carousel"
+msgstr ""
+
+#: admin/niso-carousel-post.php:27
+msgid "Parent carousel:"
+msgstr ""
+
+#: admin/niso-carousel-post.php:28
+msgid "No carousel found."
+msgstr ""
+
+#: admin/niso-carousel-post.php:29
+msgid "No carousel found in Trash."
+msgstr ""
+
+#: admin/niso-carousel-post.php:34
+msgid "You can create awesome image carousels with by niso carousel."
+msgstr ""
+
+#: admin/niso-carousel-post.php:75
+msgid "Enter carousel name"
+msgstr ""
+
+#: admin/niso-carousel-update-massage.php:27
+msgid "Carousel updated. Shortcode is:"
+msgstr ""
+
+#: admin/niso-carousel-update-massage.php:28
+msgid "Carousel field updated. Shortcode is:"
+msgstr ""
+
+#: admin/niso-carousel-update-massage.php:29
+msgid "Carousel field deleted."
+msgstr ""
+
+#: admin/niso-carousel-update-massage.php:30
+msgid "Carousel item updated."
+msgstr ""
+
+#: admin/niso-carousel-update-massage.php:32
+#, php-format
+msgid "Carousel restored to revision from %s"
+msgstr ""
+
+#: admin/niso-carousel-update-massage.php:33
+msgid "Carousel published. Shortcode is:"
+msgstr ""
+
+#: admin/niso-carousel-update-massage.php:34
+msgid "Carousel saved."
+msgstr ""
+
+#: admin/niso-carousel-update-massage.php:35
+msgid "Carousel submitted."
+msgstr ""
+
+#: admin/niso-carousel-update-massage.php:37
+#, php-format
+msgid "Carousel item scheduled for: <strong>%1$s</strong>."
+msgstr ""
+
+#: admin/niso-carousel-update-massage.php:39
+msgid "M j, Y @ G:i"
+msgstr ""
+
+#: admin/niso-carousel-update-massage.php:41
+msgid "Carousel draft updated."
+msgstr ""
+
+#: includes/niso-carousel-shortcode.php:175
+msgid "No carousel found!"
+msgstr ""

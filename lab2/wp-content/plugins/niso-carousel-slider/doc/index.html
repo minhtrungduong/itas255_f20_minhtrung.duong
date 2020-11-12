@@ -1,0 +1,600 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <title>Niso carousel slider</title>
+
+    <!-- Bootstrap Core CSS -->
+    <link href="assets/css/bootstrap.min.css" rel="stylesheet">
+	<!-- scrolling-nav -->
+    <link href="assets/css/scrolling-nav.css" rel="stylesheet">
+	<!-- fontello.css-->
+    <link href="assets/css/fontello.css" rel="stylesheet">
+    <!-- Custom CSS -->
+    <link href="assets/css/style.css" rel="stylesheet">
+
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+</head>
+
+<body>
+
+    <div id="wrapper">
+
+        <!-- Sidebar -->
+        <div id="jova-doc-sidebar">
+        <div id="sidebar-wrapper">
+			<div class="toggle-menu-icon"> 
+				<a href="#menu-toggle" class="btn btn-default jova-menu-button" id="menu-toggle"><span class="glyphicon glyphicon-th-list" aria-hidden="true"></span>Menu</a>
+			</div>
+            <ul class="sidebar-nav doc-sidebar">
+				<li class="hidden">
+                        <a class="page-scroll" href="#page-top"></a>
+                    </li>
+                <li>
+                    <a class="page-scroll" href="#Introduction">Introduction</a>
+                </li>
+                <li>
+                    <a class="page-scroll" href="#Installation">Installation</a>
+                </li>
+                <li>
+                    <a class="page-scroll" href="#Overview"> Plugin Overview</a>
+                </li>
+                <li>
+                    <a class="page-scroll" href="#Features"> Features</a>
+                </li>
+                <li>
+                    <a class="page-scroll" href="#use">Active plugin</a>
+                </li>
+                <li>
+                    <a class="page-scroll" href="#add_img">Add image carousel</a>
+                </li>
+                <li>
+                    <a class="page-scroll" href="#add_cap">Add caption carousel</a>
+                </li>
+                <li>
+                    <a class="page-scroll" href="#add_video">Add Video carousel</a>
+                </li>
+                <li>
+                    <a class="page-scroll" href="#c_setting">Carousel settings</a>
+                </li>
+                <li>
+                    <a class="page-scroll" href="#shortcode">Niso carousel shortcode</a>
+                </li>
+                <li>
+                    <a class="page-scroll" href="#shortcode_use">Shortcode use</a>
+                </li>
+                <li>
+                    <a class="page-scroll" href="#Sources_Credits">Sources & Credits</a>
+                </li>
+                <li>
+                    <a class="page-scroll" href="#Support">Support</a>
+                </li>
+            </ul>
+        </div>
+        </div>
+        <!-- /#sidebar-wrapper -->
+
+        <!-- Page Content -->
+		
+        <div id="page-content-wrapper">
+            <div class="container-fluid">
+				<header id="Introduction" >
+					<div class="alert alert-success" role="alert">Niso carousel slider, born 25 september 2016, by Noor alam</div>
+                    <h1 class="page-header">Niso carousel slider Documentation</h1>
+				</header>
+				<section class="section-padding">	 
+						<div class="panel panel-info">
+						 <!-- panel heading -->
+							<div class="panel-heading">
+								<h3 class="panel-title">
+									<span aria-hidden="true" class="glyphicon glyphicon-hand-right"></span>
+									<strong>&nbsp;1.Introduction</strong>
+								</h3> 
+							</div> <!-- panel heading -->
+							<div class="panel-body"> 
+								<h4 class="sub-title">Thank you for use my plugin.</h4>
+								<p>I truly appreciate it. I've spent a considerable period of time developing this and hope to have ironed out most bugs before its release. If you do find any issues,please feel more than free to email us via my <a href="http://codecanyon.net/user/noor-alam">codecanyon</a> profile page. </p>
+							</div> 
+						</div> <!-- panel -->
+					</section><!-- #Introduction section -->
+					<section id="Installation" class="section-padding">	
+						<div  class="panel panel-info">
+							<div class="panel-heading">
+								<h3 class="panel-title">
+									<span aria-hidden="true" class="glyphicon glyphicon-hand-right"></span>
+									<strong>&nbsp;2.Installation</strong>
+								</h3> 
+							</div> <!-- panel heading -->
+							<div class="panel-body"> 
+								<h4 class="sub-title">You can install the plugin one of two ways:</h4>
+								<h5 class="short-info">Install using FTP</h5>
+								<ul>
+									<li>Unzip the <strong>Niso-carousel.zip</strong> file locally to your machine</li>
+									<li>Connect to your FTP area using your preferred FTP package</li>
+									<li>Upload the <strong>Niso-carousel.zip</strong> folder that you extracted from the zip file to the plugin folder of your WordPress
+										installation (<strong>wp-content -&gt; plugin</strong>)
+									</li>
+									<li>Go to <strong>plugin </strong> and activate Niso carousel.<br>
+									</li>
+								</ul>
+								<h5 class="short-info">Install by WordPress (recommended)</h5>
+								<ul>
+									<li>Login to your WordPress admin area.</li>
+									<li>Navigate to <strong>plugin</strong> and click the <strong>Add New</strong> button
+										at the top.
+									</li>
+									<li>Click the <strong>Upload plugin</strong> button at the top.</li>
+									<li>Click the <strong>Choose File</strong> button and locate the <strong>Niso-carousel.zip.zip</strong> file on your machine and
+										click the <strong>Install Now</strong> button.
+									</li>
+									<li>On the basis the plugin installs correctly, click the <strong>Activate</strong> link.<br>
+									</li>
+								</ul>
+								<div class="alert alert-danger" role="alert">After uploading plugin, you should activate it. Navigate to&nbsp;<strong>Plugins</strong> in WordPress navigation, then find the<strong> Niso carousel</strong> plugin, then click to<strong>&nbsp;Activate</strong>.</div>
+							</div> <!-- panel body -->
+						</div> <!-- panel -->
+				</section><!-- #Installation section -->
+				<section id="Overview" class="section-padding">
+					<div class="panel panel-info">
+						<div class="panel-heading">
+							<h3 class="panel-title">
+								<span aria-hidden="true" class="glyphicon glyphicon-hand-right"></span>
+								<strong>&nbsp;Plugin Overview</strong>
+							</h3> 
+						</div> <!-- panel heading -->
+						<div class="panel-body"> 
+							<h4 class="sub-title">What does this plugin do?</h4>
+							<p>Niso carousel slider is nice image and video carousel wordpress plugin. You can use this plugin any wordpress site for create carousel.</p>
+							<p>Niso carousel slider is one of the most user friendly wordpress plugin.You can create unlimited image carousel and video carousel with lots of options by Niso carousel slider.You can set new options for every carousel.Niso carousel slider also support image lightbox .Niso carousel slider has lots of icons for arrow button.Niso carousel slider supports arrow button, dots, variable width, center mode, Animation, Caption, hover caption, Lazy load, Mousewheel,  RTL and much more. </p>
+						</div> <!-- panel body -->
+					</div> <!-- panel -->
+				</section><!--#Plugin Overview section -->
+				<section id="Features" class="section-padding">
+					<div class="panel panel-info">
+						<div class="panel-heading">
+							<h3 class="panel-title">
+								<span aria-hidden="true" class="glyphicon glyphicon-hand-right"></span>
+								<strong>&nbsp;Features:</strong>
+							</h3> 
+						</div> <!-- panel heading -->
+						<div class="panel-body"> 
+							<h4 class="sub-title">Most powerful features: </h4>
+							<ul>
+								<li><strong>Multiple image and video carousel.</strong></li>
+								<li><strong>Single image and video carousel.</strong></li>
+								<li><strong>Lots of icon for arrow button.</strong></li>
+								<li><strong>Image caption support.</strong></li>
+								<li><strong>Lazy load support.</strong></li>
+								<li><strong>Border support.</strong></li>
+								<li><strong>Four different image size supports. </strong></li>
+								<li><strong>User-friendly Editor.</strong></li>
+								<li><strong>CSS3 Animation support.</strong></li>
+								<li><strong>Images lightbox support.</strong></li>
+								<li><strong>Mousewheel support</strong></li>
+								<li><strong>Carousel center mode.</strong></li>
+								<li><strong>Carousel variable height.</strong></li>
+								<li><strong>RTL support.</strong></li>
+								<li><strong>Different dots position.</strong></li>
+								<li><strong>Different arrow position.</strong></li>
+								<li><strong>Full Responsive.</strong></li>
+							</ul>
+						</div> <!-- panel body -->
+					</div> <!-- panel -->
+				</section><!--#Features section -->
+
+				 <!--Activate plugin-->
+				<section id="use" class="section-padding">
+					<div class="panel panel-info">
+						<div class="panel-heading">
+							<h3 class="panel-title">
+								<span aria-hidden="true" class="glyphicon glyphicon-hand-right"></span>
+								<strong>&nbsp;Active plugin</strong>
+							</h3> 
+						</div> <!-- panel heading -->
+						<div class="panel-body">
+							<h4 class="sub-title">After active this plugin you will see new menu in Dashboard.</h4>
+							<img src="assets/img/niso_menu.png" alt="Niso carousel slider" />
+							<h5 class="short-info"><span aria-hidden="true" class="glyphicon glyphicon-arrow-right"></span>&nbsp;Now click <strong>Niso carousel slider > add new carousel</strong> menu and get all options for create carousel.</h5>
+							<h4 class="sub-title">Add new carousel:-</h4>
+							<img class="setting_one" src="assets/img/niso_main.png" alt="setting" />
+							<p> 
+							<strong>Enter Carousel name</strong><br />
+							Write your carousel Name.This name help you select this carousel next time.
+							</p>
+						</div> <!-- panel body -->
+					</div> <!-- panel -->
+				</section><!--#Settings section -->	 
+				<!--Image carousel add-->
+				<section id="add_img" class="section-padding">
+					<div class="panel panel-info">
+						<div class="panel-heading">
+							<h3 class="panel-title">
+								<span aria-hidden="true" class="glyphicon glyphicon-hand-right"></span>
+								<strong>&nbsp;Add image carousel</strong>
+							</h3> 
+						</div> <!-- panel heading -->
+						<div class="panel-body">
+							<h4 class="sub-title">Click image carousel button in tab and then click add or upload files for add carousel images.</h4>
+							<img src="assets/img/add_img.png" alt="Niso carousel slider" />
+							<h5 class="short-info"><span aria-hidden="true" class="glyphicon glyphicon-arrow-right"></span>&nbsp;After upload image.Now click publish button</h5>
+							<img class="setting_one" src="assets/img/images.png" alt="setting" />
+							<p> 
+							<strong>You will get carousel shortcode</strong>							
+							<img class="setting_one" src="assets/img/shortcode_get.png" alt="setting" />
+
+							</p>
+						</div> <!-- panel body -->
+					</div> <!-- panel -->
+				</section><!--#Settings section -->	 
+				<!--caption carousel add-->
+				<section id="add_cap" class="section-padding">
+					<div class="panel panel-info">
+						<div class="panel-heading">
+							<h3 class="panel-title">
+								<span aria-hidden="true" class="glyphicon glyphicon-hand-right"></span>
+								<strong>&nbsp;Add caption carousel</strong>
+							</h3> 
+						</div> <!-- panel heading -->
+						<div class="panel-body">
+							<h5><strong>Click caption carousel button in tab and then click add or upload file for add image.Write caption in caption box.Now click add new item button for add more image and caption.Minimum 5 items for carousel.</strong></h5>
+							<img src="assets/img/add_caption.png" alt="Niso carousel slider" />
+							<h4 class="sub-title">After image and caption text add.</h4>
+							<img src="assets/img/cap_img.png" alt="Niso carousel slider" />
+							
+						</div> <!-- panel body -->
+					</div> <!-- panel -->
+				</section><!--#image carousel section -->
+				<!--Video carousel add-->
+				<section id="add_video" class="section-padding">
+					<div class="panel panel-info">
+						<div class="panel-heading">
+							<h3 class="panel-title">
+								<span aria-hidden="true" class="glyphicon glyphicon-hand-right"></span>
+								<strong>&nbsp;Add Video carousel</strong>
+							</h3> 
+						</div> <!-- panel heading -->
+						<div class="panel-body">
+							<h5><strong>Click Video carousel button in tab and then set video height and width .Now add video links in video link box.Click add more video link button for more video link add.add 4 or more video link for carousel.</strong></h5>
+							<img src="assets/img/add_video.png" alt="Niso carousel" />
+							<h5><strong>Copy and past video link like this.</strong></h5>
+							<img src="assets/img/video_link.png" alt="Niso carousel" />
+							<h4 class="sub-title">After publish video see this video in back end </h4>
+							<img src="assets/img/video_publish.png" alt="Niso carousel" />
+							
+						</div> <!-- panel body -->
+					</div> <!-- panel -->
+				</section><!--#image carousel section -->
+				<!--Video carousel add-->
+				<section id="c_setting" class="section-padding">
+					<div class="panel panel-info">
+						<div class="panel-heading">
+							<h3 class="panel-title">
+								<span aria-hidden="true" class="glyphicon glyphicon-hand-right"></span>
+								<strong>&nbsp;Carousel settings</strong>
+							</h3> 
+						</div> <!-- panel heading -->
+						<div class="panel-body">
+							<h5><strong>Click carousel settings button in tab and then you will see two setting buttons 1. Multiple image carousel 2. Single image carousel.</strong></h5>
+						<img src="assets/img/settings_page.png" alt="" />
+						<h4 class="sub-title">Multiple image carousel settings.</h4>
+							<img src="assets/img/m_settings_one.png" alt="Niso carousel" />
+							<p> 
+							<strong>Select image size</strong><br />
+							Five image size supports this plugin you can select one.
+							</p>
+							<p> 
+							<strong>Imgaes show large screen</strong><br />
+							Set images number for large screen.
+							</p>
+							<p> 
+							<strong>Imgaes show medium screen</strong><br />
+							Set images number for medium screen.
+							</p>
+							<p> 
+							<strong>Imgaes show in tab</strong><br />
+							Set images number for tab.
+							</p>
+							<p> 
+							<strong>Use item margin</strong><br />
+							You can use or hide item margin feature.This margin separate each image right and left.
+							</p>
+							<p> 
+							<strong>Set carousel image item margin</strong><br />
+							If you use margin set margin number.
+							</p>
+							<img src="assets/img/m_settings_two.png" alt="Niso carousel" />
+							<p> 
+							<strong>Infinite loop</strong><br />
+							You can hide or active infinite loop feature.If you active this your carousel image scroll limitless.
+							</p>
+							<p> 
+							<strong>Carousel top bottom margin</strong><br />
+							Set carousel top bottom margin by px.Default margin 10px.
+							</p>
+							<p> 
+							<strong>Carousel auto play</strong><br />
+							If you active carousel auto play you will get four more options for auto play setting.
+							</p>
+							<p> 
+							<strong>Auto play speed</strong><br />
+							Set auto play speed set by millisecond.Default speed 300 millisecond.
+							</p>
+							<p> 
+							<strong>Auto play speed time out</strong><br />
+							Set auto play speed time out set by millisecond.Default speed 3000 millisecond.
+							</p>
+							<p> 
+							<strong>Push on hover</strong><br />
+							Auto play push when carousel hover.
+							</p>
+							<p> 
+							<strong>Image scroll at a time</strong><br />
+							How many image scroll at a time set by this options.
+							</p>
+							<img src="assets/img/m_settings_3.png" alt="" />
+							<p> 
+							<strong>Carousel smart speed</strong><br />
+							Smart speed set by millisecond.Default speed 250px.
+							</p>
+							<p> 
+							<strong>Carousel navigation</strong><br />
+							Show next prev button by this option.If you active this feature you will get more 9 options.
+							</p>
+							<p> 
+							<strong>Select navigation arrows icons</strong><br />
+							Select icons for navigation buttons.
+							</p>
+							<p> 
+							<strong>Select navigation arrows position</strong><br />
+							You can set navigation buttons six different position.Select one position.
+							</p>
+							<img src="assets/img/m_settings_4.png" alt="" />
+							<p> 
+							<strong>Select arrow button top bottom margin</strong><br />
+							Top bottom margin set if needed.
+							</p>
+							<p> 
+							<strong>Arrows background color</strong><br />
+							Set background color By this color picker.
+							</p>
+							<p> 
+							<strong>Arrows background hover color</strong><br />
+							Set background hover color By this color picker.
+							</p>
+							<p> 
+							<strong>Arrows background opacity</strong><br />
+							Background opacity set by px.
+							</p>
+							<p> 
+							<strong>Arrows icon color</strong><br />
+							Icon color set by this color picker.
+							</p>
+							<p> 
+							<strong>Arrows icon hover color</strong><br />
+							Icon hover color set this options.
+							</p>
+							<img src="assets/img/m_settings_5.png" alt="" />
+							<p> 
+							<strong>Carousel navigation speed</strong><br />
+							Set carousel navigation speed by millisecond.
+							</p>
+							<p> 
+							<strong>Carousel dots</strong><br />
+							If you active this feature you will get more two options.Dots show bottom of carousel.
+							</p>
+							<p> 
+							<strong>Carousel dots position</strong><br />
+							You can set dots 3 different position.
+							</p>
+							<p> 
+							<strong>Carousel dots speed</strong><br />
+							Set dots speed by millisecond.
+							</p>
+							<img src="assets/img/m_settings_6.png" alt="" />
+							<p> 
+							<strong>Carousel center mode</strong><br />
+							Enables centred view with partial prev/next slides. Use with odd numbered slidesToShow counts.
+							</p>
+							<p> 
+							<strong>Center mode padding</strong><br />
+							Padding left and right on stage (can see neighbours).
+							</p>
+							<p> 
+							<strong>Carousel border</strong><br />
+							You will get three more options when active this option.
+							</p>
+							<p> 
+							<strong>Border type</strong><br />
+							Two border type these are solid and dotted.
+							</p>
+							<p> 
+							<strong>Border color</strong><br />
+							Border color set by color picker.
+							</p>
+							<img src="assets/img/m_settings_7.png" alt="" />
+							<p> 
+							<strong>Carousel image lightbox</strong><br />
+							Niso carousel slider support image lightbox.You may use this feature.This lightbox not for video carousel.
+							</p>
+							<p> 
+							<strong>Carousel image lightbox effect</strong><br />
+							If use lightbox select lightbox effect.
+							</p>
+							<p> 
+							<strong>Mouse drag</strong><br />
+							Mouse dragging feature.
+							</p>
+							<p> 
+							<strong>Touch drag</strong><br />
+							Touch dragging feature.
+							</p>
+							<p> 
+							<strong>Pull drag</strong><br />
+							Stage pull to edge.
+							</p>
+							<p> 
+							<strong>Free drag</strong><br />
+							Item pull to edge.
+							</p>
+							<img src="assets/img/m_settings_8.png" alt="" />
+							<p> 
+							<strong>Auto height</strong><br />
+							upload different height image for auto height.
+							</p>
+							<p> 
+							<strong>Active mousewheel scrolling</strong><br />
+							add mouswheel scrolling for fantastic scroll.
+							</p>
+							<p> 
+							<strong>Lazy load</strong><br />
+							Lazy load images.Lazy load not for video carousel.
+							</p>
+							<p> 
+							<strong>Carousel start position</strong><br />
+							Set Start position by number.
+							</p>
+							<p> 
+							<strong>Select caption style</strong><br />
+							This setting only for caption carousel.
+							</p>
+							<hr />
+						<h4 class="sub-title">Single image carousel settings.</h4>
+						<img src="assets/img/s_settings.png" alt="" />
+						<p> 
+						<strong>Select image size</strong><br />
+							Select single image size for carousel.
+						</p>
+						<p> 
+						<strong>Single item animation in</strong><br />
+							Select single item animation in.
+						</p>
+						<p> 
+						<strong>Single item animation Out</strong><br />
+							Select single item animation Out.
+						</p>
+						</div> <!-- panel body -->
+						<div role="alert" class="alert alert-danger">Other settings as same as multiple image carousel settings.</div>
+					</div> <!-- panel -->
+				</section><!--#image carousel section -->
+				 <!--counter Supported social networks-->
+				<section id="shortcode" class="section-padding">
+					<div class="panel panel-info">
+						<div class="panel-heading">
+							<h3 class="panel-title">
+								<span aria-hidden="true" class="glyphicon glyphicon-hand-right"></span>
+								<strong>&nbsp;Niso carousel slider shortcode</strong>
+							</h3> 
+						</div> <!-- panel heading -->
+						<div class="panel-body">
+							<h4 class="sub-title">After published carousel you will see new shortcode.</h4>
+							<img src="assets/img/publish.png" alt="Niso carousel" />
+							<h4 class="sub-title">You also see this shortcode in carousel list and wordpress TinyMCE custom Niso carousel slider button.</h4>
+							<img src="assets/img/item_list.png" alt="Niso carousel" />
+							<img src="assets/img/tynemce.png" alt="Niso carousel" />
+							
+						</div> <!-- panel body -->
+					</div> <!-- panel -->
+				</section><!--#Settings section -->
+				 <!--shortcode use-->
+				<section id="shortcode_use" class="section-padding">
+					<div class="panel panel-info">
+						<div class="panel-heading">
+							<h3 class="panel-title">
+								<span aria-hidden="true" class="glyphicon glyphicon-hand-right"></span>
+								<strong>&nbsp;Shortcode use</strong>
+							</h3> 
+						</div> <!-- panel heading -->
+						<div class="panel-body">
+							<h4 class="sub-title">Go add new page or post and click Niso carousel slider custom button then select your carousel and click ok button.</h4>
+							<img src="assets/img/tynemce.png" alt="Niso carousel" />
+							<h4 class="sub-title">This is your shortcode now publish it.</h4>
+							<img src="assets/img/this_shortcode.png" alt="" />
+						</div> <!-- panel body -->
+						<div class="panel-body">
+							<h4 class="sub-title">Copy shortcode this Niso carousel slider list.</h4>
+							<img src="assets/img/copy_list.png" alt="Niso carousel" />
+							<h4 class="sub-title">Now past this shortcode in template file.</h4>
+							<pre>&lt;?php echo do_shortcode('[ncarousel id="665"]');?&gt;</pre>
+						</div> <!-- panel body -->
+					</div> <!-- panel -->
+				</section><!--#Settings section -->
+				<section id="Sources_Credits" class="section-padding">
+						<div class="panel panel-info">
+							<div class="panel-heading">
+								<h3 class="panel-title">
+									<span class="glyphicon glyphicon-hand-right" aria-hidden="true"></span>
+									<strong>&nbsp;Sources &amp; Credits</strong>
+								</h3> 
+							</div> <!-- panel heading -->
+							<div class="panel-body"> 
+								<h4 class="sub-title">We have used the following opensource projects or other files as listed.</h4>
+								<ol>
+									<li><a href="https://github.com/OwlCarousel2/OwlCarousel2">OwlCarousel2</a></li>
+									<li><a href="https://github.com/fntneves/jquery-labelauty">Labelauty jQuery</a></li>
+									<li><a href="http://fontello.com/">fontello.css</a></li>
+									<li><a href="https://github.com/gilbitron/Nivo-Lightbox">Nivo Lightbox</a></li>
+									<li><a href="https://github.com/daneden/animate.css">animate.css</a></li>
+									<li><a href="https://github.com/jquery/jquery-mousewheel">jquery-mousewheel</a></li>
+									<li><a href="https://github.com/WebDevStudios/CMB2">CMB2</a></li>
+								</ol>
+							</div> <!-- panel body -->
+						</div> <!-- panel -->
+					</section><!--/#Sources & Credits section -->
+					<section class="section-padding" id="Support">
+						<div class="panel panel-info">
+							<div class="panel-heading">
+								<h3 class="panel-title">
+									<span class="glyphicon glyphicon-hand-right" aria-hidden="true"></span>
+									<strong>&nbsp;Support</strong>
+								</h3> 
+							</div> <!-- panel heading -->
+							<div class="panel-body"> 
+								<h4 class="sub-title">Please send any support queries using the form on my ThemeForest profile page at <a target="_blank" href="http://codecanyon.net/user/noor-alam">www.codecanyon.net/user/noor-alam</a>.</h4>
+							</div> <!-- panel body -->
+						</div> <!-- panel -->
+					</section><!--#Support section -->
+				<div class="alert alert-success text-center" role="alert">Thank you for your time.</div>
+
+            </div>
+        </div>
+        <!-- /#page-content-wrapper -->
+
+    </div>
+    <!-- /#wrapper -->
+
+    <!-- jQuery -->
+    <script src="assets/js/jquery.js"></script>
+
+    <!-- Bootstrap Core JavaScript -->
+    <script src="assets/js/bootstrap.min.js"></script>
+	    <!-- Scrolling Nav JavaScript -->
+    <script src="assets/js/jquery.easing.min.js"></script>
+    <script src="assets/js/scrolling-nav.js"></script>
+    <!-- Menu Toggle Script -->
+    <script>
+    $('#menu-toggle').click(function(e) {
+        e.preventDefault();
+        $('#wrapper').toggleClass('toggled');
+    });
+	$('ul.sidebar-nav li').on('click', function(){
+		$('ul.sidebar-nav li').removeClass('active');
+		$(this).addClass('active');
+	});
+    </script>
+
+</body>
+
+</html>

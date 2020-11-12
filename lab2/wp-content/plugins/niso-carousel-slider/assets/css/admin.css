@@ -1,0 +1,264 @@
+/*tynemce button icon */
+i.mce-i-nc-icon {
+	background-image: url('../img/nc-icon.png');
+}
+/*cmb2 group style */
+#tab-2.tab-content.niso-caption .cmb-repeat-group-wrap{
+padding-bottom:0
+}
+#tab-2.tab-content.niso-caption .cmb-row #caption_group_repeat button.dashicons-before.dashicons-no-alt.cmb-remove-group-row:not([disabled]){
+background-color: #ccc !important;
+-webkit-border-radius: 12%;
+   -moz-border-radius: 12%;
+    -ms-border-radius: 12%;
+     -o-border-radius: 12%;
+        border-radius: 12%;
+z-index: 1111;
+}
+#caption_group_repeat,
+#video_carousel_repeat{position:relative}
+#tab-2.tab-content.niso-caption .cmb-repeat-group-wrap p.cmb-add-row{
+bottom: 34px;
+display: inline-block;
+position: absolute;
+right: 140px;
+}
+#niso_img_carousel_repeat .cmb2-upload-button {
+  float: none;
+}
+#niso_img_carousel_repeat .cmb2-id-niso-img-carousel-0-niso-images .cmb-td{
+  text-align:center;
+}
+#niso_img_carousel_repeat .cmb2-id-niso-img-carousel-0-niso-images .cmb-td {
+  border: 1px solid #ededed;
+  margin: 0 40px 0 0;
+  padding: 22px;
+  text-align: center;
+  width: 69%;
+}
+#tab-3.tab-content .cmb-repeat-group-wrap .cmb-type-oembed .cmb-td p.cmb-add-row{
+bottom: 57px;
+display: inline-block;
+position: absolute;
+right: 82px;
+}
+#tab-2.tab-content.niso-caption .cmb-repeat-group-wrap .cmb-repeat-group-field{
+border-bottom: medium none;
+margin-bottom: 0;
+padding-bottom: 0;
+}
+#niso_img_carousel_repeat .cmb-row.cmb-type-file-list.cmb2-id-niso-img-carousel-0-file-list-test.cmb-repeat-group-field{
+min-height: 150px;
+width: 100%;
+}
+#niso_img_carousel_repeat .cmb-row.cmb-type-file-list.cmb2-id-niso-img-carousel-0-file-list-test.cmb-repeat-group-field .cmb-th,
+#niso_img_carousel_repeat .cmb-row.cmb-type-file-list.cmb2-id-niso-img-carousel-0-file-list-test.cmb-repeat-group-field .cmb-td{
+padding-top:40px
+}
+
+#niso_img_carousel_repeat .cmb-row.cmb-type-file-list.cmb2-id-niso-img-carousel-0-file-list-test.cmb-repeat-group-field .cmb-td{
+min-height:150px
+}
+#niso_img_carousel_repeat .cmb-row.cmb-type-file-list.cmb2-id-niso-img-carousel-0-file-list-test.cmb-repeat-group-field .cmb-td input{
+display: block;
+float: left;
+}
+#niso_img_carousel_repeat .cmb-row.cmb-type-file-list.cmb2-id-niso-img-carousel-0-file-list-test.cmb-repeat-group-field .cmb-td p{
+display: block;
+float: left;
+width: 100%;
+}
+#niso_doc_link{
+	display:none;
+}
+/**
+ * checkbox style
+ */
+ .select2-selection__clear{
+display:none;
+}
+.cmb-type-checkbox div.cmb-td {
+  background: #333 none repeat scroll 0 0;
+  -webkit-border-radius: 50px;
+   -moz-border-radius: 50px;
+    -ms-border-radius: 50px;
+     -o-border-radius: 50px;
+        border-radius: 50px;
+  float: left !important;
+  height: 40px;
+  margin: -4px -7px;
+  position: relative;
+  width: 120px !important;
+}
+.cmb-type-checkbox div.cmb-td:before {
+	content: 'On';
+	position: absolute;
+	top: 12px;
+	left: 13px;
+	height: 2px;
+	color: #26ca28;
+	font-size: 16px;
+}
+.cmb-type-checkbox div.cmb-td:after {
+	content: 'Off';
+	position: absolute;
+	top: 12px;
+	left: 84px;
+	height: 2px;
+	color: #ff0000;
+	font-size: 16px;
+}
+.cmb-type-checkbox div.cmb-td label {
+	display: block;
+	width: 52px;
+	height: 22px;
+	border-radius: 50px;
+	-webkit-transition: all .5s ease;
+   -moz-transition: all .5s ease;
+    -ms-transition: all .5s ease;
+     -o-transition: all .5s ease;
+        transition: all .5s ease;
+	cursor: pointer;
+	position: absolute;
+	top: 9px;
+	z-index: 1;
+	left: 12px;
+	background: #ddd;
+}
+
+/**
+ * Create the checkbox event for the label
+ */
+.cmb-type-checkbox div.cmb-td input[type=checkbox]:checked + label {
+	left: 60px;
+	background: #26ca28;
+}
+.cmb-type-checkbox input[type="checkbox"] {
+  opacity: 0.01;
+}
+.cmb-type-checkbox label span {
+  height: 100%;
+  left: 155%;
+  min-width: 300px;
+  position: absolute;
+  top: 4px;
+}
+.check-des {
+  display: block;
+  margin-left: 141px;
+  margin-top: -6px;
+  width: 400px;
+}
+#carousel_settings_repeat .select2-container {
+  min-width: 200px;
+}
+/*Labelauty style */
+.labelauty-unchecked, .labelauty-checked {
+	font-size: 13px;
+	padding: 10px 20px 10px 8px;
+	text-align: center;
+} 
+input.labelauty + label > span.labelauty-checked-image,
+input.labelauty + label > span.labelauty-unchecked-image {
+  margin: 0 0 10px 21px;
+}  
+input.labelauty:checked + label{
+  Background-color:#4CAF50;
+}   
+input.labelauty:checked:not([disabled]) + label:hover{
+  Background-color:#1B5E20;
+} 
+input.labelauty + label {
+  background-color: #ccc;
+  color: #fff;
+  font-weight: bold;
+}  
+input.labelauty:not(:checked):not([disabled]) + label:hover {
+  Background-color:#A5D6A7;
+    color: #fff;
+}
+ul.cmb2-list li label span i {
+  color: #000;
+  font-size: 16px;
+  font-weight: bold;
+}
+ul.cmb2-radio-list.cmb2-list label:nth-child(3) {
+  display: none;
+}
+/*Auto push hide*/
+html body .cmb-field-list .cmb-repeat-group-field.niso-none {
+  display: none !important;
+}
+#carousel_settings_repeat .ui-widget-header {
+  background: #ccc none repeat scroll 0 0;
+}
+.cmb2-id-carousel-settings-0-autoplaySpeed,
+.cmb2-id-carousel-settings-0-autoplayTimeout,
+.cmb2-id-carousel-settings-0-niso-HoverPause,
+.cmb2-id-carousel-settings-0-niso-scrollimage{ 
+display:none;
+}
+.post-type-niso-carousel #wpfooter {
+  display: none;
+}
+#niso_pro_link {
+  margin-top: -104px;
+  position: absolute;
+  right: 2%;
+  width: 280px;
+}
+#cmb2-metabox-niso_pro_link input {
+  display: none;
+}
+.select2-container {
+    box-sizing: border-box;
+    display: inline-block;
+    position: relative;
+    vertical-align: middle;
+    min-width: 200px;
+    margin: 0px;
+}
+.cmb2-id-awe-link input {
+  display: none;
+}
+html body .cmb2-id-awe-link.table-layout {
+  margin-bottom: -70px;
+  margin-left: -12px;
+  padding-bottom: 0 !important;
+}
+#niso_pro_link h2 {
+  background: #0d6c3e none repeat scroll 0 0;
+  color: #fff;
+  cursor: pointer;
+}
+#niso_pro_link span.toggle-indicator {
+  color: #fff;
+}
+.niso-button {
+  background: #186daf none repeat scroll 0 0;
+  color: #fff;
+  display: block;
+  font-size: 15px;
+  margin-top: 5px;
+  padding: 10px;
+  text-align: center;
+  text-decoration: none;
+  width: 247px;
+}
+.niso-button:hover {
+  background: #125990 none repeat scroll 0 0;
+  color: #fff;
+}
+#cmb2-metabox-niso_pro_link .cmb2-id-pro-link {
+  padding-top: 0;
+}
+input#niso_pro_0_pro_link {
+    display: none;
+}
+.tabs-menu li:nth-child(6) {
+    background: red;
+}
+
+li#toplevel_page_niso-carousel-slider {
+    display: none;
+}

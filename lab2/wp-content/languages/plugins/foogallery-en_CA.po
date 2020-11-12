@@ -1,0 +1,3651 @@
+# Translation of Plugins - Best Image Gallery &amp; Responsive Photo Gallery &#8211; FooGallery - Development (trunk) in English (Canada)
+# This file is distributed under the same license as the Plugins - Best Image Gallery &amp; Responsive Photo Gallery &#8211; FooGallery - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-10-14 09:44:03+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: en_CA\n"
+"Project-Id-Version: Plugins - Best Image Gallery &amp; Responsive Photo Gallery &#8211; FooGallery - Development (trunk)\n"
+
+#: includes/class-foogallery-force-https.php:37
+msgid "Force all assets (thumbnails, javascript, css) to load over the HTTPS protocol. This can help overcome some issues when moving your site across to HTTPS and you get mixed content errors."
+msgstr "Force all assets (thumbnails, JavaScript, CSS) to load over the HTTPS protocol. This can help overcome some issues when moving your site across to HTTPS and you get mixed content errors."
+
+#: includes/class-foogallery-force-https.php:36
+msgid "Force HTTPS"
+msgstr "Force HTTPS"
+
+#: includes/admin/view-extensions-build-your-own.php:124
+msgid "Blank"
+msgstr "Blank"
+
+#: includes/admin/class-admin-notices.php:135
+msgid "Rate FooGallery on WordPress.org"
+msgstr "Rate FooGallery on WordPress.org"
+
+#: includes/admin/class-admin-notices.php:133
+msgid "We noticed you have created 5 galleries in FooGallery. If you love FooGallery, please consider giving it a 5 star rating on WordPress.org. Your positive ratings help spread the word and help us grow."
+msgstr "We noticed you have created 5 galleries in FooGallery. If you love FooGallery, please consider giving it a 5 star rating on WordPress.org. Your positive ratings help spread the word and help us grow."
+
+#: includes/admin/class-admin-notices.php:132
+msgid "Thanks for using FooGallery"
+msgstr "Thanks for using FooGallery"
+
+#: includes/admin/class-settings.php:361
+msgid "Sometimes there are problems running the thumbnail generation test. This overrides the test to use a remote image from our CDN."
+msgstr "Sometimes there are problems running the thumbnail generation test. This overrides the test to use a remote image from our CDN."
+
+#: includes/admin/class-settings.php:360
+msgid "Override Thumb Test"
+msgstr "Override Thumb Test"
+
+#: includes/admin/class-settings.php:329
+msgid "Some plugins conflict with the default way of rendering gallery items to the container. Enabling this setting will output gallery items to a separate script block."
+msgstr "Some plugins conflict with the default way of rendering gallery items to the container. Enabling this setting will output gallery items to a separate script block."
+
+#: includes/admin/class-settings.php:328
+msgid "Output Gallery JSON to Script Block"
+msgstr "Output Gallery JSON to Script Block"
+
+#: includes/admin/view-help.php:278
+msgid "Open a support ticket"
+msgstr "Open a support ticket"
+
+#: includes/admin/view-help.php:277
+msgid "Still stuck? Please open a support ticket and we will help:"
+msgstr "Still stuck? Please open a support ticket and we will help:"
+
+#: includes/admin/view-help.php:274
+msgid "We actively monitor and answer all questions posted on WordPress.org for FooGallery."
+msgstr "We actively monitor and answer all questions posted on WordPress.org for FooGallery."
+
+#: includes/admin/view-help.php:274
+msgid "FooGallery WordPress.org Support"
+msgstr "FooGallery WordPress.org Support"
+
+#: includes/admin/view-help.php:272
+msgid "A collection of common scenarios and questions. The knowledgebase articles will help you troubleshoot issues that have previously been solved."
+msgstr "A collection of common scenarios and questions. The knowledgebase articles will help you troubleshoot issues that have previously been solved."
+
+#: includes/admin/view-help.php:272
+msgid "FooPlugins Knowledgebase"
+msgstr "FooPlugins Knowledgebase"
+
+#: includes/admin/view-help.php:270
+msgid "Need help? We're here for you..."
+msgstr "Need help? We're here for you…"
+
+#: includes/admin/view-help.php:265
+msgid "Open demo in new tab"
+msgstr "Open demo in new tab"
+
+#: includes/admin/view-help.php:253
+msgid "FooGallery Demos"
+msgstr "FooGallery Demos"
+
+#: includes/admin/view-help.php:248
+msgid "Open PRO demo in new tab"
+msgstr "Open PRO demo in new tab"
+
+#: includes/admin/view-help.php:246
+msgid "Click on a link below to open a demo of the PRO feature in a new tab."
+msgstr "Click on a link below to open a demo of the PRO feature in a new tab."
+
+#: includes/admin/view-help.php:245
+msgid "FooGallery PRO Features"
+msgstr "FooGallery PRO Features"
+
+#: includes/admin/view-help.php:242
+msgid "Start Your 7-day Free Trial"
+msgstr "Start Your 7-day Free Trial"
+
+#: includes/admin/view-help.php:241
+msgid "Want to test out all the PRO features? No problem! You can start a 7-day free trial immediately. No credit card is required!"
+msgstr "Want to test out all the PRO features? No problem! You can start a 7-day free trial immediately. No credit card is required!"
+
+#: includes/admin/view-help.php:240
+msgid "FooGallery PRO Free Trial"
+msgstr "FooGallery PRO Free Trial"
+
+#: includes/admin/view-help.php:180
+msgid "Demos"
+msgstr "Demos"
+
+#: includes/admin/view-help.php:19
+msgid "Already convinced? Upgrade to PRO!"
+msgstr "Already convinced? Upgrade to PRO!"
+
+#: includes/admin/view-help.php:18
+msgid "Free Trial"
+msgstr "Free Trial"
+
+#: includes/admin/view-help.php:16
+msgid "Upgrade to PRO!"
+msgstr "Upgrade to PRO!"
+
+#: includes/admin/view-help.php:15 includes/admin/class-pro-promotion.php:132
+msgid "Upgrade to PRO"
+msgstr "Upgrade to PRO"
+
+#: includes/functions.php:1419
+msgid "Bulk copy your gallery settings to other galleries in a flash."
+msgstr "Bulk copy your gallery settings to other galleries in a flash."
+
+#: includes/functions.php:1418
+msgid "Bulk Copy Settings"
+msgstr "Bulk Copy Settings"
+
+#: includes/functions.php:1414
+msgid "Choose from 9 awesome animation effects to display as your galleries load."
+msgstr "Choose from 9 awesome animation effects to display as your galleries load."
+
+#: includes/functions.php:1413
+msgid "Animated Loading Effects"
+msgstr "Animated Loading Effects"
+
+#: includes/functions.php:1409
+msgid "Choose from more paging types like numbered, load more or infinite scroll."
+msgstr "Choose from more paging types like numbered, load more or infinite scroll."
+
+#: includes/functions.php:1408
+msgid "Advanced Pagination + Infinite Scroll"
+msgstr "Advanced Pagination + Infinite Scroll"
+
+#: includes/functions.php:1404
+msgid "Choose from 11 beautifully designed preset hover effects."
+msgstr "Choose from 11 beautifully designed preset hover effects."
+
+#: includes/functions.php:1403
+msgid "Preset Hover Effects"
+msgstr "Preset Hover Effects"
+
+#: includes/functions.php:1399
+msgid "3 more awesome gallery templates, including Slider, Grid and Polaroid."
+msgstr "3 more awesome gallery templates, including Slider, Grid and Polaroid."
+
+#: includes/functions.php:1398
+msgid "More Gallery Templates"
+msgstr "More Gallery Templates"
+
+#: includes/functions.php:1394
+msgid "Assign tags to your media, which allows visitors to filter the galleries by tag."
+msgstr "Assign tags to your media, which allows visitors to filter the galleries by tag."
+
+#: includes/functions.php:1393
+msgid "Media Tags + Filtering"
+msgstr "Media Tags + Filtering"
+
+#: includes/functions.php:1389
+msgid "Create beautiful video galleries from YouTube, Vimeo, Facebook, Wistia and more!"
+msgstr "Create beautiful video galleries from YouTube, Vimeo, Facebook, Wistia and more!"
+
+#: includes/functions.php:1388 includes/admin/class-pro-promotion.php:539
+msgid "Video Galleries"
+msgstr "Video Galleries"
+
+#: includes/functions.php:1375
+msgid "Album Demos"
+msgstr "Album Demos"
+
+#: includes/functions.php:1369
+msgid "Bulk Copy (admin)"
+msgstr "Bulk Copy (admin)"
+
+#: includes/functions.php:1364
+msgid "Video Gallery Demos"
+msgstr "Video Gallery Demos"
+
+#: includes/functions.php:1359
+msgid "Pagination Types Demo"
+msgstr "Pagination Types Demo"
+
+#: includes/functions.php:1354
+msgid "Filtering Demos"
+msgstr "Filtering Demos"
+
+#: includes/functions.php:1350 includes/functions.php:1355
+#: includes/functions.php:1360 includes/functions.php:1365
+#: includes/functions.php:1370
+msgid "PRO Features"
+msgstr "PRO Features"
+
+#: includes/functions.php:1349
+msgid "Hover Presets Demo"
+msgstr "Hover Presets Demo"
+
+#: includes/functions.php:1344
+msgid "Slider PRO Gallery"
+msgstr "Slider PRO Gallery"
+
+#: includes/functions.php:1339
+msgid "Polaroid PRO Gallery"
+msgstr "Polaroid PRO Gallery"
+
+#: includes/functions.php:1335 includes/functions.php:1340
+#: includes/functions.php:1345
+msgid "PRO Gallery Demos"
+msgstr "PRO Gallery Demos"
+
+#: includes/functions.php:1334
+msgid "Grid PRO Gallery"
+msgstr "Grid PRO Gallery"
+
+#: includes/functions.php:1324
+msgid "Simple Portfolio Gallery"
+msgstr "Simple Portfolio Gallery"
+
+#: includes/functions.php:1319
+msgid "Image Viewer Gallery"
+msgstr "Image Viewer Gallery"
+
+#: includes/functions.php:1305 includes/functions.php:1310
+#: includes/functions.php:1315 includes/functions.php:1320
+#: includes/functions.php:1325 includes/functions.php:1330
+msgid "Standard Gallery Demos"
+msgstr "Standard Gallery Demos"
+
+#: includes/compatibility/class-foobox-compatibility.php:69
+#: includes/admin/class-pro-promotion.php:419
+msgid "Install it now!"
+msgstr "Install it now!"
+
+#: includes/compatibility/class-foobox-compatibility.php:69
+msgid "Install our separate FooBox Lightbox plugin so that your gallery images will open in a beautiful responsive lightbox. %s"
+msgstr "Install our separate FooBox Lightbox plugin so that your gallery images will open in a beautiful responsive lightbox. %s"
+
+#: includes/admin/class-gallery-metabox-settings.php:89
+#: includes/admin/class-pro-promotion.php:109
+#: includes/admin/class-pro-promotion.php:536
+msgid "Video"
+msgstr "Video"
+
+#: extensions/default-templates/image-viewer/class-image-viewer-gallery-template.php:145
+msgid "Looping Enabled"
+msgstr "Looping Enabled"
+
+#: extensions/default-templates/image-viewer/class-image-viewer-gallery-template.php:139
+msgid "When navigating through the images, do you want to loop image back to the first after you navigate past the last image?"
+msgstr "When navigating through the images, do you want to loop image back to the first after you navigate past the last image?"
+
+#: extensions/default-templates/image-viewer/class-image-viewer-gallery-template.php:137
+msgid "Loop Images"
+msgstr "Loop Images"
+
+#: extensions/nextgen-importer/view-importer.php:327
+msgid "For all the albums you wish to import, make sure all the galleries have been imported FIRST. If not, then go back to the Galleries tab."
+msgstr "For all the albums you wish to import, make sure all the galleries have been imported FIRST. If not, then go back to the Galleries tab."
+
+#: extensions/demo-content-generator/view-demo-content.php:75
+msgid "Import Images &amp; Generate Gallery"
+msgstr "Import Images &amp; Generate Gallery"
+
+#: extensions/demo-content-generator/view-demo-content.php:59
+msgid "Search"
+msgstr "Search"
+
+#: extensions/demo-content-generator/view-demo-content.php:57
+msgid "Search for?"
+msgstr "Search for?"
+
+#: extensions/demo-content-generator/view-demo-content.php:57
+msgid "Keywords"
+msgstr "Keywords"
+
+#: extensions/demo-content-generator/view-demo-content.php:48
+msgid "Images are provided by %s"
+msgstr "Images are provided by %s"
+
+#: extensions/demo-content-generator/view-demo-content.php:47
+msgid "Search for images and generate galleries below. Use multiple keywords to ensure you find enough images."
+msgstr "Search for images and generate galleries below. Use multiple keywords to ensure you find enough images."
+
+#: extensions/demo-content-generator/view-demo-content.php:44
+msgid "FooGallery Demo Content Generator"
+msgstr "FooGallery Demo Content Generator"
+
+#: extensions/demo-content-generator/view-demo-content.php:21
+msgid "The images have been imported into your media library and a gallery has been generated. %s"
+msgstr "The images have been imported into your media library and a gallery has been generated. %s"
+
+#: extensions/demo-content-generator/view-demo-content.php:20
+msgid "View the gallery"
+msgstr "View the gallery"
+
+#: extensions/demo-content-generator/view-demo-content.php:16
+msgid "Please provide keywords and how many images you want to search for!"
+msgstr "Please provide keywords and how many images you want to search for!"
+
+#: extensions/demo-content-generator/class-demo-content-generator.php:16
+msgid "Demo Content"
+msgstr "Demo Content"
+
+#: includes/admin/view-help.php:224
+msgid "Use the new block directly in the new visual editor that comes standard in WordPress 5."
+msgstr "Use the new block directly in the new visual editor that comes standard in WordPress 5."
+
+#: includes/admin/view-help.php:223
+msgid "Gutenberg Editor"
+msgstr "Gutenberg Editor"
+
+#: includes/admin/view-help.php:211
+msgid "Not sure which gallery template to use? Check out all our different %s."
+msgstr "Not sure which gallery template to use? Check out all our different %s."
+
+#: includes/admin/view-help.php:184
+msgid "Support"
+msgstr "Support"
+
+#: includes/admin/view-help.php:9
+msgid "gallery demos"
+msgstr "gallery demos"
+
+#: gutenberg/class-foogallery-rest-routes.php:132
+msgid "The FooGallery Thumbnail."
+msgstr "The FooGallery Thumbnail."
+
+#: gutenberg/class-foogallery-rest-routes.php:126
+msgid "The FooGallery Name."
+msgstr "The FooGallery Name."
+
+#: gutenberg/class-foogallery-rest-routes.php:120
+msgid "The FooGallery ID."
+msgstr "The FooGallery ID."
+
+#: gutenberg/class-foogallery-rest-routes.php:54
+msgid "Sorry, you are not allowed to read galleries as this user."
+msgstr "Sorry, you are not allowed to read galleries as this user."
+
+#: includes/compatibility/view-foovideo-offer.php:145
+msgid "Log Support Ticket"
+msgstr "Log Support Ticket"
+
+#: includes/compatibility/view-foovideo-offer.php:133
+msgid "The following information will be included in your support ticket:"
+msgstr "The following information will be included in your support ticket:"
+
+#: includes/compatibility/view-foovideo-offer.php:132
+msgid "Log a Support Ticket"
+msgstr "Log a Support Ticket"
+
+#: includes/compatibility/view-foovideo-offer.php:126
+msgid "I am no longer interested!"
+msgstr "I am no longer interested!"
+
+#: includes/compatibility/view-foovideo-offer.php:118
+msgid "Log a support ticket."
+msgstr "Log a support ticket."
+
+#: includes/compatibility/view-foovideo-offer.php:117
+msgid "You can also log a support ticket through to our help desk if you are having any problems."
+msgstr "You can also log a support ticket through to our help desk if you are having any problems."
+
+#: includes/compatibility/view-foovideo-offer.php:114
+msgid "Click the \"Redeem Now\" button below to retrieve your discount code based on the FooVideo license you have entered for this site. If you have not entered your FooVideo license, please enter it on the FooGallery Settings page, under the Extensions tab, and then try again."
+msgstr "Click the \"Redeem Now\" button below to retrieve your discount code based on the FooVideo licence you have entered for this site. If you have not entered your FooVideo licence, please enter it on the FooGallery Settings page, under the Extensions tab, and then try again."
+
+#: includes/compatibility/view-foovideo-offer.php:108
+msgid "FooVideo will no longer be supported and updated!"
+msgstr "FooVideo will no longer be supported and updated!"
+
+#: includes/compatibility/view-foovideo-offer.php:107
+msgid "FooGallery PRO has better support for self-hosted videos."
+msgstr "FooGallery PRO has better support for self-hosted videos."
+
+#: includes/compatibility/view-foovideo-offer.php:106
+msgid "FooGallery PRO has support for more video providers."
+msgstr "FooGallery PRO has support for more video providers."
+
+#: includes/compatibility/view-foovideo-offer.php:105
+msgid "FooGallery PRO now has all the features of FooVideo built-in."
+msgstr "FooGallery PRO now has all the features of FooVideo built-in."
+
+#: includes/compatibility/view-foovideo-offer.php:103
+msgid "Reasons to upgrade to FooGallery PRO:"
+msgstr "Reasons to upgrade to FooGallery PRO:"
+
+#: includes/compatibility/view-foovideo-offer.php:100
+msgid "You are eligible for a FooGallery PRO discount, because you own a license for the FooVideo extension."
+msgstr "You are eligible for a FooGallery PRO discount, because you own a licence for the FooVideo extension."
+
+#: includes/compatibility/view-foovideo-offer.php:97
+msgid "FooGallery PRO Discount Offer"
+msgstr "FooGallery PRO Discount Offer"
+
+#: includes/compatibility/view-foovideo-offer.php:70
+msgid "Something went wrong when sending the ticket."
+msgstr "Something went wrong when sending the ticket."
+
+#: includes/compatibility/view-foovideo-offer.php:39
+msgid "Something went wrong when retrieving the discount code."
+msgstr "Something went wrong when retrieving the discount code."
+
+#: includes/compatibility/class-foovideo-compatibility.php:194
+msgid "We could not log the ticket. Please email support@fooplugins.com directly."
+msgstr "We could not log the ticket. Please email support@fooplugins.com directly."
+
+#: includes/compatibility/class-foovideo-compatibility.php:192
+msgid "Support email logged successfully!"
+msgstr "Support email logged successfully!"
+
+#: includes/compatibility/class-foovideo-compatibility.php:180
+msgid "Sorry! There was an error retrieving your discount code from our servers. Please log a support ticket and we will help."
+msgstr "Sorry! There was an error retrieving your discount code from our servers. Please log a support ticket and we will help."
+
+#: includes/compatibility/class-foovideo-compatibility.php:173
+msgid "Invalid License!"
+msgstr "Invalid Licence!"
+
+#: includes/compatibility/class-foovideo-compatibility.php:168
+msgid "For a more detailed guide on the process, %s."
+msgstr "For a more detailed guide on the process, %s."
+
+#: includes/compatibility/class-foovideo-compatibility.php:167
+msgid "read our documentation"
+msgstr "read our documentation"
+
+#: includes/compatibility/class-foovideo-compatibility.php:165
+msgid "Copy the discount code above and use it when extending your FooGallery PRO license from %s (make sure to select the %s plan!)."
+msgstr "Copy the discount code above and use it when extending your FooGallery PRO licence from %s (make sure to select the %s plan!)."
+
+#: includes/compatibility/class-foovideo-compatibility.php:164
+msgid "Your discount entitles you to a free FooGallery PRO - %s license renewal or extension!"
+msgstr "Your discount entitles you to a free FooGallery PRO - %s licence renewal or extension!"
+
+#: includes/compatibility/class-foovideo-compatibility.php:162
+msgid "Copy the discount code above and use it when purchasing FooGallery PRO from %s (make sure to select %s plan!)."
+msgstr "Copy the discount code above and use it when purchasing FooGallery PRO from %s (make sure to select %s plan!)."
+
+#: includes/compatibility/class-foovideo-compatibility.php:161
+msgid "Your discount entitles you to a FooGallery PRO - %s license for no additional cost!"
+msgstr "Your discount entitles you to a FooGallery PRO - %s licence for no additional cost!"
+
+#: includes/compatibility/class-foovideo-compatibility.php:157
+msgid "FooGallery -> Upgrade"
+msgstr "FooGallery -> Upgrade"
+
+#: includes/compatibility/class-foovideo-compatibility.php:153
+msgid "25 Site"
+msgstr "25 Site"
+
+#: includes/compatibility/class-foovideo-compatibility.php:151
+msgid "5 Site"
+msgstr "5 Site"
+
+#: includes/compatibility/class-foovideo-compatibility.php:149
+msgid "Single Site"
+msgstr "Single Site"
+
+#: includes/compatibility/class-foovideo-compatibility.php:147
+msgid "The value of the discount is : "
+msgstr "The value of the discount is : "
+
+#: includes/compatibility/class-foovideo-compatibility.php:146
+msgid "Your discount code is : "
+msgstr "Your discount code is : "
+
+#: includes/compatibility/class-foovideo-compatibility.php:130
+msgid "There is no FooVideo license key set for this site. Please set it via the %s under the extensions tab and try again."
+msgstr "There is no FooVideo licence key set for this site. Please set it via the %s under the extensions tab and try again."
+
+#: includes/compatibility/class-foovideo-compatibility.php:129
+msgid "FooGallery Settings page"
+msgstr "FooGallery Settings page"
+
+#: includes/compatibility/class-foovideo-compatibility.php:128
+msgid "No FooVideo License Found!"
+msgstr "No FooVideo Licence Found!"
+
+#: includes/compatibility/class-foovideo-compatibility.php:118
+msgid "Discount Offer"
+msgstr "Discount Offer"
+
+#: includes/compatibility/class-foovideo-compatibility.php:91
+#: includes/compatibility/view-foovideo-offer.php:121
+msgid "Redeem Now!"
+msgstr "Redeem Now!"
+
+#: includes/compatibility/class-foovideo-compatibility.php:67
+msgid "We noticed that you own a license for the older FooVideo extension but not for FooGallery PRO, which has all the awesome features of FooVideo, plus more! And because you already own FooVideo, you are eligible for a discount when upgrading to FooGallery PRO."
+msgstr "We noticed that you own a licence for the older FooVideo extension but not for FooGallery PRO, which has all the awesome features of FooVideo, plus more! And because you already own FooVideo, you are eligible for a discount when upgrading to FooGallery PRO."
+
+#: includes/compatibility/class-foovideo-compatibility.php:66
+msgid "FooGallery PRO Discount Available!"
+msgstr "FooGallery PRO Discount Available!"
+
+#: includes/admin/class-settings-image-optimization.php:19
+msgid "ShortPixel Image Optimizer"
+msgstr "ShortPixel Image Optimizer"
+
+#: includes/admin/class-settings-image-optimization.php:18
+msgid "Try the %s, an easy-to-use, lightweight WordPress plugin that optimizes images & PDFs."
+msgstr "Try the %s, an easy-to-use, lightweight WordPress plugin that optimizes images & PDFs."
+
+#: includes/admin/class-settings.php:321
+msgid "For when you want to enable legacy cropping options in certain gallery templates. This is not recommended."
+msgstr "For when you want to enable legacy cropping options in certain gallery templates. This is not recommended."
+
+#: includes/admin/class-settings.php:320
+msgid "Enable Legacy Thumb Cropping"
+msgstr "Enable Legacy Thumb Cropping"
+
+#: extensions/albums/functions.php:131
+msgid "H6"
+msgstr "H6"
+
+#: extensions/albums/functions.php:130
+msgid "H5"
+msgstr "H5"
+
+#: extensions/albums/functions.php:129
+msgid "H4"
+msgstr "H4"
+
+#: extensions/albums/functions.php:128
+msgid "H3"
+msgstr "H3"
+
+#: extensions/albums/functions.php:127
+msgid "H2"
+msgstr "H2"
+
+#: extensions/albums/functions.php:122
+msgid "The size of the title when displaying a gallery page."
+msgstr "The size of the title when displaying a gallery page."
+
+#: extensions/albums/functions.php:121
+msgid "Gallery Title Size"
+msgstr "Gallery Title Size"
+
+#: includes/compatibility/class-autoptimize-compatibility.php:59
+msgid "If you continue to have issues using FooGallery and Autoptimize together, then please goto Autoptimize Plugin settings –> Java Script Options –> Exclude Scripts and add foogallery.min.js"
+msgstr "If you continue to have issues using FooGallery and Autoptimize together, then please goto Autoptimize Plugin settings –> Java Script Options –> Exclude Scripts and add foogallery.min.js"
+
+#: includes/class-foogallery-default-crop-position.php:39
+msgid "The default crop position when resizing thumbnails."
+msgstr "The default crop position when resizing thumbnails."
+
+#: includes/class-foogallery-default-crop-position.php:38
+msgid "Default Crop Position"
+msgstr "Default Crop Position"
+
+#: includes/class-foogallery-paging.php:238
+msgid "HTML"
+msgstr "HTML"
+
+#: includes/class-foogallery-paging.php:237
+msgid "JSON"
+msgstr "JSON"
+
+#: includes/class-foogallery-paging.php:231
+msgid "How the paging items are output. We recommend that very large galleries output as JSON."
+msgstr "How the paging items are output. We recommend that very large galleries output as JSON."
+
+#: includes/class-foogallery-paging.php:230
+msgid "Paging Output"
+msgstr "Paging Output"
+
+#: extensions/default-templates/thumbnail/class-thumbnail-gallery-template.php:98
+msgid "Full Right"
+msgstr "Full Right"
+
+#: extensions/default-templates/thumbnail/class-thumbnail-gallery-template.php:97
+msgid "Full Left"
+msgstr "Full Left"
+
+#: extensions/default-templates/thumbnail/class-thumbnail-gallery-template.php:96
+msgid "Full Center"
+msgstr "Full Centre"
+
+#: includes/compatibility/class-autoptimize-compatibility.php:56
+msgid "FooGallery + Autoptimize : "
+msgstr "FooGallery + Autoptimize : "
+
+#: extensions/nextgen-importer/view-importer.php:345
+msgid "Find Shortcodes"
+msgstr "Find Shortcodes"
+
+#: extensions/nextgen-importer/view-importer.php:342
+msgid "Supported NextGen shortcodes: [ngg_images], [nggallery], [slideshow], [imagebrowse]"
+msgstr "Supported NextGen shortcodes: [ngg_images], [nggallery], [slideshow], [imagebrowse]"
+
+#: extensions/nextgen-importer/view-importer.php:340
+msgid "Replacing NextGen shortcodes will only work with galleries that have already been imported."
+msgstr "Replacing NextGen shortcodes will only work with galleries that have already been imported."
+
+#: extensions/nextgen-importer/view-importer.php:296
+msgid "Shortcodes"
+msgstr "Shortcodes"
+
+#: extensions/nextgen-importer/view-importer.php:258
+msgid "Something went wrong with replacing shortcodes, so the page will now reload."
+msgstr "Something went wrong with replacing shortcodes, so the page will now reload."
+
+#: extensions/nextgen-importer/view-importer.php:229
+msgid "Something went wrong with finding shortcodes, so the page will now reload."
+msgstr "Something went wrong with finding shortcodes, so the page will now reload."
+
+#: extensions/nextgen-importer/class-nextgen-gallery-importer-extension.php:256
+msgid "NO replacements were made for the shortcode"
+msgstr "NO replacements were made for the shortcode"
+
+#: extensions/nextgen-importer/class-nextgen-gallery-importer-extension.php:254
+msgid "shortcodes were replaced!"
+msgstr "shortcodes were replaced!"
+
+#: extensions/nextgen-importer/class-nextgen-gallery-importer-extension.php:228
+msgid "NO posts were found containing the shortcode"
+msgstr "NO posts were found containing the shortcode"
+
+#: extensions/nextgen-importer/class-nextgen-gallery-importer-extension.php:225
+msgid "shortcodes found that cannot be replaced, due to the gallery not being imported."
+msgstr "shortcodes found that cannot be replaced, due to the gallery not being imported."
+
+#: extensions/nextgen-importer/class-nextgen-gallery-importer-extension.php:222
+msgid "shortcodes found that can be replaced!"
+msgstr "shortcodes found that can be replaced!"
+
+#: extensions/nextgen-importer/class-nextgen-gallery-importer-extension.php:220
+msgid "posts found containing the shortcode"
+msgstr "posts found containing the shortcode"
+
+#: extensions/nextgen-importer/class-nextgen-gallery-importer-extension.php:181
+msgid "Replace Shortcodes"
+msgstr "Replace Shortcodes"
+
+#: extensions/default-templates/masonry/class-masonry-gallery-template.php:289
+msgid "Below Thumbnail"
+msgstr "Below Thumbnail"
+
+#: includes/admin/class-settings.php:305
+msgid "By default the jQuery ready event is used, but there are sometimes unavoidable javascript errors on the page, which could result in the default gallery templates not initializing correctly. Enable this setting to use a built-in custom ready event to overcome this if needed."
+msgstr "By default the jQuery ready event is used, but there are sometimes unavoidable JavaScript errors on the page, which could result in the default gallery templates not initializing correctly. Enable this setting to use a built-in custom ready event to overcome this if needed."
+
+#: includes/admin/class-settings.php:304
+msgid "Custom Ready Event"
+msgstr "Custom Ready Event"
+
+#: extensions/default-templates/image-viewer/class-image-viewer-gallery-template.php:81
+msgid "It is recommended to crop your thumbnails, so that your gallery remains a constant size. If you do not crop, then the size of the gallery could potentially change for each thumbnail."
+msgstr "It is recommended to crop your thumbnails, so that your gallery remains a constant size. If you do not crop, then the size of the gallery could potentially change for each thumbnail."
+
+#: extensions/default-templates/image-viewer/class-image-viewer-gallery-template.php:80
+msgid "Thumbnail Help"
+msgstr "Thumbnail Help"
+
+#: includes/class-foogallery-widget.php:82
+msgid "Select Gallery:"
+msgstr "Select Gallery:"
+
+#: includes/class-foogallery-widget.php:76
+msgid "Title:"
+msgstr "Title:"
+
+#: includes/class-foogallery-widget.php:71
+msgid "New title"
+msgstr "New title"
+
+#: includes/class-foogallery-widget.php:32
+msgid "Insert a FooGallery"
+msgstr "Insert a FooGallery"
+
+#: includes/class-foogallery-lazyload.php:176
+msgid "This will disable lazy loading for ALL galleries. This is not recommended, but is sometimes needed when there are problems with the galleries displaying on some installs."
+msgstr "This will disable lazy loading for ALL galleries. This is not recommended, but is sometimes needed when there are problems with the galleries displaying on some installs."
+
+#: includes/compatibility/class-autoptimize-compatibility.php:57
+msgid "We noticed that you have the Autoptimize plugin installed. After updating FooGallery, please make sure you delete the Autoptimize cache from the admin bar above to make sure your galleries continue to display correctly."
+msgstr "We noticed that you have the Autoptimize plugin installed. After updating FooGallery, please make sure you delete the Autoptimize cache from the admin bar above to make sure your galleries continue to display correctly."
+
+#: includes/class-foogallery-cache.php:182
+msgid "If you enable the HTML cache, then you can use this button to clear the gallery HTML that has been cached for all galleries."
+msgstr "If you enable the HTML cache, then you can use this button to clear the gallery HTML that has been cached for all galleries."
+
+#: includes/class-foogallery-cache.php:173
+msgid "The gallery HTML that is generated can be cached. This can reduce the number of calls to the database when displaying a gallery and can increase site performance."
+msgstr "The gallery HTML that is generated can be cached. This can reduce the number of calls to the database when displaying a gallery and can increase site performance."
+
+#: includes/class-foogallery-lazyload.php:153
+#: includes/class-foogallery-lazyload.php:175
+msgid "Disable Lazy Loading"
+msgstr "Disable Lazy Loading"
+
+#: includes/class-foogallery-lazyload.php:152
+msgid "Enable Lazy Loading"
+msgstr "Enable Lazy Loading"
+
+#: includes/class-foogallery-lazyload.php:146
+msgid "If you choose to disable lazy loading, then all thumbnails will be loaded at once. This means you will lose the performance improvements that lazy loading gives you."
+msgstr "If you choose to disable lazy loading, then all thumbnails will be loaded at once. This means you will lose the performance improvements that lazy loading gives you."
+
+#: includes/class-foogallery-lazyload.php:145
+#: includes/class-foogallery-lazyload.php:179
+msgid "Lazy Loading"
+msgstr "Lazy Loading"
+
+#: extensions/default-templates/justified/class-justified-gallery-template.php:147
+msgid "No Justify"
+msgstr "No Justify"
+
+#: extensions/default-templates/justified/class-justified-gallery-template.php:146
+msgid "Justify"
+msgstr "Justify"
+
+#: extensions/default-templates/justified/class-justified-gallery-template.php:139
+msgid "What should be done with the last row in the gallery?"
+msgstr "What should be done with the last row in the gallery?"
+
+#: extensions/default-templates/justified/class-justified-gallery-template.php:138
+msgid "Last Row"
+msgstr "Last Row"
+
+#: extensions/default-templates/default/class-default-gallery-template.php:95
+msgid "Choose which lightbox you want to use. The lightbox will generally only work if you set the thumbnail link to \"Full Size Image\"."
+msgstr "Choose which lightbox you want to use. The lightbox will generally only work if you set the thumbnail link to \"Full Size Image\"."
+
+#: includes/functions.php:1049
+msgid "Attachment Alt"
+msgstr "Attachment Alt"
+
+#: includes/functions.php:1047
+msgid "Attachment Description"
+msgstr "Attachment Description"
+
+#: includes/class-foogallery-upgrade.php:99
+msgid "Run Upgrade Process"
+msgstr "Run Upgrade Process"
+
+#: includes/class-foogallery-upgrade.php:99
+msgid "Are you sure? Any changes you have made since updating will be lost. There is no undo!"
+msgstr "Are you sure? Any changes you have made since updating will be lost. There is no undo!"
+
+#: includes/class-foogallery-upgrade.php:88
+msgid "Force the BETA upgrade process to run. This may sometimes be needed if the upgrade did not run automatically. Any changes you have made to galleries after updating will be lost. THERE IS NO UNDO."
+msgstr "Force the BETA upgrade process to run. This may sometimes be needed if the upgrade did not run automatically. Any changes you have made to galleries after updating will be lost. THERE IS NO UNDO."
+
+#: includes/class-foogallery-upgrade.php:87
+msgid "Force Upgrade"
+msgstr "Force Upgrade"
+
+#: includes/class-foogallery-upgrade.php:79
+msgid "The BETA upgrade process has been run!"
+msgstr "The BETA upgrade process has been run!"
+
+#: includes/class-foogallery-paging.php:209
+msgid "More Buttons"
+msgstr "More Buttons"
+
+#: includes/class-foogallery-paging.php:188
+msgid "Prev &amp; Next Buttons"
+msgstr "Prev &amp; Next Buttons"
+
+#: includes/class-foogallery-paging.php:175
+#: includes/class-foogallery-paging.php:196
+#: includes/class-foogallery-paging.php:217
+#: extensions/default-templates/justified/class-justified-gallery-template.php:145
+msgid "Hide"
+msgstr "Hide"
+
+#: includes/class-foogallery-paging.php:174
+#: includes/class-foogallery-paging.php:195
+#: includes/class-foogallery-paging.php:216
+msgid "Show"
+msgstr "Show"
+
+#: includes/class-foogallery-paging.php:167
+msgid "First &amp; Last Buttons"
+msgstr "First &amp; Last Buttons"
+
+#: includes/class-foogallery-paging.php:149
+msgid "The maximum number of page links to display for the gallery."
+msgstr "The maximum number of page links to display for the gallery."
+
+#: includes/class-foogallery-paging.php:148
+msgid "Paging Limit"
+msgstr "Paging Limit"
+
+#: includes/class-foogallery-paging.php:127
+msgid "Whether or not it should scroll to the top of the gallery when paging is changed."
+msgstr "Whether or not it should scroll to the top of the gallery when paging is changed."
+
+#: includes/class-foogallery-paging.php:126
+msgid "Scroll To Top"
+msgstr "Scroll To Top"
+
+#: includes/class-foogallery-paging.php:90
+msgid "Both"
+msgstr "Both"
+
+#: includes/class-foogallery-paging.php:89
+msgid "Bottom"
+msgstr "Bottom"
+
+#: includes/class-foogallery-paging.php:88
+msgid "Top"
+msgstr "Top"
+
+#: includes/class-foogallery-paging.php:81
+msgid "The position of the paging for either dots or pagination."
+msgstr "The position of the paging for either dots or pagination."
+
+#: includes/class-foogallery-paging.php:61
+msgid "The size of your pages."
+msgstr "The size of your pages."
+
+#: includes/class-foogallery-paging.php:60
+msgid "Page Size"
+msgstr "Page Size"
+
+#: includes/class-foogallery-paging.php:43
+#: includes/class-foogallery-paging.php:62
+#: includes/class-foogallery-paging.php:82
+#: includes/class-foogallery-paging.php:106
+#: includes/class-foogallery-paging.php:128
+#: includes/class-foogallery-paging.php:150
+#: includes/class-foogallery-paging.php:169
+#: includes/class-foogallery-paging.php:190
+#: includes/class-foogallery-paging.php:211
+#: includes/class-foogallery-paging.php:232
+#: includes/admin/class-gallery-metabox-settings.php:95
+#: includes/admin/class-pro-promotion.php:185
+msgid "Paging"
+msgstr "Paging"
+
+#: includes/class-foogallery-paging.php:42
+msgid "Add paging to a large gallery."
+msgstr "Add paging to a large gallery."
+
+#: includes/class-foogallery-paging.php:41
+msgid "Paging Type"
+msgstr "Paging Type"
+
+#: includes/class-foogallery-common-fields.php:506
+msgid "Max Desc Length"
+msgstr "Max Desc Length"
+
+#: includes/class-foogallery-common-fields.php:488
+#: includes/class-foogallery-common-fields.php:507
+msgid "A max length of zero will not apply a limit."
+msgstr "A max length of zero will not apply a limit."
+
+#: includes/class-foogallery-common-fields.php:487
+msgid "Max Title Length"
+msgstr "Max Title Length"
+
+#: includes/class-foogallery-common-fields.php:476
+#: includes/class-foogallery-paging.php:133
+msgid "Yes"
+msgstr "Yes"
+
+#: includes/class-foogallery-common-fields.php:475
+#: includes/class-foogallery-paging.php:134
+msgid "No"
+msgstr "No"
+
+#: includes/class-foogallery-common-fields.php:469
+msgid "You can limit the length of caption title and descriptions in the thumbnails. This will NOT limit the length of captions from within the lightbox."
+msgstr "You can limit the length of caption title and descriptions in the thumbnails. This will NOT limit the length of captions from within the lightbox."
+
+#: includes/class-foogallery-common-fields.php:468
+msgid "Limit Caption Length"
+msgstr "Limit Caption Length"
+
+#: includes/class-foogallery-common-fields.php:448
+msgid "Decide where captions descriptions are pulled from. By default, the general settings are used, but it can be overridden per gallery"
+msgstr "Decide where captions descriptions are pulled from. By default, the general settings are used, but it can be overridden per gallery"
+
+#: includes/class-foogallery-common-fields.php:433
+#: includes/class-foogallery-common-fields.php:454
+msgid "Default (as per %s)"
+msgstr "Default (as per %s)"
+
+#: includes/class-foogallery-common-fields.php:427
+msgid "Decide where caption titles are pulled from. By default, what is saved under general settings will be used, but it can be overridden per gallery"
+msgstr "Decide where caption titles are pulled from. By default, what is saved under general settings will be used, but it can be overridden per gallery"
+
+#: includes/class-foogallery-common-fields.php:426
+msgid "Title"
+msgstr "Title"
+
+#: includes/class-foogallery-common-fields.php:422
+msgid "settings"
+msgstr "settings"
+
+#: includes/class-foogallery-common-fields.php:417
+msgid "You can change when captions are shown using the \"Hover Effects -> Caption Visibility\" setting."
+msgstr "You can change when captions are shown using the \"Hover Effects -> Caption Visibility\" setting."
+
+#: includes/class-foogallery-common-fields.php:416
+msgid "Captions Help"
+msgstr "Captions Help"
+
+#: includes/class-foogallery-common-fields.php:401
+msgid "External"
+msgstr "External"
+
+#: includes/class-foogallery-common-fields.php:389
+msgid "Choose which icon is shown with the caption when you hover over a thumbnail"
+msgstr "Choose which icon is shown with the caption when you hover over a thumbnail"
+
+#: includes/class-foogallery-common-fields.php:376
+msgid "Choose what effect is used to show the caption when you hover over a thumbnail"
+msgstr "Choose what effect is used to show the caption when you hover over a thumbnail"
+
+#: includes/class-foogallery-common-fields.php:373
+msgid "Slide Right"
+msgstr "Slide Right"
+
+#: includes/class-foogallery-common-fields.php:372
+msgid "Slide Left"
+msgstr "Slide Left"
+
+#: includes/class-foogallery-common-fields.php:371
+msgid "Slide Down"
+msgstr "Slide Down"
+
+#: includes/class-foogallery-common-fields.php:368
+msgid "Instant"
+msgstr "Instant"
+
+#: includes/class-foogallery-common-fields.php:363
+msgid "Transition"
+msgstr "Transition"
+
+#: includes/class-foogallery-common-fields.php:351
+msgid "Choose how the captions will be displayed."
+msgstr "Choose how the captions will be displayed."
+
+#: includes/class-foogallery-common-fields.php:347
+msgid "On Hover"
+msgstr "On Hover"
+
+#: includes/class-foogallery-common-fields.php:339
+msgid "Caption Visibility"
+msgstr "Caption Visibility"
+
+#: includes/class-foogallery-common-fields.php:327
+msgid "Apply a slight scaling effect when hovering over a thumbnail."
+msgstr "Apply a slight scaling effect when hovering over a thumbnail."
+
+#: includes/class-foogallery-common-fields.php:315
+msgid "Scaling Effect"
+msgstr "Scaling Effect"
+
+#: includes/class-foogallery-common-fields.php:303
+msgid "Choose an color effect that is applied when you hover over a thumbnail."
+msgstr "Choose a colour effect that is applied when you hover over a thumbnail."
+
+#: includes/class-foogallery-common-fields.php:300
+msgid "Greyscale"
+msgstr "Greyscale"
+
+#: includes/class-foogallery-common-fields.php:291
+msgid "Color Effect"
+msgstr "Colour Effect"
+
+#: includes/admin/class-pro-promotion.php:210
+msgid "Preset"
+msgstr "Preset"
+
+#: includes/class-foogallery-common-fields.php:240
+#: includes/class-foogallery-common-fields.php:262
+#: includes/class-foogallery-common-fields.php:292
+#: includes/class-foogallery-common-fields.php:316
+#: includes/class-foogallery-common-fields.php:340
+#: includes/class-foogallery-common-fields.php:364
+#: includes/class-foogallery-common-fields.php:390
+#: includes/admin/class-gallery-metabox-settings.php:91
+#: includes/admin/class-pro-promotion.php:277
+#: includes/admin/class-pro-promotion.php:398
+msgid "Hover Effects"
+msgstr "Hover Effects"
+
+#: includes/class-foogallery-common-fields.php:218
+msgid "The animation effect used to display the thumbnail, once it has loaded."
+msgstr "The animation effect used to display the thumbnail, once it has loaded."
+
+#: includes/class-foogallery-common-fields.php:217
+msgid "Loaded Effect"
+msgstr "Loaded Effect"
+
+#: includes/class-foogallery-common-fields.php:205
+msgid "Trail"
+msgstr "Trail"
+
+#: includes/class-foogallery-common-fields.php:204
+msgid "Pulse"
+msgstr "Pulse"
+
+#: includes/class-foogallery-common-fields.php:203
+msgid "Partial"
+msgstr "Partial"
+
+#: includes/class-foogallery-common-fields.php:202
+#: includes/class-foogallery-paging.php:49
+msgid "Dots"
+msgstr "Dots"
+
+#: includes/class-foogallery-common-fields.php:201
+msgid "Bars"
+msgstr "Bars"
+
+#: includes/class-foogallery-common-fields.php:193
+msgid "An animated loading icon can be shown while the thumbnails are busy loading."
+msgstr "An animated loading icon can be shown while the thumbnails are busy loading."
+
+#: includes/class-foogallery-common-fields.php:192
+msgid "Loading Icon"
+msgstr "Loading Icon"
+
+#: includes/class-foogallery-common-fields.php:173
+msgid "The inner shadow applied to each thumbnail"
+msgstr "The inner shadow applied to each thumbnail"
+
+#: includes/class-foogallery-common-fields.php:172
+msgid "Inner Shadow"
+msgstr "Inner Shadow"
+
+#: includes/class-foogallery-common-fields.php:159
+msgid "Outline"
+msgstr "Outline"
+
+#: includes/class-foogallery-common-fields.php:152
+msgid "The outer or drop shadow applied to each thumbnail"
+msgstr "The outer or drop shadow applied to each thumbnail"
+
+#: includes/class-foogallery-common-fields.php:151
+msgid "Drop Shadow"
+msgstr "Drop Shadow"
+
+#: includes/class-foogallery-common-fields.php:141
+msgid "Full"
+msgstr "Full"
+
+#: includes/class-foogallery-common-fields.php:140
+#: includes/class-foogallery-common-fields.php:162
+#: includes/class-foogallery-common-fields.php:182
+msgid "Large"
+msgstr "Large"
+
+#: includes/class-foogallery-common-fields.php:138
+#: includes/class-foogallery-common-fields.php:160
+#: includes/class-foogallery-common-fields.php:180
+msgid "Small"
+msgstr "Small"
+
+#: includes/class-foogallery-common-fields.php:131
+msgid "The border radius, or rounded corners applied to each thumbnail"
+msgstr "The border radius, or rounded corners applied to each thumbnail"
+
+#: includes/class-foogallery-common-fields.php:130
+msgid "Rounded Corners"
+msgstr "Rounded Corners"
+
+#: includes/class-foogallery-common-fields.php:120
+msgid "Thick"
+msgstr "Thick"
+
+#: includes/class-foogallery-common-fields.php:119
+#: includes/class-foogallery-common-fields.php:139
+#: includes/class-foogallery-common-fields.php:161
+#: includes/class-foogallery-common-fields.php:181
+msgid "Medium"
+msgstr "Medium"
+
+#: includes/class-foogallery-common-fields.php:118
+msgid "Thin"
+msgstr "Thin"
+
+#: includes/class-foogallery-common-fields.php:111
+msgid "The border size applied to each thumbnail"
+msgstr "The border size applied to each thumbnail"
+
+#: includes/class-foogallery-common-fields.php:110
+msgid "Border Size"
+msgstr "Border Size"
+
+#: includes/class-foogallery-common-fields.php:91
+msgid "The overall appearance of the items in the gallery, affecting the border, background, font and shadow colors."
+msgstr "The overall appearance of the items in the gallery, affecting the border, background, font and shadow colours."
+
+#: includes/class-foogallery-common-fields.php:79
+#: includes/class-foogallery-common-fields.php:92
+#: includes/class-foogallery-common-fields.php:112
+#: includes/class-foogallery-common-fields.php:132
+#: includes/class-foogallery-common-fields.php:153
+#: includes/class-foogallery-common-fields.php:174
+#: includes/class-foogallery-common-fields.php:194
+#: includes/class-foogallery-common-fields.php:219
+#: includes/admin/class-gallery-metabox-settings.php:87
+#: includes/admin/class-pro-promotion.php:510
+msgid "Appearance"
+msgstr "Appearance"
+
+#: includes/class-foogallery-common-fields.php:78
+msgid "If you choose to use the Custom theme, then you will need to provide your own Custom CSS in order to style the gallery to suit your needs."
+msgstr "If you choose to use the Custom theme, then you will need to provide your own Custom CSS in order to style the gallery to suit your needs."
+
+#: includes/class-foogallery-common-fields.php:77
+msgid "Theme Help"
+msgstr "Theme Help"
+
+#: includes/admin/view-help.php:205
+msgid "There are tons of settings to help you customize the gallery to suit your needs."
+msgstr "There are tons of settings to help you customize the gallery to suit your needs."
+
+#: includes/admin/view-help.php:204
+msgid "4. Adjust Your Settings"
+msgstr "4. Adjust Your Settings"
+
+#: includes/admin/view-help.php:202
+msgid "We have loads of awesome built-in gallery templates to choose from."
+msgstr "We have loads of awesome built-in gallery templates to choose from."
+
+#: includes/admin/view-help.php:201
+msgid "3. Choose a Template"
+msgstr "3. Choose a Template"
+
+#: includes/admin/view-help.php:199
+msgid "Click the Add Media button and choose images from the media library to include in your gallery."
+msgstr "Click the Add Media button and choose images from the media library to include in your gallery."
+
+#: includes/admin/view-help.php:198
+msgid "2. Add Media"
+msgstr "2. Add Media"
+
+#: includes/admin/view-help.php:196
+msgid "To create your first gallery, simply click the Add New button or click the Add Gallery link in the menu."
+msgstr "To create your first gallery, simply click the Add New button or click the Add Gallery link in the menu."
+
+#: includes/admin/class-settings.php:337
+msgid "Helps to debug problems and diagnose issues. Enable debugging if you need support for an issue you are having."
+msgstr "Helps to debug problems and diagnose issues. Enable debugging if you need support for an issue you are having."
+
+#: includes/admin/class-settings.php:336
+msgid "Enable Debugging"
+msgstr "Enable Debugging"
+
+#: includes/class-gallery-advanced-settings.php:36
+#: includes/class-gallery-advanced-settings.php:45
+#: includes/class-gallery-advanced-settings.php:54
+#: includes/class-foogallery-lazyload.php:147
+#: includes/admin/class-gallery-metabox-settings.php:85
+#: includes/admin/class-settings.php:300
+msgid "Advanced"
+msgstr "Advanced"
+
+#: includes/admin/class-settings.php:103
+msgid "By default, image caption titles are pulled from the attachment \"Caption\" field. Alternatively, you can choose to use other fields."
+msgstr "By default, image caption titles are pulled from the attachment \"Caption\" field. Alternatively, you can choose to use other fields."
+
+#: includes/admin/class-menu.php:80
+msgid "%s settings reset to defaults."
+msgstr "%s settings reset to defaults."
+
+#: includes/admin/class-gallery-metabox-items.php:133
+msgid "Sorry, but this gallery template does not support live previews. Please update the gallery in order to see what the gallery will look like."
+msgstr "Sorry, but this gallery template does not support live previews. Please update the gallery in order to see what the gallery will look like."
+
+#: includes/admin/class-gallery-metabox-items.php:132
+msgid "Preview not available!"
+msgstr "Preview not available!"
+
+#: includes/admin/class-gallery-metabox-items.php:92
+msgid "Please add media to your gallery to see a preview!"
+msgstr "Please add media to your gallery to see a preview!"
+
+#: includes/admin/class-gallery-metabox-items.php:56
+msgid "Gallery Preview"
+msgstr "Gallery Preview"
+
+#: includes/admin/class-gallery-metabox-items.php:55
+msgid "Manage Items"
+msgstr "Manage Items"
+
+#: foogallery.php:245
+msgid "Activation"
+msgstr "Activation"
+
+#: foogallery.php:244
+msgid "FooGallery Opt-In"
+msgstr "FooGallery Opt-In"
+
+#: extensions/nextgen-importer/class-nextgen-import-progress.php:66
+msgid "Error while importing!"
+msgstr "Error while importing!"
+
+#: extensions/nextgen-importer/class-nextgen-import-progress.php:64
+msgid "No images to import!"
+msgstr "No images to import!"
+
+#: extensions/nextgen-importer/class-nextgen-helper.php:475
+msgid "No galleries in album!"
+msgstr "No galleries in album!"
+
+#: extensions/default-templates/thumbnail/class-thumbnail-gallery-template.php:158
+msgid "Override Description"
+msgstr "Override Description"
+
+#: extensions/default-templates/thumbnail/class-thumbnail-gallery-template.php:147
+msgid "Override Title"
+msgstr "Override Title"
+
+#: extensions/default-templates/masonry/class-masonry-gallery-template.php:167
+msgid "You can choose to link each thumbnail to the full size image, or to the image's attachment page, or you can choose to not link to anything"
+msgstr "You can choose to link each thumbnail to the full size image, or to the image's attachment page, or you can choose to not link to anything"
+
+#: extensions/default-templates/masonry/class-masonry-gallery-template.php:68
+msgid "Thumb Width"
+msgstr "Thumb Width"
+
+#: extensions/default-templates/image-viewer/class-image-viewer-gallery-template.php:155
+msgid "This gallery template shows the below items of text. Change them to suit your preference or language."
+msgstr "This gallery template shows the below items of text. Change them to suit your preference or language."
+
+#: extensions/default-templates/image-viewer/class-image-viewer-gallery-template.php:154
+msgid "Language Help"
+msgstr "Language Help"
+
+#: extensions/default-templates/image-viewer/class-image-viewer-gallery-template.php:121
+msgid "The horizontal alignment of the thumbnails inside the gallery"
+msgstr "The horizontal alignment of the thumbnails inside the gallery"
+
+#: extensions/default-templates/masonry/class-masonry-gallery-template.php:164
+#: extensions/default-templates/image-viewer/class-image-viewer-gallery-template.php:103
+msgid "Thumb Link"
+msgstr "Thumb Link"
+
+#: extensions/default-templates/image-viewer/class-image-viewer-gallery-template.php:87
+msgid "Thumb Size"
+msgstr "Thumb Size"
+
+#: extensions/default-templates/default/class-default-gallery-template.php:108
+msgid "none"
+msgstr "none"
+
+#: includes/compatibility/class-foobox-compatibility.php:68
+msgid "FooBox Help"
+msgstr "FooBox Help"
+
+#: extensions/default-templates/default/class-default-gallery-template.php:86
+msgid "Link To"
+msgstr "Link To"
+
+#: includes/compatibility/class-foobox-compatibility.php:160
+msgid "Enabled"
+msgstr "Enabled"
+
+#: includes/compatibility/class-foobox-compatibility.php:156
+msgid "Enable mouse panning for this image in the lightbox."
+msgstr "Enable mouse panning for this image in the lightbox."
+
+#: includes/compatibility/class-foobox-compatibility.php:154
+msgid "Panning"
+msgstr "Panning"
+
+#: includes/compatibility/class-foobox-compatibility.php:141
+msgid " (Not installed!)"
+msgstr " (Not installed!)"
+
+#: includes/compatibility/class-responsive-lightbox-dfactory-compatibility.php:27
+msgid "Responsive Lightbox by dFactory"
+msgstr "Responsive Lightbox by dFactory"
+
+#: includes/class-foogallery-attachment-custom-class.php:26
+msgid "Add extra classes to the attachment"
+msgstr "Add extra classes to the attachment"
+
+#: includes/class-foogallery-attachment-custom-class.php:24
+msgid "Custom Class"
+msgstr "Custom Class"
+
+#: includes/admin/view-system-info.php:84
+msgid "PHP Config[allow_url_include]"
+msgstr "PHP Config[allow_url_include]"
+
+#: includes/admin/view-system-info.php:83
+msgid "PHP Config[allow_url_fopen]"
+msgstr "PHP Config[allow_url_fopen]"
+
+#: includes/admin/view-system-info.php:82
+msgid "There is a protocol mismatch between your site URL and the actual URL!"
+msgstr "There is a protocol mismatch between your site URL and the actual URL!"
+
+#: includes/admin/view-system-info.php:82
+msgid "HTTPS Mismatch"
+msgstr "HTTPS Mismatch"
+
+#: includes/admin/view-system-info.php:81
+msgid "PHP HTTPS Wrapper"
+msgstr "PHP HTTPS Wrapper"
+
+#: includes/admin/view-system-info.php:80
+#: includes/admin/view-system-info.php:81
+msgid "Found"
+msgstr "Found"
+
+#: includes/admin/view-system-info.php:80
+msgid "PHP HTTP Wrapper"
+msgstr "PHP HTTP Wrapper"
+
+#: includes/admin/view-system-info.php:79
+msgid "PHP Open SSL"
+msgstr "PHP Open SSL"
+
+#: includes/admin/view-system-info.php:77
+#: includes/admin/view-system-info.php:78
+#: includes/admin/view-system-info.php:79
+msgid "Loaded"
+msgstr "Loaded"
+
+#: includes/admin/view-system-info.php:77
+msgid "PHP GD"
+msgstr "PHP GD"
+
+#: includes/admin/class-gallery-metaboxes.php:281
+msgid "PLEASE NOTE : sorting randomly will force HTML Caching for the gallery to be disabled."
+msgstr "PLEASE NOTE : sorting randomly will force HTML Caching for the gallery to be disabled."
+
+#: foogallery.php:228
+msgid "<h2>Thank you for updating to %1$s v%5$s!</h2>Our goal with this update is to make %1$s the best gallery plugin for WordPress, but we need your help!<br><br>We have introduced this opt-in so that you can help us improve %1$s by simply clicking <strong>Allow &amp; Continue</strong>.<br><br>If you opt-in, some data about your usage of %1$s will be sent to %4$s. If you skip this, that's okay! %1$s will still work just fine."
+msgstr "<h2>Thank you for updating to %1$s v%5$s!</h2>Our goal with this update is to make %1$s the best gallery plugin for WordPress, but we need your help!<br><br>We have introduced this opt-in so that you can help us improve %1$s by simply clicking <strong>Allow &amp; Continue</strong>.<br><br>If you opt-in, some data about your usage of %1$s will be sent to %4$s. If you skip this, that's okay! %1$s will still work just fine."
+
+#: foogallery.php:227
+msgid "Hey %s"
+msgstr "Hey %s"
+
+#: includes/admin/class-gallery-metaboxes.php:325
+msgid "Force Original Thumbs"
+msgstr "Force Original Thumbs"
+
+#: includes/extensions/class-extensions-api.php:745
+msgid "The extension %s could NOT be downloaded! Error : %s"
+msgstr "The extension %s could NOT be downloaded! Error : %s"
+
+#: includes/extensions/class-extensions-api.php:741
+msgid "Could not be downloaded! Error : %s"
+msgstr "Could not be downloaded! Error : %s"
+
+#: includes/extensions/class-extensions-api.php:738
+msgid "Unknown!"
+msgstr "Unknown!"
+
+#: includes/class-foogallery-cache.php:215
+msgid "The cache for all galleries has been cleared!"
+msgstr "The cache for all galleries has been cleared!"
+
+#: includes/class-foogallery-cache.php:201
+msgid "Clear Gallery HTML Cache"
+msgstr "Clear Gallery HTML Cache"
+
+#: includes/class-foogallery-cache.php:181
+msgid "Clear HTML Cache"
+msgstr "Clear HTML Cache"
+
+#: includes/class-foogallery-cache.php:172
+msgid "Enable HTML Cache"
+msgstr "Enable HTML Cache"
+
+#: includes/admin/view-extensions.php:163
+msgid "deactivating..."
+msgstr "deactivating..."
+
+#: includes/admin/view-extensions.php:162
+msgid "activating..."
+msgstr "activating..."
+
+#: includes/admin/view-extensions.php:110
+#: includes/admin/view-extensions.php:160
+msgid "downloading..."
+msgstr "downloading..."
+
+#: includes/admin/view-extensions.php:57
+msgid "Search extensions..."
+msgstr "Search extensions..."
+
+#: includes/admin/class-settings.php:479
+msgid "All traces of the plugin were removed from your system!"
+msgstr "All traces of the plugin were removed from your system!"
+
+#: includes/admin/class-settings.php:385
+msgid "Run Full Uninstall"
+msgstr "Run Full Uninstall"
+
+#: includes/admin/class-settings.php:345
+msgid "Run a full uninstall of %s, which includes removing all galleries, settings and metadata. This basically removes all traces of the plugin from your system. Please be careful - there is no undo!"
+msgstr "Run a full uninstall of %s, which includes removing all galleries, settings and metadata. This basically removes all traces of the plugin from your system. Please be careful - there is no undo!"
+
+#: includes/admin/class-settings.php:344
+msgid "Full Uninstall"
+msgstr "Full Uninstall"
+
+#: includes/admin/class-settings.php:206
+msgid "If animated GIFs are used, then show the original GIF as the thumbnail."
+msgstr "If animated GIFs are used, then show the original GIF as the thumbnail."
+
+#: includes/admin/class-settings.php:205
+msgid "Show Animated Thumbnails"
+msgstr "Show Animated Thumbnails"
+
+#: includes/admin/class-settings.php:190
+msgid "Allow for the original thumbnails to be used when possible. This can be useful if your thumbs are animated gifs.<br/>PLEASE NOTE : this will only work if your gallery thumbnail sizes are identical to your thumbnail sizes under Settings -> Media."
+msgstr "Allow for the original thumbnails to be used when possible. This can be useful if your thumbs are animated gifs.<br/>PLEASE NOTE : this will only work if your gallery thumbnail sizes are identical to your thumbnail sizes under Settings -> Media."
+
+#: includes/admin/class-columns.php:83
+msgid "Not used!"
+msgstr "Not used!"
+
+#: includes/admin/class-columns.php:27
+msgid "Usage"
+msgstr "Usage"
+
+#: includes/functions.php:985
+msgid "4x"
+msgstr "4x"
+
+#: includes/functions.php:984
+msgid "3x"
+msgstr "3x"
+
+#: includes/functions.php:983
+msgid "2x"
+msgstr "2x"
+
+#: includes/admin/class-settings.php:466
+msgid "1 gallery successfully updated to use the default retina settings."
+msgid_plural "%s galleries successfully updated to use the default retina settings."
+msgstr[0] "1 gallery successfully updated to use the default retina settings."
+msgstr[1] "%s galleries successfully updated to use the default retina settings."
+
+#: includes/admin/class-settings.php:409
+msgid "Apply Defaults to all Galleries"
+msgstr "Apply Defaults to all Galleries"
+
+#: includes/admin/class-settings.php:181
+msgid "Default retina support for all new galleries that are created. This can also be overridden for each gallery."
+msgstr "Default retina support for all new galleries that are created. This can also be overridden for each gallery."
+
+#: includes/admin/class-settings.php:180
+msgid "Default Retina Support"
+msgstr "Default Retina Support"
+
+#: includes/admin/class-gallery-metaboxes.php:306
+msgid "PLEASE NOTE : thumbnails will be generated for each of the pixel densities chosen, which will increase your website's storage space!"
+msgstr "PLEASE NOTE : thumbnails will be generated for each of the pixel densities chosen, which will increase your website's storage space!"
+
+#: includes/admin/class-gallery-metaboxes.php:294
+msgid "Add retina support to this gallery by choosing the different pixel densities you want to enable."
+msgstr "Add retina support to this gallery by choosing the different pixel densities you want to enable."
+
+#: includes/admin/class-gallery-metaboxes.php:70
+msgid "Retina Support"
+msgstr "Retina Support"
+
+#: includes/admin/class-gallery-editor.php:292
+msgid "Loading galleries..."
+msgstr "Loading galleries..."
+
+#: includes/functions.php:834
+msgid "Thumbnail generation test failed!"
+msgstr "Thumbnail generation test failed!"
+
+#: includes/functions.php:832
+msgid "Thumbnail generation test ran successfully."
+msgstr "Thumbnail generation test ran successfully."
+
+#: includes/admin/class-settings.php:390
+msgid "Run Tests"
+msgstr "Run Tests"
+
+#: includes/admin/class-settings.php:232
+msgid "Test to see if %s can generate the thumbnails it needs."
+msgstr "Test to see if %s can generate the thumbnails it needs."
+
+#: includes/admin/view-system-info.php:86 includes/admin/class-settings.php:231
+msgid "Thumbnail Generation Test"
+msgstr "Thumbnail Generation Test"
+
+#: includes/admin/class-admin-notices.php:157
+msgid "If thumbnails cannot be generated, then full-sized, uncropped images will be used instead. This will result in slow page load times, and thumbnails that do not look correct."
+msgstr "If thumbnails cannot be generated, then full-sized, uncropped images will be used instead. This will result in slow page load times, and thumbnails that do not look correct."
+
+#: includes/admin/class-admin-notices.php:155
+msgid "Thumbnail Generation Alert!"
+msgstr "Thumbnail Generation Alert!"
+
+#: includes/admin/class-settings.php:189
+msgid "Use Original Thumbnails"
+msgstr "Use Original Thumbnails"
+
+#: extensions/default-templates/image-viewer/class-image-viewer-gallery-template.php:183
+msgid "\"Next\" Text"
+msgstr "\"Next\" Text"
+
+#: extensions/default-templates/image-viewer/class-image-viewer-gallery-template.php:172
+msgid "\"of\" Text"
+msgstr "\"of\" Text"
+
+#: extensions/default-templates/image-viewer/class-image-viewer-gallery-template.php:161
+msgid "\"Prev\" Text"
+msgstr "\"Prev\" Text"
+
+#: includes/class-foogallery.php:435
+msgid "Unknown"
+msgstr "Unknown"
+
+#: includes/admin/class-settings.php:120
+msgid "By default, image caption descriptions are pulled from the attachment \"Description\" field. Alternatively, you can choose to use other fields."
+msgstr "By default, image caption descriptions are pulled from the attachment \"Description\" field. Alternatively, you can choose to use other fields."
+
+#: includes/admin/class-settings.php:119
+msgid "Caption Description Source"
+msgstr "Caption Description Source"
+
+#: includes/class-foogallery-cache.php:176
+#: includes/class-foogallery-cache.php:185 includes/admin/class-settings.php:37
+msgid "Cache"
+msgstr "Cache"
+
+#: extensions/default-templates/simple-portfolio/class-simple-portfolio-gallery-template.php:176
+msgid "Above"
+msgstr "Above"
+
+#: extensions/default-templates/simple-portfolio/class-simple-portfolio-gallery-template.php:175
+msgid "Below"
+msgstr "Below"
+
+#: extensions/default-templates/simple-portfolio/class-simple-portfolio-gallery-template.php:169
+msgid "Where the captions are displayed in relation to the thumbnail."
+msgstr "Where the captions are displayed in relation to the thumbnail."
+
+#: extensions/default-templates/simple-portfolio/class-simple-portfolio-gallery-template.php:168
+msgid "Caption Position"
+msgstr "Caption Position"
+
+#: extensions/albums/functions.php:85
+msgid "You can choose to link each gallery to the default embedded gallery, or you can choose to link to the gallery custom URL (if set)."
+msgstr "You can choose to link each gallery to the default embedded gallery, or you can choose to link to the gallery custom URL (if set)."
+
+#: extensions/albums/functions.php:76
+msgid "Gallery Link"
+msgstr "Gallery Link"
+
+#: extensions/albums/admin/class-metaboxes.php:560
+msgid "Set a custom target for your gallery"
+msgstr "Set a custom target for your gallery"
+
+#: includes/admin/class-attachment-fields.php:34
+#: extensions/albums/admin/class-metaboxes.php:558
+msgid "Custom Target"
+msgstr "Custom Target"
+
+#: extensions/albums/admin/class-metaboxes.php:554
+msgid "Point your gallery to a custom URL"
+msgstr "Point your gallery to a custom URL"
+
+#: extensions/albums/admin/class-metaboxes.php:534
+msgid "Gallery Title"
+msgstr "Gallery Title"
+
+#: extensions/albums/admin/class-metaboxes.php:488
+msgid "Invalid Gallery!"
+msgstr "Invalid Gallery!"
+
+#: extensions/albums/admin/class-metaboxes.php:219
+msgid "Edit Album Info"
+msgstr "Edit Album Info"
+
+#: extensions/albums/admin/class-metaboxes.php:193
+msgid "Close media panel"
+msgstr "Close media panel"
+
+#: extensions/albums/admin/class-metaboxes.php:186
+msgid "Save Gallery Details"
+msgstr "Save Gallery Details"
+
+#: extensions/albums/admin/class-metaboxes.php:179
+msgid "Loading details for "
+msgstr "Loading details for "
+
+#: extensions/albums/admin/class-metaboxes.php:174
+msgid "Edit Gallery Details"
+msgstr "Edit Gallery Details"
+
+#: extensions/albums/admin/class-metaboxes.php:166
+msgid "There are no galleries selected for your album yet! Click any gallery to add it to your album."
+msgstr "There are no galleries selected for your album yet! Click any gallery to add it to your album."
+
+#: extensions/albums/admin/class-metaboxes.php:36
+msgid "Galleries - click a gallery to add it to your album."
+msgstr "Galleries - click a gallery to add it to your album."
+
+#: includes/class-foogallery-common-fields.php:418
+#: includes/class-foogallery-common-fields.php:428
+#: includes/class-foogallery-common-fields.php:449
+#: includes/class-foogallery-common-fields.php:470
+#: includes/class-foogallery-common-fields.php:489
+#: includes/class-foogallery-common-fields.php:508
+#: includes/admin/class-gallery-metabox-settings.php:93
+#: includes/admin/class-settings.php:113 includes/admin/class-settings.php:130
+#: extensions/default-templates/thumbnail/class-thumbnail-gallery-template.php:148
+#: extensions/default-templates/thumbnail/class-thumbnail-gallery-template.php:159
+#: extensions/default-templates/simple-portfolio/class-simple-portfolio-gallery-template.php:170
+#: extensions/default-templates/simple-portfolio/class-simple-portfolio-gallery-template.php:191
+msgid "Captions"
+msgstr "Captions"
+
+#: includes/admin/class-settings.php:102
+msgid "Caption Title Source"
+msgstr "Caption Title Source"
+
+#: includes/admin/class-settings.php:85
+msgid "No default"
+msgstr "No default"
+
+#: extensions/default-templates/masonry/class-masonry-gallery-template.php:129
+msgid "Larger Gutter"
+msgstr "Larger Gutter"
+
+#: extensions/default-templates/masonry/class-masonry-gallery-template.php:128
+msgid "Normal Size Gutter"
+msgstr "Normal Size Gutter"
+
+#: extensions/default-templates/masonry/class-masonry-gallery-template.php:127
+msgid "No Gutter"
+msgstr "No Gutter"
+
+#: extensions/default-templates/masonry/class-masonry-gallery-template.php:123
+msgid "Choose a gutter size when using responsive columns."
+msgstr "Choose a gutter size when using responsive columns."
+
+#: extensions/default-templates/masonry/class-masonry-gallery-template.php:122
+msgid "Gutter Size"
+msgstr "Gutter Size"
+
+#: extensions/default-templates/masonry/class-masonry-gallery-template.php:145
+msgid "You can choose to center align your images or leave them at the default (left). Only applicable when using a fixed layout!"
+msgstr "You can choose to centre align your images or leave them at the default (left). Only applicable when using a fixed layout!"
+
+#: extensions/default-templates/masonry/class-masonry-gallery-template.php:104
+msgid "The spacing between your thumbnails. Only applicable when using a fixed layout!"
+msgstr "The spacing between your thumbnails. Only applicable when using a fixed layout!"
+
+#: extensions/default-templates/masonry/class-masonry-gallery-template.php:92
+msgid "5 Columns"
+msgstr "5 Columns"
+
+#: extensions/default-templates/masonry/class-masonry-gallery-template.php:91
+msgid "4 Columns"
+msgstr "4 Columns"
+
+#: extensions/default-templates/masonry/class-masonry-gallery-template.php:90
+msgid "3 Columns"
+msgstr "3 Columns"
+
+#: extensions/default-templates/masonry/class-masonry-gallery-template.php:89
+msgid "2 Columns"
+msgstr "2 Columns"
+
+#: extensions/default-templates/masonry/class-masonry-gallery-template.php:88
+msgid "Fixed Width"
+msgstr "Fixed Width"
+
+#: extensions/default-templates/masonry/class-masonry-gallery-template.php:84
+msgid "Choose a fixed width thumb layout, or responsive columns."
+msgstr "Choose a fixed width thumb layout, or responsive columns."
+
+#: extensions/default-templates/masonry/class-masonry-gallery-template.php:83
+msgid "Masonry Layout"
+msgstr "Masonry Layout"
+
+#: extensions/default-templates/image-viewer/gallery-image-viewer.php:17
+#: extensions/default-templates/image-viewer/class-image-viewer-gallery-template.php:186
+msgid "Next"
+msgstr "Next"
+
+#: extensions/default-templates/image-viewer/gallery-image-viewer.php:16
+#: extensions/default-templates/image-viewer/class-image-viewer-gallery-template.php:175
+msgid "of"
+msgstr "of"
+
+#: extensions/default-templates/image-viewer/gallery-image-viewer.php:15
+#: extensions/default-templates/image-viewer/class-image-viewer-gallery-template.php:164
+msgid "Prev"
+msgstr "Prev"
+
+#: includes/class-foogallery-common-fields.php:399
+msgid "Circle Plus"
+msgstr "Circle Plus"
+
+#: extensions/default-templates/image-viewer/class-image-viewer-gallery-template.php:107
+msgid "You can choose to either link each thumbnail to the full size image or to the image's attachment page"
+msgstr "You can choose to either link each thumbnail to the full size image or to the image's attachment page"
+
+#: extensions/default-templates/image-viewer/class-image-viewer-gallery-template.php:89
+msgid "Choose the size of your thumbnails"
+msgstr "Choose the size of your thumbnails"
+
+#: includes/class-foogallery-common-fields.php:99
+#: extensions/default-templates/masonry/class-masonry-gallery-template.php:297
+#: extensions/default-templates/simple-portfolio/class-simple-portfolio-gallery-template.php:218
+msgid "Custom"
+msgstr "Custom"
+
+#: includes/class-foogallery-common-fields.php:98
+#: includes/class-foogallery-common-fields.php:268
+#: includes/class-foogallery-paging.php:112
+#: extensions/default-templates/masonry/class-masonry-gallery-template.php:295
+#: extensions/default-templates/simple-portfolio/class-simple-portfolio-gallery-template.php:216
+msgid "Dark"
+msgstr "Dark"
+
+#: includes/class-foogallery-common-fields.php:97
+#: includes/class-foogallery-common-fields.php:272
+#: includes/class-foogallery-paging.php:111
+#: extensions/default-templates/masonry/class-masonry-gallery-template.php:294
+#: extensions/default-templates/simple-portfolio/class-simple-portfolio-gallery-template.php:215
+msgid "Light"
+msgstr "Light"
+
+#: includes/class-foogallery-common-fields.php:90
+#: includes/class-foogallery-common-fields.php:260
+#: includes/class-foogallery-paging.php:104
+msgid "Theme"
+msgstr "Theme"
+
+#: extensions/default-templates/image-viewer/class-image-viewer-gallery-template.php:113
+msgid "Choose which lightbox you want to use in the gallery"
+msgstr "Choose which lightbox you want to use in the gallery"
+
+#: extensions/default-templates/image-viewer/class-image-viewer-gallery-template.php:71
+msgid "Image Viewer"
+msgstr "Image Viewer"
+
+#: includes/class-foogallery-common-fields.php:348
+#: extensions/default-templates/simple-portfolio/class-simple-portfolio-gallery-template.php:200
+msgid "Always Visible"
+msgstr "Always Visible"
+
+#: includes/class-foogallery-common-fields.php:374
+msgid "Push"
+msgstr "Push"
+
+#: includes/class-foogallery-common-fields.php:225
+msgid "Fade In"
+msgstr "Fade In"
+
+#: includes/compatibility/class-foobox-compatibility.php:159
+#: extensions/default-templates/image-viewer/class-image-viewer-gallery-template.php:144
+msgid "Disabled"
+msgstr "Disabled"
+
+#: extensions/albums/class-albums-extension.php:106
+msgid "The slug that is used when generating gallery URL's for albums. PLEASE NOTE : if you change this value, you might need to save your Permalinks again."
+msgstr "The slug that is used when generating gallery URL's for albums. PLEASE NOTE: if you change this value, you might need to save your Permalinks again."
+
+#: extensions/albums/class-albums-extension.php:103
+msgid "Gallery Slug"
+msgstr "Gallery Slug"
+
+#: includes/compatibility/class-polylang-compatibility.php:97
+msgid "This may cause empty galleries on translated pages! To disable this feature, please visit Settings -> Languages -> Settings Tab."
+msgstr "This may cause empty galleries on translated pages! To disable this feature, please visit Settings -> Languages -> Settings Tab."
+
+#: includes/compatibility/class-polylang-compatibility.php:96
+msgid "We noticed that you have Polylang installed and you have chosen to activate languages and translations for media."
+msgstr "We noticed that you have Polylang installed and you have chosen to activate languages and translations for media."
+
+#: includes/compatibility/class-polylang-compatibility.php:95
+msgid "FooGallery + Polylang Alert : "
+msgstr "FooGallery + Polylang Alert : "
+
+#: includes/admin/class-settings.php:292
+msgid "Image Count Many Text"
+msgstr "Image Count Many Text"
+
+#: includes/admin/class-settings.php:284
+msgid "Image Count Single Text"
+msgstr "Image Count Single Text"
+
+#: includes/admin/class-settings.php:276
+msgid "Image Count None Text"
+msgstr "Image Count None Text"
+
+#: includes/admin/class-settings.php:272
+msgid "Language"
+msgstr "Language"
+
+#: includes/admin/class-settings.php:33
+msgid "Clear CSS Cache"
+msgstr "Clear CSS Cache"
+
+#: includes/admin/class-settings.php:171
+msgid "Thumbnail JPEG Quality"
+msgstr "Thumbnail JPEG Quality"
+
+#: includes/admin/class-settings.php:155
+#: extensions/demo-content-generator/view-demo-content.php:58
+msgid "Images"
+msgstr "Images"
+
+#: includes/admin/class-settings.php:146
+msgid "If enabled, this will hide the \"Add %s\" button in the WYSIWYG editor."
+msgstr "If enabled, this will hide the \"Add %s\" button in the WYSIWYG editor."
+
+#: includes/admin/class-settings.php:145
+msgid "Hide WYSIWYG Editor Button"
+msgstr "Hide WYSIWYG Editor Button"
+
+#: includes/admin/class-settings.php:140 includes/admin/class-settings.php:149
+msgid "Admin"
+msgstr "Admin"
+
+#: includes/admin/class-settings.php:54 includes/admin/class-settings.php:65
+#: includes/admin/class-settings.php:97
+msgid "Gallery Defaults"
+msgstr "Gallery Defaults"
+
+#: includes/admin/class-gallery-metaboxes.php:414
+msgid "The thumbnail cache has been cleared!"
+msgstr "The thumbnail cache has been cleared!"
+
+#: includes/admin/class-gallery-metaboxes.php:319
+msgid "Clear Thumbnail Cache"
+msgstr "Clear Thumbnail Cache"
+
+#: includes/admin/class-gallery-metaboxes.php:316
+msgid "Clear all the previously cached thumbnails that have been generated for this gallery."
+msgstr "Clear all the previously cached thumbnails that have been generated for this gallery."
+
+#: extensions/default-templates/justified/class-justified-gallery-template.php:77
+msgid "The preferred height of your gallery rows. This can be different from the thumbnail height"
+msgstr "The preferred height of your gallery rows. This can be different from the thumbnail height"
+
+#: extensions/default-templates/justified/class-justified-gallery-template.php:61
+msgid "Thumb Height"
+msgstr "Thumb Height"
+
+#: extensions/default-templates/simple-portfolio/class-simple-portfolio-gallery-template.php:109
+msgid "The spacing between each thumbnail in the gallery."
+msgstr "The spacing between each thumbnail in the gallery."
+
+#: extensions/default-templates/simple-portfolio/class-simple-portfolio-gallery-template.php:108
+msgid "Gutter"
+msgstr "Gutter"
+
+#: extensions/albums/class-albums-extension.php:88
+msgid "Back To Album Text"
+msgstr "Back To Album Text"
+
+#: extensions/albums/album-default.php:25
+#: extensions/albums/class-albums-extension.php:90
+msgid "&laquo; back to album"
+msgstr "&laquo; back to album"
+
+#. Description of the plugin
+msgid "FooGallery is the most intuitive and extensible gallery management tool ever created for WordPress"
+msgstr "FooGallery is the most intuitive and extensible gallery management tool ever created for WordPress"
+
+#. Author URI of the plugin
+msgid "http://fooplugins.com"
+msgstr "http://fooplugins.com"
+
+#. Author of the plugin
+msgid "FooPlugins"
+msgstr "FooPlugins"
+
+#. Plugin Name of the plugin
+#: includes/compatibility/elementor/class-elementor-foogallery-widget.php:36
+#: gutenberg/src/block/index.js:29
+#: gutenberg/src/block/edit/views/duplicate.js:33
+#: gutenberg/src/block/edit/views/empty.js:33
+msgid "FooGallery"
+msgstr "FooGallery"
+
+#: includes/public/class-foogallery-template-loader.php:137
+msgid "No gallery template found!"
+msgstr "No gallery template found!"
+
+#: includes/public/class-foogallery-template-loader.php:34
+msgid "The gallery was not found!"
+msgstr "The gallery was not found!"
+
+#: includes/public/class-admin-bar.php:34
+msgid "Edit Galleries"
+msgstr "Edit Galleries"
+
+#: includes/functions.php:538
+msgid "Random"
+msgstr "Random"
+
+#: includes/functions.php:537
+msgid "Title - reverse"
+msgstr "Title - reverse"
+
+#: includes/functions.php:536
+msgid "Title - alphabetically"
+msgstr "Title - alphabetically"
+
+#: includes/functions.php:535
+msgid "Date modified - most recent last"
+msgstr "Date modified - most recent last"
+
+#: includes/functions.php:534
+msgid "Date modified - most recent first"
+msgstr "Date modified - most recent first"
+
+#: includes/functions.php:533
+msgid "Date created - oldest first"
+msgstr "Date created - oldest first"
+
+#: includes/functions.php:532
+msgid "Date created - newest first"
+msgstr "Date created - newest first"
+
+#: includes/foopluginbase/views/settings.php:95
+msgid "Restore Defaults"
+msgstr "Restore Defaults"
+
+#: includes/foopluginbase/views/settings.php:93
+msgid "Are you sure you want to restore all settings back to their default values?"
+msgstr "Are you sure you want to restore all settings back to their default values?"
+
+#: includes/foopluginbase/views/settings.php:91
+msgid "Save Changes"
+msgstr "Save Changes"
+
+#: includes/foopluginbase/classes/class-foo-plugin-settings.php:362
+msgid "Settings restored to default values"
+msgstr "Settings restored to default values"
+
+#: includes/foopluginbase/classes/class-foo-plugin-settings.php:332
+msgid "Select Image"
+msgstr "Select Image"
+
+#: includes/foopluginbase/classes/class-foo-plugin-settings.php:332
+msgid "Select An Image"
+msgstr "Select An Image"
+
+#: includes/foopluginbase/classes/class-foo-plugin-base.php:302
+msgid " Settings"
+msgstr " Settings"
+
+#: includes/class-posttypes.php:102
+msgid "%s Gallery restored from the Trash."
+msgid_plural "%s Galleries restored from the Trash."
+msgstr[0] "%s Gallery restored from the Trash."
+msgstr[1] "%s Galleries restored from the Trash."
+
+#: includes/class-posttypes.php:101
+msgid "%s Gallery moved to the Trash."
+msgid_plural "%s Galleries moved to the Trash."
+msgstr[0] "%s Gallery moved to the Trash."
+msgstr[1] "%s Galleries moved to the Trash."
+
+#: includes/class-posttypes.php:100
+msgid "%s Gallery permanently deleted."
+msgid_plural "%s Galleries permanently deleted."
+msgstr[0] "%s Gallery permanently deleted."
+msgstr[1] "%s Galleries permanently deleted."
+
+#: includes/class-posttypes.php:99
+msgid "%s Gallery not updated, somebody is editing it."
+msgid_plural "%s Galleries not updated, somebody is editing them."
+msgstr[0] "%s Gallery not updated, somebody is editing it."
+msgstr[1] "%s Galleries not updated, somebody is editing them."
+
+#: includes/class-posttypes.php:98
+msgid "%s Gallery updated."
+msgid_plural "%s Galleries updated."
+msgstr[0] "%s Gallery updated."
+msgstr[1] "%s Galleries updated."
+
+#: includes/class-posttypes.php:78
+msgid "Gallery draft updated."
+msgstr "Gallery draft updated."
+
+#: includes/class-posttypes.php:77
+msgid "Gallery scheduled for: <strong>%1$s</strong>."
+msgstr "Gallery scheduled for: <strong>%1$s</strong>."
+
+#: includes/class-posttypes.php:76
+msgid "Gallery submitted."
+msgstr "Gallery submitted."
+
+#: includes/class-posttypes.php:75
+msgid "Gallery saved."
+msgstr "Gallery saved."
+
+#: includes/class-posttypes.php:74
+msgid "Gallery published."
+msgstr "Gallery published."
+
+#: includes/class-posttypes.php:73
+msgid "Gallery restored to revision from %s."
+msgstr "Gallery restored to revision from %s."
+
+#: includes/class-posttypes.php:71
+msgid "Gallery custom field deleted."
+msgstr "Gallery custom field deleted."
+
+#: includes/class-posttypes.php:70
+msgid "Gallery custom field updated."
+msgstr "Gallery custom field updated."
+
+#: includes/class-posttypes.php:69 includes/class-posttypes.php:72
+msgid "Gallery updated."
+msgstr "Gallery updated."
+
+#: includes/class-posttypes.php:35
+msgid "No Galleries found in Trash"
+msgstr "No Galleries found in Trash"
+
+#: includes/class-posttypes.php:34
+msgid "No Galleries found"
+msgstr "No Galleries found"
+
+#: includes/class-posttypes.php:33
+msgid "Search Galleries"
+msgstr "Search Galleries"
+
+#: includes/class-posttypes.php:32
+msgid "View Gallery"
+msgstr "View Gallery"
+
+#: includes/class-posttypes.php:31
+msgid "New Gallery"
+msgstr "New Gallery"
+
+#: includes/class-posttypes.php:30
+#: extensions/albums/admin/class-metaboxes.php:536
+#: gutenberg/src/block/edit/components/inspector-controls/index.js:25
+msgid "Edit Gallery"
+msgstr "Edit Gallery"
+
+#: includes/class-posttypes.php:28
+msgid "Add Gallery"
+msgstr "Add Gallery"
+
+#: includes/class-posttypes.php:27
+msgid "Gallery"
+msgstr "Gallery"
+
+#: includes/class-foogallery.php:360 includes/class-foogallery.php:372
+#: includes/admin/class-settings.php:294
+msgid "%s images"
+msgstr "%s images"
+
+#: includes/class-foogallery.php:359 includes/class-foogallery.php:369
+#: includes/admin/class-settings.php:286
+msgid "1 image"
+msgstr "1 image"
+
+#: includes/class-foogallery.php:358 includes/class-foogallery.php:366
+#: includes/admin/class-settings.php:278
+msgid "No images"
+msgstr "No images"
+
+#: includes/extensions/class-extensions-api.php:813
+msgid "Error loading extension!"
+msgstr "Error loading extension!"
+
+#: includes/extensions/class-extensions-api.php:756
+msgid "Activate immediately"
+msgstr "Activate immediately"
+
+#: includes/extensions/class-extensions-api.php:752
+msgid "The extension %s was successfully downloaded and can now be activated. %s"
+msgstr "The extension %s was successfully downloaded and can now be activated. %s"
+
+#: includes/extensions/class-extensions-api.php:725
+msgid "The extension %s has no download link!"
+msgstr "The extension %s has no download link!"
+
+#: includes/extensions/class-extensions-api.php:711
+msgid "Unable to connect to the WordPress.org plugin API to download %s. Full error log: %s"
+msgstr "Unable to connect to the WordPress.org plugin API to download %s. Full error log: %s"
+
+#: includes/extensions/class-extensions-api.php:640
+msgid "The extension %s was successfully activated"
+msgstr "The extension %s was successfully activated"
+
+#: includes/extensions/class-extensions-api.php:622
+msgid "The extension %s could NOT be activated!"
+msgstr "The extension %s could NOT be activated!"
+
+#: includes/extensions/class-extensions-api.php:612
+msgid "The extension %s could not be activated, because you are using an outdated version! Please update %s to at least version %s."
+msgstr "The extension %s could not be activated, because you are using an outdated version! Please update %s to at least version %s."
+
+#: includes/extensions/class-extensions-api.php:610
+msgid "Requires %s version %s"
+msgstr "Requires %s version %s"
+
+#: includes/extensions/class-extensions-api.php:580
+#: includes/extensions/class-extensions-api.php:645
+#: includes/extensions/class-extensions-api.php:762
+msgid "Unknown extension : %s"
+msgstr "Unknown extension : %s"
+
+#: includes/extensions/class-extensions-api.php:575
+msgid "The extension %s was successfully deactivated"
+msgstr "The extension %s was successfully deactivated"
+
+#: includes/extensions/class-extensions-api.php:550
+msgid "The extension %s could NOT be deactivated!"
+msgstr "The extension %s could NOT be deactivated!"
+
+#: includes/extensions/class-extensions-api.php:381
+msgid "Build Your Own"
+msgstr "Build Your Own"
+
+#: includes/extensions/class-extensions-api.php:362
+msgid "Active"
+msgstr "Active"
+
+#: includes/extensions/class-extensions-api.php:359
+msgid "All"
+msgstr "All"
+
+#: includes/extensions/class-extensions-api.php:224
+msgid "new"
+msgstr "new"
+
+#: includes/admin/view-system-info.php:94
+msgid "Active Plugins"
+msgstr "Active Plugins"
+
+#: includes/admin/view-system-info.php:92
+msgid "Lightboxes"
+msgstr "Lightboxes"
+
+#: includes/admin/view-system-info.php:90
+msgid "Extensions Active"
+msgstr "Extensions Active"
+
+#: includes/admin/view-system-info.php:88
+msgid "Nope, all good"
+msgstr "Nope, all good"
+
+#: includes/admin/view-system-info.php:88
+msgid "Extensions Errors"
+msgstr "Extensions Errors"
+
+#: includes/admin/view-system-info.php:87
+msgid "Extensions Endpoint"
+msgstr "Extensions Endpoint"
+
+#: includes/admin/view-system-info.php:77
+#: includes/admin/view-system-info.php:78
+#: includes/admin/view-system-info.php:79
+#: includes/admin/view-system-info.php:80
+#: includes/admin/view-system-info.php:81
+msgid "Not found!"
+msgstr "Not found!"
+
+#: includes/admin/view-system-info.php:76
+msgid "PHP version"
+msgstr "PHP version"
+
+#: includes/admin/view-system-info.php:75
+msgid "WordPress URL"
+msgstr "WordPress URL"
+
+#: includes/admin/view-system-info.php:74
+msgid "Activated Theme"
+msgstr "Activated Theme"
+
+#: includes/admin/view-system-info.php:73
+msgid "WordPress version"
+msgstr "WordPress version"
+
+#: includes/admin/view-system-info.php:72
+msgid "FooGallery version"
+msgstr "FooGallery version"
+
+#: includes/admin/view-system-info.php:39
+msgid "Below is some information about your server configuration. You can use this info to help debug issues you may have with %s."
+msgstr "Below is some information about your server configuration. You can use this info to help debug issues you may have with %s."
+
+#: includes/admin/view-help.php:230
+msgid "We make your life easy! Just click the shortcodes and they get copied to your clipboard automatically. "
+msgstr "We make your life easy! Just click the shortcodes and they get copied to your clipboard automatically. "
+
+#: includes/admin/view-help.php:229
+msgid "Copy To Clipboard"
+msgstr "Copy To Clipboard"
+
+#: includes/admin/view-help.php:227
+msgid "Simply copy the shortcode code from the gallery listing page and paste it into your posts or pages."
+msgstr "Simply copy the shortcode code from the gallery listing page and paste it into your posts or pages."
+
+#: includes/admin/view-help.php:226
+msgid "The <em>[%s]</em> Short Code"
+msgstr "The <em>[%s]</em> Short Code"
+
+#: includes/admin/view-help.php:219
+msgid "Show Off Your Gallery"
+msgstr "Show Off Your Gallery"
+
+#: includes/admin/class-pro-promotion.php:113
+msgid "Video Support"
+msgstr "Video Support"
+
+#: includes/admin/view-system-info.php:91
+msgid "Gallery Templates"
+msgstr "Gallery Templates"
+
+#: includes/admin/view-help.php:195
+msgid "1. <a href=\"%s\">Galleries &rarr; Add New</a>"
+msgstr "1. <a href=\"%s\">Galleries &rarr; Add New</a>"
+
+#: includes/admin/view-help.php:191
+msgid "Creating Your First Gallery"
+msgstr "Creating Your First Gallery"
+
+#: includes/admin/view-help.php:171
+msgid "Getting Started"
+msgstr "Getting Started"
+
+#: includes/admin/view-help.php:6
+msgid "Visit our homepage"
+msgstr "Visit our homepage"
+
+#: includes/admin/view-help.php:5
+msgid "Thank you for choosing %s, the most intuitive and extensible gallery creation and management tool ever created for WordPress!"
+msgstr "Thank you for choosing %s, the most intuitive and extensible gallery creation and management tool ever created for WordPress!"
+
+#: includes/admin/view-help.php:4
+msgid "Welcome to %s %s"
+msgstr "Welcome to %s %s"
+
+#: includes/admin/view-extensions.php:136
+msgid "Activated"
+msgstr "Activated"
+
+#: includes/admin/view-extensions.php:163
+msgid "Deactivate"
+msgstr "Deactivate"
+
+#: includes/admin/view-extensions.php:160
+msgid "Download"
+msgstr "Download"
+
+#: includes/admin/view-extensions.php:160
+msgid "Are you sure you want to download this extension?"
+msgstr "Are you sure you want to download this extension?"
+
+#: includes/admin/view-extensions.php:42
+msgid "There was a problem loading all the public extensions! Only the default bundled extensions will be shown."
+msgstr "There was a problem loading all the public extensions! Only the default bundled extensions will be shown."
+
+#: includes/admin/view-extensions.php:15
+msgid "Extensions make %s even more awesome, without bloating the core plugin."
+msgstr "Extensions make %s even more awesome, without bloating the core plugin."
+
+#: includes/admin/view-extensions-popup.php:57
+msgid "Delete"
+msgstr "Delete"
+
+#: includes/admin/view-extensions-popup.php:52
+msgid "Live Preview"
+msgstr "Live Preview"
+
+#: includes/admin/view-extensions-popup.php:50
+#: includes/admin/view-extensions.php:162
+msgid "Activate"
+msgstr "Activate"
+
+#: includes/admin/view-extensions-popup.php:45
+msgid "Customize"
+msgstr "Customize"
+
+#: includes/admin/view-extensions-popup.php:38
+msgid "Tags:"
+msgstr "Tags:"
+
+#: includes/admin/view-extensions-popup.php:34
+msgid "This is a child extension of %s."
+msgstr "This is a child extension of %s."
+
+#: includes/admin/view-extensions-popup.php:27
+msgid "Update Available"
+msgstr "Update Available"
+
+#: includes/admin/view-extensions-popup.php:23
+msgid "By %s"
+msgstr "By %s"
+
+#: includes/admin/view-extensions-popup.php:22
+msgid "Version: %s"
+msgstr "Version: %s"
+
+#: includes/admin/view-extensions-popup.php:20
+msgid "Current extension"
+msgstr "Current extension"
+
+#: includes/admin/view-extensions-popup.php:7
+msgid "Close overlay"
+msgstr "Close overlay"
+
+#: includes/admin/view-extensions-popup.php:6
+msgid "Show next extension"
+msgstr "Show next extension"
+
+#: includes/admin/view-extensions-popup.php:5
+msgid "Show previous extension"
+msgstr "Show previous extension"
+
+#: includes/admin/view-extensions-build-your-own.php:150
+msgid "Once you have downloaded the zip file, install and activate it like a normal WordPress plugin so that it shows up in the list of extensions!"
+msgstr "Once you have downloaded the zip file, install and activate it like a normal WordPress plugin so that it shows up in the list of extensions!"
+
+#: includes/admin/view-extensions-build-your-own.php:144
+msgid "Generate &amp; download .zip"
+msgstr "Generate &amp; download .zip"
+
+#: includes/admin/view-extensions-build-your-own.php:140
+msgid "Author URL"
+msgstr "Author URL"
+
+#: includes/admin/view-extensions-build-your-own.php:136
+msgid "Author Name"
+msgstr "Author Name"
+
+#: includes/class-foogallery-common-fields.php:447
+#: includes/admin/view-extensions-build-your-own.php:132
+msgid "Description"
+msgstr "Description"
+
+#: includes/admin/view-extensions-build-your-own.php:128
+msgid "Name"
+msgstr "Name"
+
+#: includes/admin/view-extensions-build-your-own.php:120
+msgid "Type Of Extension"
+msgstr "Type Of Extension"
+
+#: includes/admin/view-extensions-build-your-own.php:117
+msgid "Extension Boilerplate Generator"
+msgstr "Extension Boilerplate Generator"
+
+#: includes/admin/view-extensions-build-your-own.php:112
+msgid "We really want to make it easy for you to get started and building your own extensions. Generate an extension boilerplate in seconds using the provided form."
+msgstr "We really want to make it easy for you to get started and building your own extensions. Generate an extension boilerplate in seconds using the provided form."
+
+#: includes/admin/view-extensions-build-your-own.php:110
+msgid "Extension Boilerplates"
+msgstr "Extension Boilerplates"
+
+#: includes/admin/view-extensions-build-your-own.php:106
+msgid "An extension is essentially a WordPress plugin."
+msgstr "An extension is essentially a WordPress plugin."
+
+#: includes/admin/view-extensions-build-your-own.php:104
+msgid "Developer Tips"
+msgstr "Developer Tips"
+
+#: includes/admin/view-extensions-build-your-own.php:102
+msgid "There is no limit to the number of ways you can change or alter FooGallery!"
+msgstr "There is no limit to the number of ways you can change or alter FooGallery!"
+
+#: includes/admin/view-extensions-build-your-own.php:100
+msgid "Add your own options to the settings page?"
+msgstr "Add your own options to the settings page?"
+
+#: includes/admin/view-extensions-build-your-own.php:99
+msgid "Why not white-label FooGallery for your clients?"
+msgstr "Why not white-label FooGallery for your clients?"
+
+#: includes/admin/view-extensions-build-your-own.php:98
+msgid "Adding support for your favourite lightbox."
+msgstr "Adding support for your favourite lightbox."
+
+#: includes/admin/view-extensions-build-your-own.php:97
+msgid "Build your own unique Gallery Template."
+msgstr "Build your own unique Gallery Template."
+
+#: includes/admin/view-extensions-build-your-own.php:95
+msgid "Extension Ideas"
+msgstr "Extension Ideas"
+
+#: includes/admin/view-extensions-build-your-own.php:93
+msgid "FooGallery was built with developers in mind. If you can build your own WordPress plugin, then you will have no problem building your own FooGallery extension."
+msgstr "FooGallery was built with developers in mind. If you can build your own WordPress plugin, then you will have no problem building your own FooGallery extension."
+
+#: includes/admin/view-extensions-build-your-own.php:91
+msgid "Build Your Own FooGallery Extensions!"
+msgstr "Build Your Own FooGallery Extensions!"
+
+#: includes/admin/view-extensions-build-your-own.php:28
+msgid "A cool description about what your cool thing can do"
+msgstr "A cool description about what your cool thing can do"
+
+#: includes/admin/view-extensions-build-your-own.php:26
+msgid "Cool Thing"
+msgstr "Cool Thing"
+
+#: includes/admin/view-extensions-build-your-own.php:19
+msgid "Please fill in all form fields!"
+msgstr "Please fill in all form fields!"
+
+#: includes/admin/class-settings.php:198
+msgid "Should animated gifs be resized or not. If enabled, only the first frame is used in the resize."
+msgstr "Should animated GIFs be resized or not? If enabled, only the first frame is used in the resize."
+
+#: includes/admin/class-settings.php:197
+msgid "Resize Animated GIFs"
+msgstr "Resize Animated GIFs"
+
+#: includes/admin/class-settings.php:172
+msgid "The image quality to be used when resizing JPEG images."
+msgstr "The image quality to be used when resizing JPEG images."
+
+#: includes/admin/class-gallery-metaboxes.php:88
+msgid "Thumbnails"
+msgstr "Thumbnails"
+
+#: includes/admin/class-settings.php:353
+msgid "The list of available extensions are pulled from an external URL. You can also pull from a \"beta\" endpoint which will sometimes contain beta extensions that are not publicly available."
+msgstr "The list of available extensions are pulled from an external URL. You can also pull from a \"beta\" endpoint which will sometimes contain beta extensions that are not publicly available."
+
+#: includes/admin/class-settings.php:352
+msgid "Use Beta Endpoint"
+msgstr "Use Beta Endpoint"
+
+#: includes/admin/class-settings.php:93
+msgid "When creating a new gallery, it can use the settings from an existing gallery as the default settings. This will save you time when creating many galleries that all have the same look and feel."
+msgstr "When creating a new gallery, it can use the settings from an existing gallery as the default settings. This will save you time when creating many galleries that all have the same look and feel."
+
+#: includes/admin/class-settings.php:92
+msgid "Default Gallery Settings"
+msgstr "Default Gallery Settings"
+
+#: includes/admin/class-settings.php:137
+msgid "Some gallery templates show helpful tips, which are useful for new users. You can choose to hide these tips."
+msgstr "Some gallery templates show helpful tips, which are useful for new users. You can choose to hide these tips."
+
+#: includes/admin/class-settings.php:136
+msgid "Hide Gallery Template Help"
+msgstr "Hide Gallery Template Help"
+
+#: includes/admin/class-settings.php:60
+msgid "The default attachment sorting to use for new galleries"
+msgstr "The default attachment sorting to use for new galleries"
+
+#: includes/admin/class-settings.php:59
+msgid "Default Gallery Sorting"
+msgstr "Default Gallery Sorting"
+
+#: includes/admin/class-settings.php:49
+msgid "The default gallery template to use for new galleries"
+msgstr "The default gallery template to use for new galleries"
+
+#: includes/admin/class-settings.php:48
+msgid "Default Gallery Template"
+msgstr "Default Gallery Template"
+
+#: includes/compatibility/class-foobox-compatibility.php:70
+#: includes/admin/class-gallery-metabox-settings.php:83
+#: includes/admin/class-gallery-metabox-settings-helper.php:192
+#: includes/admin/class-pro-promotion.php:440
+#: includes/admin/class-pro-promotion.php:457
+#: includes/admin/class-pro-promotion.php:475
+#: includes/admin/class-pro-promotion.php:577
+#: includes/admin/class-pro-promotion.php:602
+#: includes/admin/class-pro-promotion.php:628
+#: includes/admin/class-settings.php:29
+#: extensions/default-templates/masonry/class-masonry-gallery-template.php:70
+#: extensions/default-templates/masonry/class-masonry-gallery-template.php:85
+#: extensions/default-templates/masonry/class-masonry-gallery-template.php:105
+#: extensions/default-templates/masonry/class-masonry-gallery-template.php:124
+#: extensions/default-templates/masonry/class-masonry-gallery-template.php:146
+#: extensions/default-templates/default/class-default-gallery-template.php:73
+#: extensions/default-templates/default/class-default-gallery-template.php:87
+#: extensions/default-templates/default/class-default-gallery-template.php:96
+#: extensions/default-templates/default/class-default-gallery-template.php:104
+#: extensions/default-templates/default/class-default-gallery-template.php:124
+#: extensions/default-templates/image-viewer/class-image-viewer-gallery-template.php:82
+#: extensions/default-templates/image-viewer/class-image-viewer-gallery-template.php:88
+#: extensions/default-templates/image-viewer/class-image-viewer-gallery-template.php:104
+#: extensions/default-templates/image-viewer/class-image-viewer-gallery-template.php:112
+#: extensions/default-templates/image-viewer/class-image-viewer-gallery-template.php:120
+#: extensions/default-templates/image-viewer/class-image-viewer-gallery-template.php:138
+#: extensions/default-templates/image-viewer/class-image-viewer-gallery-template.php:156
+#: extensions/default-templates/image-viewer/class-image-viewer-gallery-template.php:162
+#: extensions/default-templates/image-viewer/class-image-viewer-gallery-template.php:173
+#: extensions/default-templates/image-viewer/class-image-viewer-gallery-template.php:184
+#: extensions/default-templates/thumbnail/class-thumbnail-gallery-template.php:68
+#: extensions/default-templates/thumbnail/class-thumbnail-gallery-template.php:76
+#: extensions/default-templates/thumbnail/class-thumbnail-gallery-template.php:92
+#: extensions/default-templates/thumbnail/class-thumbnail-gallery-template.php:110
+#: extensions/default-templates/thumbnail/class-thumbnail-gallery-template.php:118
+#: extensions/default-templates/thumbnail/class-thumbnail-gallery-template.php:131
+#: extensions/default-templates/justified/class-justified-gallery-template.php:63
+#: extensions/default-templates/justified/class-justified-gallery-template.php:78
+#: extensions/default-templates/justified/class-justified-gallery-template.php:94
+#: extensions/default-templates/justified/class-justified-gallery-template.php:108
+#: extensions/default-templates/justified/class-justified-gallery-template.php:123
+#: extensions/default-templates/justified/class-justified-gallery-template.php:132
+#: extensions/default-templates/justified/class-justified-gallery-template.php:140
+#: extensions/default-templates/simple-portfolio/class-simple-portfolio-gallery-template.php:70
+#: extensions/default-templates/simple-portfolio/class-simple-portfolio-gallery-template.php:79
+#: extensions/default-templates/simple-portfolio/class-simple-portfolio-gallery-template.php:93
+#: extensions/default-templates/simple-portfolio/class-simple-portfolio-gallery-template.php:102
+#: extensions/default-templates/simple-portfolio/class-simple-portfolio-gallery-template.php:110
+#: extensions/default-templates/simple-portfolio/class-simple-portfolio-gallery-template.php:126
+msgid "General"
+msgstr "General"
+
+#: includes/admin/class-menu.php:86
+msgid "%s settings updated."
+msgstr "%s settings updated."
+
+#: includes/admin/class-menu.php:42
+msgid "System Info"
+msgstr "System Info"
+
+#: includes/admin/view-system-info.php:38 includes/admin/class-menu.php:41
+msgid "%s System Information"
+msgstr "%s System Information"
+
+#: includes/admin/class-menu.php:37
+msgid "%s Help"
+msgstr "%s Help"
+
+#: includes/admin/view-extensions.php:45 includes/admin/class-menu.php:33
+msgid "%s Extensions"
+msgstr "%s Extensions"
+
+#: includes/admin/class-menu.php:29
+msgid "%s Settings"
+msgstr "%s Settings"
+
+#: includes/admin/class-gallery-metaboxes.php:359
+msgid "Add any custom CSS to target this specific gallery. For example %s"
+msgstr "Add any custom CSS to target this specific gallery. For example %s"
+
+#: includes/admin/class-gallery-metaboxes.php:271
+msgid "Change the way images are sorted within your gallery. By default, they are sorted in the order you see them."
+msgstr "Change the way images are sorted within your gallery. By default, they are sorted in the order you see them."
+
+#: includes/admin/class-gallery-metaboxes.php:258
+msgid "A draft page will be created which includes the gallery shortcode in the content. The title of the page will be the same title as the gallery."
+msgstr "A draft page will be created which includes the gallery shortcode in the content. The title of the page will be the same title as the gallery."
+
+#: includes/admin/class-gallery-metaboxes.php:253
+msgid "Create Gallery Page"
+msgstr "Create Gallery Page"
+
+#: includes/admin/class-gallery-metaboxes.php:250
+msgid "This gallery is not used on any pages or pages yet. Quickly create a page:"
+msgstr "This gallery is not used on any pages or pages yet. Quickly create a page:"
+
+#: includes/admin/class-gallery-metaboxes.php:245
+msgid "View"
+msgstr "View"
+
+#: includes/admin/class-gallery-metaboxes.php:244
+msgid "Edit"
+msgstr "Edit"
+
+#: includes/admin/class-gallery-metaboxes.php:238
+msgid "This gallery is used on the following posts or pages:"
+msgstr "This gallery is used on the following posts or pages:"
+
+#: includes/admin/class-gallery-metaboxes.php:210
+msgid "Paste the above shortcode into a post or page to show the gallery."
+msgstr "Paste the above shortcode into a post or page to show the gallery."
+
+#: includes/admin/view-extensions-build-your-own.php:122
+#: extensions/albums/admin/class-metaboxes.php:540
+msgid "Gallery Template"
+msgstr "Gallery Template"
+
+#: includes/class-foogallery-datasource-media_library.php:177
+msgid "Remove from gallery"
+msgstr "Remove from gallery"
+
+#: includes/class-foogallery-datasource-media_library.php:174
+msgid "Edit Info"
+msgstr "Edit Info"
+
+#: includes/class-foogallery-datasource-media_library.php:80
+#: includes/class-foogallery-datasource-media_library.php:123
+#: includes/class-foogallery-datasource-media_library.php:125
+#: includes/class-foogallery-datasource-media_library.php:142
+msgid "Add Media"
+msgstr "Add Media"
+
+#: includes/class-foogallery-datasource-media_library.php:79
+#: includes/class-foogallery-datasource-media_library.php:122
+#: includes/class-foogallery-datasource-media_library.php:141
+msgid "Add Media To Gallery"
+msgstr "Add Media To Gallery"
+
+#: includes/admin/class-gallery-metaboxes.php:79
+msgid "Gallery Sorting"
+msgstr "Gallery Sorting"
+
+#: includes/admin/class-gallery-metaboxes.php:51
+msgid "Gallery Usage"
+msgstr "Gallery Usage"
+
+#: includes/admin/class-gallery-metaboxes.php:42
+msgid "Gallery Shortcode"
+msgstr "Gallery Shortcode"
+
+#: includes/admin/class-gallery-metabox-items.php:30
+msgid "Gallery Items"
+msgstr "Gallery Items"
+
+#: includes/functions.php:1108
+msgid "Not linked"
+msgstr "Not linked"
+
+#: includes/functions.php:1107 includes/admin/class-attachment-fields.php:27
+#: extensions/albums/functions.php:83
+#: extensions/albums/admin/class-metaboxes.php:552
+msgid "Custom URL"
+msgstr "Custom URL"
+
+#: includes/functions.php:1106
+msgid "Image Attachment Page"
+msgstr "Image Attachment Page"
+
+#: includes/functions.php:1105
+msgid "Full Size Image"
+msgstr "Full Size Image"
+
+#: includes/admin/class-gallery-metabox-fields.php:194
+msgid "Crop thumbnail to exact dimensions"
+msgstr "Crop thumbnail to exact dimensions"
+
+#: includes/admin/class-gallery-metabox-fields.php:190
+#: includes/admin/class-gallery-metabox-fields.php:202
+msgid "Height"
+msgstr "Height"
+
+#: includes/admin/class-gallery-metabox-fields.php:188
+#: includes/admin/class-gallery-metabox-fields.php:200
+msgid "Width"
+msgstr "Width"
+
+#: includes/class-posttypes.php:29 includes/admin/class-gallery-editor.php:383
+msgid "Add New Gallery"
+msgstr "Add New Gallery"
+
+#: includes/admin/class-gallery-editor.php:323
+#: gutenberg/src/block/edit/components/modal/index.js:132
+msgid "Insert Gallery"
+msgstr "Insert Gallery"
+
+#: includes/admin/class-gallery-editor.php:319
+#: includes/admin/class-gallery-datasources.php:217
+msgid "Cancel"
+msgstr "Cancel"
+
+#: includes/admin/class-gallery-editor.php:306
+msgid "Once you have finished adding a gallery, come back to this dialog and click the \"Reload\" button to see your newly created gallery."
+msgstr "Once you have finished adding a gallery, come back to this dialog and click the \"Reload\" button to see your newly created gallery."
+
+#: includes/admin/class-gallery-editor.php:303
+msgid "You can add a new gallery by clicking the \"Add New Gallery\" tile on the left. It will open in a new window."
+msgstr "You can add a new gallery by clicking the \"Add New Gallery\" tile on the left. It will open in a new window."
+
+#: includes/admin/class-gallery-editor.php:301
+msgid "Add A Gallery"
+msgstr "Add A Gallery"
+
+#: includes/admin/class-gallery-editor.php:299
+msgid "Select a gallery by clicking it, and then click the \"Insert Gallery\" button to insert it into your content."
+msgstr "Select a gallery by clicking it, and then click the \"Insert Gallery\" button to insert it into your content."
+
+#: includes/admin/class-gallery-editor.php:297
+msgid "Select A Gallery"
+msgstr "Select A Gallery"
+
+#: includes/admin/class-gallery-editor.php:285
+#: includes/admin/view-extensions.php:60
+#: includes/admin/class-gallery-datasources.php:189
+msgid "Reload"
+msgstr "Reload"
+
+#: includes/admin/class-gallery-editor.php:282
+msgid "Choose a gallery to insert"
+msgstr "Choose a gallery to insert"
+
+#: includes/admin/class-gallery-editor.php:56
+msgid "Add %s"
+msgstr "Add %s"
+
+#: includes/admin/class-gallery-editor.php:53
+msgid "Add Gallery From %s"
+msgstr "Add Gallery From %s"
+
+#: includes/admin/class-extensions.php:109
+msgid "Activation Error!"
+msgstr "Activation Error!"
+
+#: includes/admin/class-extensions.php:103
+msgid "The extension could not be activated due to an error!"
+msgstr "The extension could not be activated due to an error!"
+
+#: includes/admin/class-extensions.php:86
+msgid "The extensions have been reloaded"
+msgstr "The extensions have been reloaded"
+
+#: includes/admin/class-columns.php:25
+#: extensions/albums/admin/class-metaboxes.php:546
+msgid "Media"
+msgstr "Media"
+
+#: includes/admin/class-attachment-fields.php:36
+msgid "Set a custom target for your attachment"
+msgstr "Set a custom target for your attachment"
+
+#: includes/admin/class-attachment-fields.php:29
+msgid "Point your attachment to a custom URL"
+msgstr "Point your attachment to a custom URL"
+
+#: includes/compatibility/class-foobox-compatibility.php:139
+#: includes/admin/class-attachment-fields.php:22
+msgid "FooBox"
+msgstr "FooBox"
+
+#: includes/admin/class-attachment-fields.php:21
+#: extensions/albums/admin/class-metaboxes.php:527
+msgid "Same tab (_self)"
+msgstr "Same tab (_self)"
+
+#: includes/admin/class-attachment-fields.php:20
+#: extensions/albums/admin/class-metaboxes.php:526
+msgid "New tab (_blank)"
+msgstr "New tab (_blank)"
+
+#: includes/class-foogallery-common-fields.php:200 includes/functions.php:531
+#: includes/admin/class-attachment-fields.php:19
+#: extensions/albums/functions.php:82
+#: extensions/albums/admin/class-metaboxes.php:525
+msgid "Default"
+msgstr "Standard"
+
+#: includes/admin/class-admin.php:83 includes/admin/class-menu.php:38
+msgid "Help"
+msgstr "Help"
+
+#: includes/admin/view-system-info.php:89 includes/admin/class-menu.php:34
+msgid "Extensions"
+msgstr "Extensions"
+
+#: includes/WPThumb/wpthumb.watermark.php:192
+msgid "Watermark"
+msgstr "Watermark"
+
+#: includes/WPThumb/wpthumb.php:783
+msgid "The directory <code>%s</code> is not writable."
+msgstr "The directory <code>%s</code> is not writable."
+
+#: includes/WPThumb/wpthumb.php:783
+msgid "WPThumb has detected a problem."
+msgstr "WPThumb has detected a problem."
+
+#: includes/WPThumb/wpthumb.crop-from-position.php:51
+msgid "Crop Position"
+msgstr "Crop Position"
+
+#: extensions/nextgen-importer/view-importer.php:329
+msgid "Once an album is imported, you can click on the link under the Album Name column to edit the album."
+msgstr "Once an album is imported, you can click on the link under the Album Name column to edit the album."
+
+#: extensions/nextgen-importer/view-importer.php:328
+msgid "Click the Import Album button for each album to import the album and link all the galleries. If you do not see the button, then that means you first need to import the galleries."
+msgstr "Click the Import Album button for each album to import the album and link all the galleries. If you do not see the button, then that means you first need to import the galleries."
+
+#: extensions/nextgen-importer/view-importer.php:325
+msgid "Importing albums is also really simple:"
+msgstr "Importing albums is also really simple:"
+
+#: extensions/nextgen-importer/view-importer.php:322
+msgid "There are no NextGen albums to import!"
+msgstr "There are no NextGen albums to import!"
+
+#: extensions/nextgen-importer/view-importer.php:311
+msgid "Please note: importing large galleries with lots of images can take a while!"
+msgstr "Please note: importing large galleries with lots of images can take a while!"
+
+#: extensions/nextgen-importer/view-importer.php:309
+msgid "Once a gallery is imported, you can click on the link under the %s Name column to edit the gallery."
+msgstr "Once a gallery is imported, you can click on the link under the %s Name column to edit the gallery."
+
+#: extensions/nextgen-importer/view-importer.php:308
+msgid "Click the Start Import button to start the import process."
+msgstr "Click the Start Import button to start the import process."
+
+#: extensions/nextgen-importer/view-importer.php:307
+msgid "Choose the NextGen galleries you want to import into %s by checking their checkboxes."
+msgstr "Choose the NextGen galleries you want to import into %s by checking their checkboxes."
+
+#: extensions/nextgen-importer/view-importer.php:305
+msgid "Importing galleries is really simple:"
+msgstr "Importing galleries is really simple:"
+
+#: extensions/nextgen-importer/view-importer.php:302
+msgid "There are no NextGen galleries to import!"
+msgstr "There are no NextGen galleries to import!"
+
+#: extensions/nextgen-importer/view-importer.php:291
+msgid "NextGen Gallery And Album Importer"
+msgstr "NextGen Gallery And Album Importer"
+
+#: extensions/nextgen-importer/view-importer.php:200
+msgid "Something went wrong with the import and the page will now reload."
+msgstr "Something went wrong with the import and the page will now reload."
+
+#: extensions/nextgen-importer/view-importer.php:170
+msgid "Are you sure you want to reset all NextGen album import data? This may result in duplicate albums if you decide to import again!"
+msgstr "Are you sure you want to reset all NextGen album import data? This may result in duplicate albums if you decide to import again!"
+
+#: extensions/nextgen-importer/view-importer.php:163
+msgid "Are you sure you want to reset all NextGen gallery import data? This may result in duplicate galleries and media attachments!"
+msgstr "Are you sure you want to reset all NextGen gallery import data? This may result in duplicate galleries and media attachments!"
+
+#: extensions/nextgen-importer/view-importer.php:156
+msgid "Are you sure you want to cancel?"
+msgstr "Are you sure you want to cancel?"
+
+#: extensions/nextgen-importer/view-importer.php:115
+msgid "Something went wrong with the import and the page will now reload. Once it has reloaded, click \"Resume Import\" to continue with the import."
+msgstr "Something went wrong with the import and the page will now reload. Once it has reloaded, click \"Resume Import\" to continue with the import."
+
+#: extensions/nextgen-importer/class-nextgen-import-progress.php:60
+msgid "Done! %d image(s) imported"
+msgstr "Done! %d image(s) imported"
+
+#: extensions/nextgen-importer/class-nextgen-import-progress.php:56
+msgid "Imported %d of %d image(s)"
+msgstr "Imported %d of %d image(s)"
+
+#: extensions/nextgen-importer/class-nextgen-import-progress.php:53
+msgid "Queued for import"
+msgstr "Queued for import"
+
+#: extensions/nextgen-importer/class-nextgen-import-progress.php:50
+msgid "Not imported"
+msgstr "Not imported"
+
+#: extensions/nextgen-importer/class-nextgen-import-progress-album.php:30
+#: extensions/nextgen-importer/class-nextgen-import-progress.php:71
+msgid "Unknown status!"
+msgstr "Unknown status!"
+
+#: extensions/nextgen-importer/class-nextgen-import-progress-album.php:26
+msgid "Done! %d galleries(s) linked"
+msgstr "Done! %d galleries(s) linked"
+
+#: extensions/nextgen-importer/class-nextgen-import-progress-album.php:23
+msgid "Album not imported"
+msgstr "Album not imported"
+
+#: extensions/nextgen-importer/class-nextgen-helper.php:518
+msgid "Reset All Album Imports"
+msgstr "Reset All Album Imports"
+
+#: extensions/nextgen-importer/class-nextgen-helper.php:500
+msgid "No galleries imported yet!!"
+msgstr "No galleries imported yet!!"
+
+#: extensions/nextgen-importer/class-nextgen-helper.php:497
+msgid "(Only previously imported galleries can be linked)"
+msgstr "(Only previously imported galleries can be linked)"
+
+#: extensions/nextgen-importer/class-nextgen-helper.php:495
+msgid "%d/%d galleries will be linked"
+msgstr "%d/%d galleries will be linked"
+
+#: extensions/nextgen-importer/class-nextgen-helper.php:493
+msgid "All galleries will be linked"
+msgstr "All galleries will be linked"
+
+#: extensions/nextgen-importer/class-nextgen-helper.php:470
+msgid "not imported"
+msgstr "not imported"
+
+#: extensions/nextgen-importer/class-nextgen-helper.php:470
+msgid "imported"
+msgstr "imported"
+
+#: extensions/nextgen-importer/class-nextgen-helper.php:455
+msgid "nested albums not supported"
+msgstr "nested albums not supported"
+
+#: extensions/nextgen-importer/class-nextgen-helper.php:450
+msgid "[Album] "
+msgstr "[Album] "
+
+#: extensions/nextgen-importer/class-nextgen-helper.php:405
+msgid "Import Options"
+msgstr "Import Options"
+
+#: extensions/nextgen-importer/class-nextgen-helper.php:402
+msgid "NextGen Galleries"
+msgstr "NextGen Galleries"
+
+#: extensions/nextgen-importer/class-nextgen-helper.php:399
+msgid "Album Name"
+msgstr "Album Name"
+
+#: extensions/nextgen-importer/class-nextgen-helper.php:396
+msgid "NextGen Album"
+msgstr "NextGen Album"
+
+#: extensions/nextgen-importer/class-nextgen-helper.php:369
+msgid "Reset All Gallery Imports"
+msgstr "Reset All Gallery Imports"
+
+#: extensions/nextgen-importer/class-nextgen-helper.php:365
+msgid "Stop Import"
+msgstr "Stop Import"
+
+#: extensions/nextgen-importer/class-nextgen-helper.php:363
+msgid "Resume Import"
+msgstr "Resume Import"
+
+#: extensions/nextgen-importer/class-nextgen-helper.php:361
+msgid "Start Import"
+msgstr "Start Import"
+
+#: extensions/nextgen-importer/class-nextgen-helper.php:324
+msgid "(%s images)"
+msgstr "(%s images)"
+
+#: extensions/nextgen-importer/class-nextgen-helper.php:256
+msgid "Import Progress"
+msgstr "Import Progress"
+
+#: extensions/nextgen-importer/class-nextgen-helper.php:253
+msgid "%s Name"
+msgstr "%s Name"
+
+#: extensions/nextgen-importer/class-nextgen-helper.php:250
+msgid "NextGen Gallery"
+msgstr "NextGen Gallery"
+
+#: extensions/nextgen-importer/class-nextgen-helper.php:245
+msgid "Select All"
+msgstr "Select All"
+
+#: extensions/nextgen-importer/class-nextgen-gallery-importer-extension.php:165
+msgid "NextGen gallery images are imported into your WordPress media library, where they should be!"
+msgstr "NextGen gallery images are imported into your WordPress media library, where they should be!"
+
+#: extensions/nextgen-importer/class-nextgen-gallery-importer-extension.php:163
+msgid "Import Images"
+msgstr "Import Images"
+
+#: extensions/nextgen-importer/class-nextgen-gallery-importer-extension.php:161
+msgid "Import all your NextGen galleries in a single click, or choose the galleries you would like to migrate over to %s."
+msgstr "Import all your NextGen galleries in a single click, or choose the galleries you would like to migrate over to %s."
+
+#: extensions/nextgen-importer/class-nextgen-gallery-importer-extension.php:159
+msgid "Import Galleries"
+msgstr "Import Galleries"
+
+#: extensions/nextgen-importer/class-nextgen-gallery-importer-extension.php:155
+msgid "Import Your NextGen Galleries"
+msgstr "Import Your NextGen Galleries"
+
+#: extensions/nextgen-importer/class-nextgen-gallery-importer-extension.php:44
+msgid "NextGen Importer"
+msgstr "NextGen Importer"
+
+#: extensions/default-templates/thumbnail/class-thumbnail-gallery-template.php:119
+msgid "Choose which lightbox you want to use."
+msgstr "Choose which lightbox you want to use."
+
+#: extensions/default-templates/thumbnail/class-thumbnail-gallery-template.php:160
+msgid "Leave blank if you do not want a caption description."
+msgstr "Leave blank if you do not want a caption description."
+
+#: extensions/default-templates/thumbnail/class-thumbnail-gallery-template.php:149
+msgid "Leave blank if you do not want a caption title."
+msgstr "Leave blank if you do not want a caption title."
+
+#: includes/class-foogallery-common-fields.php:323
+msgid "Scaled"
+msgstr "Scaled"
+
+#: includes/class-foogallery-common-fields.php:369
+msgid "Fade"
+msgstr "Fade"
+
+#: includes/class-foogallery-common-fields.php:370
+msgid "Slide Up"
+msgstr "Slide Up"
+
+#: extensions/default-templates/thumbnail/class-thumbnail-gallery-template.php:113
+msgid "You can link your thumbnails to Custom URL's (if they are set on your attachments). Fallback will be to the full size image."
+msgstr "You can link your thumbnails to Custom URL's (if they are set on your attachments). Fallback will be to the full size image."
+
+#: extensions/default-templates/thumbnail/class-thumbnail-gallery-template.php:109
+msgid "Link To Custom URL"
+msgstr "Link To Custom URL"
+
+#: extensions/default-templates/thumbnail/class-thumbnail-gallery-template.php:100
+msgid "Float Right"
+msgstr "Float Right"
+
+#: extensions/default-templates/thumbnail/class-thumbnail-gallery-template.php:99
+msgid "Float Left"
+msgstr "Float Left"
+
+#: extensions/default-templates/thumbnail/class-thumbnail-gallery-template.php:91
+msgid "The position of the thumbnail related to the content around it."
+msgstr "The position of the thumbnail related to the content around it."
+
+#: includes/class-foogallery-paging.php:80
+#: extensions/default-templates/thumbnail/class-thumbnail-gallery-template.php:90
+msgid "Position"
+msgstr "Position"
+
+#: extensions/default-templates/thumbnail/class-thumbnail-gallery-template.php:75
+msgid "Choose the size of your thumbnail."
+msgstr "Choose the size of your thumbnail."
+
+#: extensions/default-templates/thumbnail/class-thumbnail-gallery-template.php:70
+msgid "This gallery template only shows a single thumbnail, but the true power shines through when the thumbnail is clicked, because then the lightbox takes over and the user can view all the images in the gallery."
+msgstr "This gallery template only shows a single thumbnail, but the true power shines through when the thumbnail is clicked, because then the lightbox takes over and the user can view all the images in the gallery."
+
+#: includes/functions.php:1329
+#: extensions/default-templates/thumbnail/class-thumbnail-gallery-template.php:58
+msgid "Single Thumbnail Gallery"
+msgstr "Single Thumbnail Gallery"
+
+#: includes/functions.php:1045
+msgid "Attachment Caption"
+msgstr "Attachment Caption"
+
+#: includes/functions.php:1043
+msgid "Attachment Title"
+msgstr "Attachment Title"
+
+#: extensions/default-templates/justified/class-justified-gallery-template.php:106
+msgid "Margins"
+msgstr "Margins"
+
+#: extensions/default-templates/justified/class-justified-gallery-template.php:93
+msgid "A number (e.g 200) which specifies the maximum row height in pixels. A negative value for no limits. Alternatively, use a percentage (e.g. 200% which means that the row height cannot exceed 2 * rowHeight)"
+msgstr "A number (e.g 200) which specifies the maximum row height in pixels. A negative value for no limits. Alternatively, use a percentage (e.g. 200% which means that the row height cannot exceed 2 * rowHeight)"
+
+#: extensions/default-templates/justified/class-justified-gallery-template.php:92
+msgid "Max Row Height"
+msgstr "Max Row Height"
+
+#: extensions/default-templates/justified/class-justified-gallery-template.php:62
+msgid "Choose the height of your thumbnails. Thumbnails will be generated on the fly and cached once generated"
+msgstr "Choose the height of your thumbnails. Thumbnails will be generated on the fly and cached once generated"
+
+#: extensions/default-templates/justified/class-justified-gallery-template.php:76
+msgid "Row Height"
+msgstr "Row Height"
+
+#: includes/functions.php:1314
+#: extensions/default-templates/justified/class-justified-gallery-template.php:50
+msgid "Justified Gallery"
+msgstr "Justified Gallery"
+
+#: extensions/default-templates/simple-portfolio/class-simple-portfolio-gallery-template.php:73
+msgid "The Simple Portfolio template works best when you have <strong>captions and descriptions</strong> set for every attachment in the gallery. To change captions and descriptions, simply hover over the thumbnail above and click the \"i\" icon."
+msgstr "The Simple Portfolio template works best when you have <strong>captions and descriptions</strong> set for every attachment in the gallery. To change captions and descriptions, simply hover over the thumbnail above and click the \"i\" icon."
+
+#: extensions/default-templates/simple-portfolio/class-simple-portfolio-gallery-template.php:69
+msgid "Tip"
+msgstr "Tip"
+
+#: extensions/default-templates/simple-portfolio/class-simple-portfolio-gallery-template.php:58
+msgid "Simple Portfolio"
+msgstr "Simple Portfolio"
+
+#: extensions/default-templates/justified/class-justified-gallery-template.php:131
+#: extensions/default-templates/simple-portfolio/class-simple-portfolio-gallery-template.php:101
+msgid "Choose which lightbox you want to display images with. The lightbox will only work if you set the thumbnail link to \"Full Size Image\"."
+msgstr "Choose which lightbox you want to display images with. The lightbox will only work if you set the thumbnail link to \"Full Size Image\"."
+
+#: extensions/default-templates/justified/class-justified-gallery-template.php:126
+#: extensions/default-templates/simple-portfolio/class-simple-portfolio-gallery-template.php:96
+msgid "You can choose to link each thumbnail to the full size image, or to the image's attachment page, or you can choose to not link to anything."
+msgstr "You can choose to link each thumbnail to the full size image, or to the image's attachment page, or you can choose to not link to anything."
+
+#: extensions/default-templates/justified/class-justified-gallery-template.php:122
+#: extensions/default-templates/simple-portfolio/class-simple-portfolio-gallery-template.php:92
+msgid "Thumbnail Link"
+msgstr "Thumbnail Link"
+
+#: extensions/default-templates/justified/class-justified-gallery-template.php:107
+msgid "The spacing between your thumbnails."
+msgstr "The spacing between your thumbnails."
+
+#: extensions/default-templates/masonry/class-masonry-gallery-template.php:103
+msgid "Gutter Width"
+msgstr "Gutter Width"
+
+#: extensions/default-templates/masonry/class-masonry-gallery-template.php:69
+msgid "Choose the width of your thumbnails. Thumbnails will be generated on the fly and cached once generated"
+msgstr "Choose the width of your thumbnails. Thumbnails will be generated on the fly and cached once generated"
+
+#: includes/functions.php:1309
+#: extensions/default-templates/masonry/class-masonry-gallery-template.php:57
+msgid "Masonry Image Gallery"
+msgstr "Masonry Image Gallery"
+
+#: extensions/default-templates/default/class-default-gallery-template.php:123
+#: extensions/default-templates/simple-portfolio/class-simple-portfolio-gallery-template.php:125
+msgid "The horizontal alignment of the thumbnails inside the gallery."
+msgstr "The horizontal alignment of the thumbnails inside the gallery."
+
+#: extensions/default-templates/default/class-default-gallery-template.php:113
+msgid "25 pixels"
+msgstr "25 pixels"
+
+#: extensions/default-templates/default/class-default-gallery-template.php:112
+msgid "20 pixels"
+msgstr "20 pixels"
+
+#: extensions/default-templates/default/class-default-gallery-template.php:111
+msgid "15 pixels"
+msgstr "15 pixels"
+
+#: extensions/default-templates/default/class-default-gallery-template.php:110
+msgid "10 pixels"
+msgstr "10 pixels"
+
+#: extensions/default-templates/default/class-default-gallery-template.php:109
+msgid "5 pixels"
+msgstr "5 pixels"
+
+#: extensions/default-templates/default/class-default-gallery-template.php:103
+msgid "The spacing or gap between thumbnails in the gallery."
+msgstr "The spacing or gap between thumbnails in the gallery."
+
+#: extensions/default-templates/default/class-default-gallery-template.php:102
+msgid "Spacing"
+msgstr "Spacing"
+
+#: extensions/default-templates/masonry/class-masonry-gallery-template.php:172
+msgid "Choose which lightbox you want to display images with. The lightbox will only work if you set the thumbnail link to \"Full Size Image\""
+msgstr "Choose which lightbox you want to display images with. The lightbox will only work if you set the thumbnail link to \"Full Size Image\""
+
+#: includes/admin/class-gallery-metabox-settings.php:30
+#: extensions/albums/functions.php:123
+msgid "Gallery Settings"
+msgstr "Gallery Settings"
+
+#: includes/admin/view-extensions-popup.php:53
+msgid "Preview"
+msgstr "Preview"
+
+#: includes/class-foogallery-common-fields.php:400
+msgid "Eye"
+msgstr "Eye"
+
+#: includes/class-foogallery-common-fields.php:398
+msgid "Plus"
+msgstr "Plus"
+
+#: includes/class-foogallery-common-fields.php:397
+msgid "Zoom 3"
+msgstr "Zoom 3"
+
+#: includes/class-foogallery-common-fields.php:396
+msgid "Zoom 2"
+msgstr "Zoom 2"
+
+#: includes/class-foogallery-common-fields.php:395
+msgid "Zoom"
+msgstr "Zoom"
+
+#: includes/class-foogallery-common-fields.php:117
+#: includes/class-foogallery-common-fields.php:137
+#: includes/class-foogallery-common-fields.php:158
+#: includes/class-foogallery-common-fields.php:179
+#: includes/class-foogallery-common-fields.php:199
+#: includes/class-foogallery-common-fields.php:224
+#: includes/class-foogallery-common-fields.php:245
+#: includes/class-foogallery-common-fields.php:298
+#: includes/class-foogallery-common-fields.php:322
+#: includes/class-foogallery-common-fields.php:346
+#: includes/class-foogallery-common-fields.php:394
+#: includes/class-foogallery-common-fields.php:432
+#: includes/class-foogallery-common-fields.php:453
+#: includes/class-foogallery-paging.php:48
+#: includes/class-foogallery-paging.php:87 includes/functions.php:1119
+#: includes/admin/view-system-info.php:82
+msgid "None"
+msgstr "None"
+
+#: includes/class-foogallery-common-fields.php:299
+msgid "Colorize"
+msgstr "Colourize"
+
+#: includes/class-foogallery-common-fields.php:388
+msgid "Icon"
+msgstr "Icon"
+
+#: extensions/default-templates/default/class-default-gallery-template.php:90
+msgid "You can choose to link each thumbnail to the full size image, the image's attachment page, a custom URL, or you can choose to not link to anything."
+msgstr "You can choose to link each thumbnail to the full size image, the image's attachment page, a custom URL, or you can choose to not link to anything."
+
+#: extensions/default-templates/default/class-default-gallery-template.php:72
+#: extensions/default-templates/simple-portfolio/class-simple-portfolio-gallery-template.php:78
+msgid "Choose the size of your thumbnails."
+msgstr "Choose the size of your thumbnails."
+
+#: extensions/default-templates/thumbnail/class-thumbnail-gallery-template.php:74
+msgid "Size"
+msgstr "Size"
+
+#: includes/functions.php:1304
+#: extensions/default-templates/default/class-default-gallery-template.php:60
+msgid "Responsive Image Gallery"
+msgstr "Responsive Image Gallery"
+
+#: extensions/albums/public/class-foogallery-album-template-loader.php:91
+msgid "No album template found!"
+msgstr "No album template found!"
+
+#: extensions/albums/public/class-foogallery-album-template-loader.php:33
+msgid "Could not load the album!"
+msgstr "Could not load the album!"
+
+#: extensions/albums/functions.php:203
+msgid "High"
+msgstr "High"
+
+#: extensions/albums/functions.php:202
+msgid "More Than Normal"
+msgstr "More Than Normal"
+
+#: extensions/albums/functions.php:200
+msgid "Low"
+msgstr "Low"
+
+#: extensions/albums/functions.php:196
+msgid "The angle of the images behind the thumbnail in each image stack."
+msgstr "The angle of the images behind the thumbnail in each image stack."
+
+#: extensions/albums/functions.php:194
+msgid "Image Stack Angles"
+msgstr "Image Stack Angles"
+
+#: extensions/albums/functions.php:187
+msgid "The delay between expanding each image on a image stack."
+msgstr "The delay between expanding each image on a image stack."
+
+#: extensions/albums/functions.php:185
+msgid "Expand Delay"
+msgstr "Expand Delay"
+
+#: extensions/albums/functions.php:178
+msgid "The spacing between each image stack."
+msgstr "The spacing between each image stack."
+
+#: extensions/albums/functions.php:176
+msgid "Thumbnail Gutter"
+msgstr "Thumbnail Gutter"
+
+#: extensions/albums/functions.php:170
+msgid "Random Angles"
+msgstr "Random Angles"
+
+#: includes/class-foogallery-common-fields.php:246
+#: extensions/albums/functions.php:169 extensions/albums/functions.php:201
+msgid "Normal"
+msgstr "Normal"
+
+#: extensions/albums/functions.php:165
+msgid "Choose how thumbnails in each gallery are shown when clicking an image stack."
+msgstr "Choose how thumbnails in each gallery are shown when clicking an image stack."
+
+#: extensions/albums/functions.php:163
+msgid "Thumbnail Rotation"
+msgstr "Thumbnail Rotation"
+
+#: extensions/albums/functions.php:151
+msgid "Choose the size of your image stack thumbnails."
+msgstr "Choose the size of your image stack thumbnails."
+
+#: extensions/albums/functions.php:144
+msgid "Choose which lightbox you want to use to display images."
+msgstr "Choose which lightbox you want to use to display images."
+
+#: includes/admin/view-extensions-build-your-own.php:123
+#: includes/admin/class-pro-promotion.php:391
+#: extensions/default-templates/masonry/class-masonry-gallery-template.php:171
+#: extensions/default-templates/default/class-default-gallery-template.php:94
+#: extensions/default-templates/image-viewer/class-image-viewer-gallery-template.php:111
+#: extensions/default-templates/thumbnail/class-thumbnail-gallery-template.php:117
+#: extensions/default-templates/justified/class-justified-gallery-template.php:130
+#: extensions/default-templates/simple-portfolio/class-simple-portfolio-gallery-template.php:100
+#: extensions/albums/functions.php:143
+msgid "Lightbox"
+msgstr "Lightbox"
+
+#: extensions/albums/functions.php:139
+msgid "All-In-One Stack Album"
+msgstr "All-In-One Stack Album"
+
+#: extensions/albums/functions.php:114
+msgid "Don't Remember"
+msgstr "Don't Remember"
+
+#: extensions/albums/functions.php:110
+msgid "When a gallery is loaded in your album, the page is refreshed which means the scroll position will be lost ."
+msgstr "When a gallery is loaded in your album, the page is refreshed which means the scroll position will be lost ."
+
+#: extensions/albums/functions.php:109 extensions/albums/functions.php:115
+msgid "Remember Scroll Position"
+msgstr "Remember Scroll Position"
+
+#: extensions/albums/functions.php:105
+msgid "If you are getting 404's when clicking on the album galleries, then change to the querystring format. To force your rewrite rules to flush, simply deactivate and activate the albums extension again."
+msgstr "If you are getting 404's when clicking on the album galleries, then change to the querystring format. To force your rewrite rules to flush, simply deactivate and activate the albums extension again."
+
+#: extensions/albums/functions.php:101
+msgid "Please Note"
+msgstr "Please Note"
+
+#: extensions/albums/functions.php:95
+msgid "Querystring e.g. "
+msgstr "Querystring e.g. "
+
+#: extensions/albums/functions.php:94
+msgid "Pretty, e.g. "
+msgstr "Pretty, e.g. "
+
+#: extensions/albums/functions.php:77 extensions/albums/functions.php:91
+#: extensions/albums/functions.php:102 extensions/albums/functions.php:111
+msgid "URL Settings"
+msgstr "URL Settings"
+
+#: extensions/albums/functions.php:90
+msgid "The format of the URL for each individual gallery in the album."
+msgstr "The format of the URL for each individual gallery in the album."
+
+#: extensions/albums/functions.php:89
+msgid "Gallery Link Format"
+msgstr "Gallery Link Format"
+
+#: extensions/default-templates/default/class-default-gallery-template.php:131
+#: extensions/default-templates/image-viewer/class-image-viewer-gallery-template.php:128
+#: extensions/default-templates/justified/class-justified-gallery-template.php:148
+#: extensions/default-templates/simple-portfolio/class-simple-portfolio-gallery-template.php:133
+#: extensions/albums/functions.php:71
+msgid "Right"
+msgstr "Right"
+
+#: extensions/default-templates/masonry/class-masonry-gallery-template.php:151
+#: extensions/default-templates/default/class-default-gallery-template.php:130
+#: extensions/default-templates/image-viewer/class-image-viewer-gallery-template.php:127
+#: extensions/default-templates/justified/class-justified-gallery-template.php:149
+#: extensions/default-templates/simple-portfolio/class-simple-portfolio-gallery-template.php:132
+#: extensions/albums/functions.php:70
+msgid "Center"
+msgstr "Centre"
+
+#: extensions/default-templates/masonry/class-masonry-gallery-template.php:150
+#: extensions/default-templates/default/class-default-gallery-template.php:129
+#: extensions/default-templates/image-viewer/class-image-viewer-gallery-template.php:126
+#: extensions/default-templates/justified/class-justified-gallery-template.php:150
+#: extensions/default-templates/simple-portfolio/class-simple-portfolio-gallery-template.php:131
+#: extensions/albums/functions.php:69
+msgid "Left"
+msgstr "Left"
+
+#: extensions/albums/functions.php:64
+msgid "The horizontal alignment of the gallery thumbnails inside the album."
+msgstr "The horizontal alignment of the gallery thumbnails inside the album."
+
+#: extensions/default-templates/masonry/class-masonry-gallery-template.php:144
+#: extensions/default-templates/default/class-default-gallery-template.php:122
+#: extensions/default-templates/image-viewer/class-image-viewer-gallery-template.php:119
+#: extensions/default-templates/simple-portfolio/class-simple-portfolio-gallery-template.php:124
+#: extensions/albums/functions.php:63
+msgid "Alignment"
+msgstr "Alignment"
+
+#: extensions/albums/functions.php:56
+msgid "The color of the title text that overlays the album thumbnails"
+msgstr "The colour of the title text that overlays the album thumbnails"
+
+#: extensions/albums/functions.php:55
+msgid "Title Text Color"
+msgstr "Title Text Colour"
+
+#: extensions/albums/functions.php:48
+msgid "The color of the title that overlays the album thumbnails"
+msgstr "The colour of the title that overlays the album thumbnails"
+
+#: extensions/albums/functions.php:47
+msgid "Title Background Color"
+msgstr "Title Background Colour"
+
+#: extensions/albums/functions.php:37 extensions/albums/functions.php:49
+#: extensions/albums/functions.php:57 extensions/albums/functions.php:65
+#: extensions/albums/functions.php:152 extensions/albums/functions.php:164
+#: extensions/albums/functions.php:177 extensions/albums/functions.php:186
+#: extensions/albums/functions.php:195
+msgid "Thumbnail Settings"
+msgstr "Thumbnail Settings"
+
+#: extensions/albums/functions.php:36
+msgid "Choose the size of your gallery thumbnails."
+msgstr "Choose the size of your gallery thumbnails."
+
+#: extensions/default-templates/default/class-default-gallery-template.php:71
+#: extensions/default-templates/simple-portfolio/class-simple-portfolio-gallery-template.php:77
+#: extensions/albums/functions.php:35 extensions/albums/functions.php:150
+msgid "Thumbnail Size"
+msgstr "Thumbnail Size"
+
+#: extensions/albums/functions.php:31
+msgid "Responsive Album Layout"
+msgstr "Responsive Album Layout"
+
+#: extensions/albums/class-posttypes.php:101
+msgid "%s Album restored from the Trash."
+msgid_plural "%s Albums restored from the Trash."
+msgstr[0] "%s Album restored from the Trash."
+msgstr[1] "%s Albums restored from the Trash."
+
+#: extensions/albums/class-posttypes.php:100
+msgid "%s Album moved to the Trash."
+msgid_plural "%s Albums moved to the Trash."
+msgstr[0] "%s Album moved to the Trash."
+msgstr[1] "%s Albums moved to the Trash."
+
+#: extensions/albums/class-posttypes.php:99
+msgid "%s Album permanently deleted."
+msgid_plural "%s Albums permanently deleted."
+msgstr[0] "%s Album permanently deleted."
+msgstr[1] "%s Albums permanently deleted."
+
+#: extensions/albums/class-posttypes.php:98
+msgid "%s Album not updated, somebody is editing it."
+msgid_plural "%s Albums not updated, somebody is editing them."
+msgstr[0] "%s Album not updated, somebody is editing it."
+msgstr[1] "%s Albums not updated, somebody is editing them."
+
+#: extensions/albums/class-posttypes.php:97
+msgid "%s Album updated."
+msgid_plural "%s Albums updated."
+msgstr[0] "%s Album updated."
+msgstr[1] "%s Albums updated."
+
+#: extensions/albums/class-posttypes.php:77
+msgid "Album draft updated."
+msgstr "Album draft updated."
+
+#: includes/class-posttypes.php:77 extensions/albums/class-posttypes.php:76
+msgid "M j, Y @ G:i"
+msgstr "M j, Y @ G:i"
+
+#: extensions/albums/class-posttypes.php:76
+msgid "Album scheduled for: <strong>%1$s</strong>."
+msgstr "Album scheduled for: <strong>%1$s</strong>."
+
+#: extensions/albums/class-posttypes.php:75
+msgid "Album submitted."
+msgstr "Album submitted."
+
+#: extensions/albums/class-posttypes.php:74
+msgid "Album saved."
+msgstr "Album saved."
+
+#: extensions/albums/class-posttypes.php:73
+msgid "Album published."
+msgstr "Album published."
+
+#: extensions/albums/class-posttypes.php:72
+msgid "Album restored to revision from %s."
+msgstr "Album restored to revision from %s."
+
+#: extensions/albums/class-posttypes.php:70
+msgid "Album custom field deleted."
+msgstr "Album custom field deleted."
+
+#: extensions/albums/class-posttypes.php:69
+msgid "Album custom field updated."
+msgstr "Album custom field updated."
+
+#: extensions/albums/class-posttypes.php:68
+#: extensions/albums/class-posttypes.php:71
+msgid "Album updated."
+msgstr "Album updated."
+
+#: extensions/albums/class-posttypes.php:35
+msgid "No Albums found in Trash"
+msgstr "No Albums found in Trash"
+
+#: extensions/albums/class-posttypes.php:34
+msgid "No Albums found"
+msgstr "No Albums found"
+
+#: extensions/albums/class-posttypes.php:33
+msgid "Search Albums"
+msgstr "Search Albums"
+
+#: extensions/albums/class-posttypes.php:32
+msgid "View Album"
+msgstr "View Album"
+
+#: extensions/albums/class-posttypes.php:31
+msgid "New Album"
+msgstr "New Album"
+
+#: extensions/albums/class-posttypes.php:30
+msgid "Edit Album"
+msgstr "Edit Album"
+
+#: extensions/albums/class-posttypes.php:29
+msgid "Add New Album"
+msgstr "Add New Album"
+
+#: extensions/albums/class-posttypes.php:28
+msgid "Add Album"
+msgstr "Add Album"
+
+#: extensions/albums/class-posttypes.php:27
+msgid "Album"
+msgstr "Album"
+
+#: includes/functions.php:1374 extensions/albums/class-posttypes.php:26
+#: extensions/albums/class-posttypes.php:36
+#: extensions/albums/class-posttypes.php:37
+#: extensions/albums/class-albums-extension.php:99
+#: extensions/nextgen-importer/view-importer.php:295
+msgid "Albums"
+msgstr "Albums"
+
+#: extensions/albums/class-foogallery-album.php:209
+msgid "%s galleries"
+msgstr "%s galleries"
+
+#: extensions/albums/class-foogallery-album.php:207
+msgid "1 gallery"
+msgstr "1 gallery"
+
+#: extensions/albums/class-foogallery-album.php:205
+msgid "No galleries"
+msgstr "No galleries"
+
+#: extensions/albums/admin/class-metaboxes.php:361
+msgid "Add any custom CSS to target this specific album. For example %s"
+msgstr "Add any custom CSS to target this specific album. For example %s"
+
+#: extensions/albums/admin/class-metaboxes.php:305
+msgid "The album template that will be used when the album is output to the frontend."
+msgstr "The album template that will be used when the album is output to the frontend."
+
+#: extensions/albums/admin/class-metaboxes.php:293
+msgid "Album Template"
+msgstr "Album Template"
+
+#: extensions/albums/admin/class-metaboxes.php:266
+msgid "Change the way galleries are sorted within your album. By default, they are sorted in the order you see them."
+msgstr "Change the way galleries are sorted within your album. By default, they are sorted in the order you see them."
+
+#: extensions/albums/admin/class-metaboxes.php:239
+msgid "Paste the above shortcode into a post or page to show the album."
+msgstr "Paste the above shortcode into a post or page to show the album."
+
+#: includes/class-foogallery.php:385
+#: includes/admin/class-gallery-editor.php:367
+#: extensions/albums/album-default.php:68
+msgid "%s #%s"
+msgstr "%s #%s"
+
+#: extensions/albums/admin/class-metaboxes.php:72
+msgid "Album Sorting"
+msgstr "Album Sorting"
+
+#: extensions/albums/admin/class-metaboxes.php:63
+msgid "Album Shortcode"
+msgstr "Album Shortcode"
+
+#: includes/admin/class-gallery-metaboxes.php:61
+#: extensions/albums/admin/class-metaboxes.php:54
+msgid "Custom CSS"
+msgstr "Custom CSS"
+
+#: includes/admin/class-admin.php:81 includes/admin/view-system-info.php:93
+#: includes/admin/class-menu.php:30
+#: includes/foopluginbase/classes/class-foo-plugin-base.php:286
+#: extensions/albums/admin/class-metaboxes.php:45
+msgid "Settings"
+msgstr "Settings"
+
+#: includes/admin/class-gallery-metaboxes.php:223
+#: includes/admin/class-columns.php:101
+#: extensions/albums/admin/class-metaboxes.php:252
+#: extensions/albums/admin/class-columns.php:62
+msgid "Shortcode copied to clipboard :)"
+msgstr "Shortcode copied to clipboard :)"
+
+#: includes/admin/class-columns.php:26
+#: extensions/albums/admin/class-columns.php:21
+msgid "Shortcode"
+msgstr "Shortcode"
+
+#: includes/class-posttypes.php:26 includes/class-posttypes.php:37
+#: extensions/albums/admin/class-columns.php:20
+#: extensions/nextgen-importer/view-importer.php:294
+msgid "Galleries"
+msgstr "Galleries"
+
+#: includes/admin/class-columns.php:24
+#: extensions/albums/admin/class-columns.php:19
+msgid "Template"
+msgstr "Template"
