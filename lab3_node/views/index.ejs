@@ -1,0 +1,61 @@
+<%- include('header.ejs') -%>
+
+<body>
+<h1>Welcome to Node Firestore Realty!</h1>
+
+<h2>Houses for Sale</h2>
+
+<ul class="houses">
+  <% for(var i=0; i<houses.length; i++) { %>
+    <li class="house">
+      <span>Address: <%= houses[i].address %></span>
+      <span>Price: <%= houses[i].price %></span>
+      <span>Size: <%= houses[i].size %></span>
+      <span>Size: <%= houses[i].description %></span>
+      <span>Size: <%= houses[i].photos%></span>
+      <span>Size: <%= houses[i].location%></span>
+    </li>
+  <% } %>
+</ul>
+
+<h2>Add a new House!</h2>
+<form action="/add" method="POST">
+  <input type="text" placeholder="address" name="address">
+  <input type="number" placeholder="price" name="price">
+  <input type="number" placeholder="size" name="size">
+  <input type="text" placeholder="description" name="description">
+  <input type="text" placeholder="photos" name="photos">
+  <input type="number" placeholder="location%" name="location%">
+  <button type="submit">Submit</button>
+</form>
+</body>
+</html>
+
+
+
+<!--CSS-->
+<style>
+	h1 { 
+        font-weight: bold; 
+        font-size: 25px;
+        color:blue;
+        border: 15px; 
+        padding: 15px;
+        text-align: left; 
+        background-color:#add8e6;
+        opacity: 0.6;        
+        box-shadow: 10px 15px 20px #828282;    
+      }  
+      h2 { 
+        font-weight: bold; 
+        font-size: 20px;
+        color:blue;
+        border: 15px; 
+        padding: 15px;
+        text-align: left; 
+        opacity: 0.6;        
+        
+      }  
+      
+	
+  </style>

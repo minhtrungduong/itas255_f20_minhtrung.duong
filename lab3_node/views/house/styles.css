@@ -1,0 +1,75 @@
+
+
+/* Reset CSS */
+	body {
+	  color: #333;
+	  font-family: Arial, sans-serif;
+	}
+
+	.form {
+	  padding: 20px 10px;
+	  width: 800px;
+	  border: solid 1px #333;
+	  background-color: #add8e6;
+	}
+
+	.input-group {
+	  margin-bottom: 10px;
+	}
+
+	.form-selectable-group {
+	  display: inline-block;
+	}
+
+	.form-label {
+	  padding-right: 10px;
+	  margin: 0;
+	  margin-bottom: 10px;
+	  width: 200px;
+	  display: inline-block;
+	  text-align: right;
+	}
+
+	.form-input {
+	  display: inline-block;
+	  padding: 3px;
+	  margin-bottom: 15px;
+	  width: 200px;
+	  border: solid 1px #a9a9a9;
+	}
+
+	.form-label ~ .form-selectable-group,
+	.form-label ~ .form-input {
+	  vertical-align: top;
+	}
+
+	.form-button {
+	  padding: 2px;
+	  width: 140px;
+	  -webkit-appearance: none;
+	}
+
+	h1 { 
+        font-weight: bold; 
+        font-size: 20px;
+        color:blue;
+        border-radius: 15px; 
+        padding: 15px;
+        text-align: center; 
+        background-color:#add8e6;
+        opacity: 0.6;
+        border: 2px
+        solid black;    
+        box-shadow: 10px 15px 20px #828282;    
+	  }  
+
+	h2 { 
+        font-weight: bold; 
+        font-size: 20px;
+        color:blue;
+        border: 15px; 
+        padding: 15px;
+        text-align: left; 
+        opacity: 0.6;        
+        
+      }        

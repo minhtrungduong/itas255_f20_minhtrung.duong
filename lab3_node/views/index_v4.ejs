@@ -1,0 +1,93 @@
+<head>    
+    <link rel ="stylesheet" href="styles.css"/> 
+</head>
+
+
+<!-- This is the main view file rendered from server_v4.js -->
+<!-- Note server_v4.js passes in an array called 'houses' -->
+
+<%- include('header.ejs') -%> 
+
+<h2>Houses for Sale </h2>
+
+<table class="table">
+  <thead>
+  <tr>
+    <th>Address</th>
+    <th>Price</th>
+    <th>Size</th>
+    <th>Description</th>
+    <th>Photos</th>
+    <th>Actions</th>
+  </tr>
+  </thead>
+  <% for(var i=0; i<houses.length; i++) {%>
+    <tr class="house">
+      <td><%= houses[i].address %></td>
+      <td><%= houses[i].price %></td>
+      <td><%= houses[i].size %></td>
+      <td style="color:red"><%= houses[i].description %></td>
+      <td><%
+        if (	houses[i].photos == null || 
+		houses[i].photos.length < 0 || 
+		typeof houses[i].photos[0] === 'undefined') {%>
+          <img src="/default.jpg" width=100px alt="not image set">
+        <% } else { %>
+          <img src="/<%= houses[i].photos[0] %>" width=100px alt="House photo">
+        <%
+        }
+        %>
+      </td>
+
+      <!-- croftd - this is used for the update operation -->
+      <td><a href="/house/edit/<%= houses[i].id %>">Edit</a></td>
+      <td><a href="/house/delete/<%= houses[i].id %>">Delete</a></td>
+      <!-- example making an asynchrous call to a route - see public/main.js -->
+      <!--
+      <td>
+        <button id="delete" value="<%= houses[i].id %>">Delete</button>
+      </td>
+      -->
+    </tr>
+  <% } %>
+</table>
+
+
+
+
+<div>
+</div>
+
+<!-- Note express will resolve the path to main.js since we set 
+     app.use(express.static('public')) in server.js
+ -->
+<button id="test" value="42">Test Fetch!</button>
+</br>
+
+
+
+<!--CSS-->
+<style>
+	h1 { 
+        font-weight: bold; 
+        font-size: 25px;
+        color:blue;
+        border: 15px; 
+        padding: 15px;
+        text-align: left; 
+        background-color:#add8e6;
+        opacity: 0.6;        
+        box-shadow: 10px 15px 20px #828282;    
+      }  
+      h2 { 
+        font-weight: bold; 
+        font-size: 20px;
+        color:blue;
+        border: 15px; 
+        padding: 15px;
+        text-align: left; 
+        opacity: 0.6;        
+        
+      }        
+	
+  </style>
