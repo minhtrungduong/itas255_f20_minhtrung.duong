@@ -136,7 +136,7 @@ app.post('/house/add', upload.array('photos', 12), async function(req, res) {
    //  location: new admin.firestore.GeoPoint(userLat, userLong)
    // set the data for this Document
 
-   let  newHouse = await db.collection('houses').add({
+   const cat = await db.collection('houses').add({
     address: userAddress,
     price: userPrice,
     size: userSize,
