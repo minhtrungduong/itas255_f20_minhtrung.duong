@@ -1,4 +1,6 @@
-
+<head>    
+    <link rel ="stylesheet" href="styles.css"/> 
+</head>
 
 
 <!-- This is the main view file rendered from server_v4.js -->
@@ -50,25 +52,17 @@
   <% } %>
 </table>
 
+
+
+
 <div>
 </div>
-
-
-
-
 
 <!-- Note express will resolve the path to main.js since we set 
      app.use(express.static('public')) in server.js
  -->
 <button id="test" value="42">Test Fetch!</button>
- <!-- include any JavaScript scripts we want to send back for use on the client side -->
-<script src="main.js"></script>
-
-</br> </br> </br>
-
-<button id="map" >Map</button>
- <!-- loading the map  button -->
-<script src="map.js"></script>
+</br>
 
 
 
@@ -94,7 +88,6 @@
         text-align: left; 
         opacity: 0.6;        
         
-      }  
-      
+      }        
 	
   </style>
