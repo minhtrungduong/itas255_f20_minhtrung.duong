@@ -1,85 +1,25 @@
-<body>    
-    <div id="container"> 
-      <div id="left">          
-        <script
-          src="https://code.jquery.com/jquery-3.4.1.min.js"
-          integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo="
-          crossorigin="anonymous">
-        </script>
-        <script>           
-          var map;
-          var myMarkers = [];
-          function initMap() {
-            var nanaimo = {lat: 49.159700, lng: -123.907750};
-            map = new google.maps.Map(document.getElementById('map'), {
-              zoom: 13,
-              center: nanaimo
-            });
-          }
-         
-          $(document).ready(function () {
-          console.log("Document ready!");
-          $('#reset').click(function () {
-            // remove any previous markers
-            clearMarkers();
-         
-            var data = {};
-            $.getJSON(url, data, function (data, status) {
-              console.log("Back from the reset");
-              var showData = $('#show-data');
-              showData.text("Session Reset");
-            });
-          });
-          $('#get-data').click(function () {
-          clearMarkers();
-          var showData = $('#show-data');
-          showData.empty();
+<%- include('../header.ejs') -%>
+<head> 
+  <style>
+    #map {
+      height: 500;
+      width: 100%;
+    }
+  </style>
+
+</head>
+
+<body>
+  <div id="map"></div>
+  <script>
+    function initMap() {
+      let nanaimo = {lat: 49.164242, long: -123.942598};
+      var map = new google.maps.Map(document.getElementById('map'), {zoom: 13, center: nanaimo})
+    };
+    <% for(var i=0; i<houses.length; i++) { %>
+      console.log("House lat:" + <%= houses[i].location.latitude %> );
+    <% } %>
     
-        var data = {
-          q: 'search',
-          text: 'not implemented yet!'
-        };
-        console.log("Sending request for House marker list...");
-        try {
-          $.getJSON(url, data, function (data, status) {
-          console.log("Ajax call completed, status is: " + status);
-          // show the  message from the data
-          showData.text(data.message);
-          //console.log("Setting up markers");
-          data.markers.forEach(function (marker) {
-          //console.log("Creating marker on map");
-          var myLatlng = new google.maps.LatLng(marker.lat, marker.long);
-          //var image = marker.image;
-          var myIcon = new google.maps.MarkerImage(("images/" + marker.image), null, null, null, new google.maps.Size(40,40));
-          var mmarker = new google.maps.Marker({
-          position: myLatlng,
-          map: map,
-          title:marker.name,
-          icon: myIcon
-        });
-        // add this marker to our array of markers
-        myMarkers.push(mmarker);
-      });
-    })
-    } catch (error) {
-      console.log("Error requesting JSON data: " + error);
-      }
-    });
-  });
+    let marker = new google.maps.Marker({ position: {lat: <%=houses[i].location.latitude %>, long: <%=houses[i].location.longtitude %> } })
   </script>
-         
-              
-  <body>
-    <div id="map" style="width: auto; height: 500px"></div>         
-    <br>          
-    <div id="show-data"></div>
-    <!-- NOTE this google map is using an ITAS Google Map key! Do not use for any of your private applications hosted live anywhere-->
-    <script async defer
-      src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCl6Gye3-5vnXM-5tbJvwkhOo5_POyd8CM&callback=initMap">
-    </script>
-  </body>
-  </div> 
-  </div>
-    
-  </body>
-  
+</body>
